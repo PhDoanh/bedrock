@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 6: Người bạn lâu ngày không gặp"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
-  - N5-JLPT
   - language
+  - N5
+  - elementary
 ---
 # ながい　あいだ　あって　いない　ともだち
 > [!tip]- Mẹo đọc truyện
@@ -17,53 +18,33 @@ tags:
 
 > [!content]- **ゾアイン**さん: あ、ダットさん。ひさしぶり！
 > **Doanh**: A, Đạt. Lâu rồi không gặp!
-> 
-> %% audio %%
 
 > [!content]- **ダット**さん:  [[#～か|ゾアインさんですか]]。こんにちわ！
 > **Đạt**: Doanh đấy phải không? Chào nhé!
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: いま　ひま　ですか？
 > **Doanh**: Giờ ông rảnh không?
-> 
-> %% audio %%
 
 > [!content]- **ダット**さん: [[#なん、なに|なに]]？
 > **Đạt**: Chuyện gì thế? 
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: いっしょ に 　[[#V ませんか|いきませんか]]？
 > **Doanh**: Đi cùng tôi không?
-> 
-> %% audio %%
 
 > [!content]- **ダット**さん: [[#なにを しますか|なにを　しますか]]。
 > **Đạt**: Để làm gì?
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: コーヒー を　のんで、おしゃべりする　だけですよ！
 > **Doanh**: Chỉ uống cà phê và tâm sự thôi mà! 
-> 
-> %% audio %%
 
 > [!content]- **ダット**さん: どこ[[#N (địa điểm) で V|で]]　[[#N を V|コーヒー を　のみますか]]？
 > **Đạt**: Uống chỗ nào?
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: わたしの　うちで！
 > **Doanh**: Ở nhà tôi! 
-> 
-> %% audio %%
 
 > [!content]- **ダット**さん: いいですよ。[[#V ましょう|いきましょう]]！
 > **Đạt**: Được đấy. Đi thôi!
-> 
-> %% audio %%
 
 # N を V
 **Cách dùng**: diễn tả hành động của một động từ xảy ra đối với một danh từ
@@ -195,11 +176,6 @@ tags:
 > ...Việt Nam? Sướng nhỉ!
 > 
 > ![[Screen Recording 2024-09-16 211629.mp3]]
-
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
 
 1. **Ngoại động từ**: loại động từ cần có một đối tượng (tân ngữ) để hoàn thành nghĩa của câu. [[#^80bf2a|↩️]] ^1d3d3e
 2. **Trợ số từ**: đơn vị của từ chỉ số như: cái, chiếc, miếng, giờ, phút, giây, ... [[#^64169b|↩️]] ^f8a08e

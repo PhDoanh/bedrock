@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 23:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # V (từ điển) / Vない / Aい / Aな / Nの + とき、～
 **Cách dùng**: **とき** biểu thị thời điểm hình thành trạng thái hay động tác, hiện tượng ở mệnh đề chính nối tiếp phía sau
 
@@ -61,7 +61,3 @@ tags:
 |   2   | みち**を**　わたります。        | Tôi qua đường.          |
 |   3   | こうさてん**を**　みぎへ　まがります。 | Tôi rẽ phải ở ngã tư.   |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 3: Tìm bạn"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
-  - N5-JLPT
   - language
+  - N5
+  - elementary
 ---
 # ともだちを　さがす
 > [!tip]- Mẹo đọc truyện
@@ -17,18 +18,12 @@ tags:
 
 > [!content]- **タン**さん: もう　きました、キエンさん。[[#どこ／どちら|どちら]]に　いますか。
 > **Tấn**: Mình đến rồi, Kiên! Bạn đang ở chỗ nào vậy?
-> 
-> %% audio %%
 
 > [!content]- **キエン**さん: [[#N は địa điểm です|わたしは]]　[[#ここ／そこ／あそこ／こちら／そちら／あちら|こちら]]の　ほうですよ。
 > **Kiên**: Mình ở phía này nè!
-> 
-> %% audio %%
 
 > [!content]- **タン**さん: あ！すぐに　いきます。
 > **Tấn**: A (thấy rồi)! Mình tới ngay!
-> 
-> %% audio %%
 
 # ここ／そこ／あそこ／こちら／そちら／あちら
 **Ý nghĩa**: ở ==đây/đó/kia==, phía ==này/đó/kia==
@@ -130,11 +125,6 @@ tags:
 > Bạn đến từ nước nào? (lịch sự)
 > 
 > ![[Screen Recording 2024-09-15 120949.mp3]]
-
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
 
 1. **Đại từ chỉ thị**: loại đại từ được sử dụng để chỉ định hoặc thay thế cho một danh từ, cụ thể hóa vị trí hoặc tính chất của **sự vật / hiện tượng / con người** mà người nói đang đề cập đến [[#^a2cc4d|↩︎]] ^861d35
 2. **Ngôi thứ 3**: là đại từ dùng để chỉ một hoặc nhiều người, sự vật, hoặc sự việc không tham gia trực tiếp vào cuộc hội thoại, tức là không phải người nói (ngôi thứ nhất) hay người nghe (ngôi thứ hai). [[#^ccd7f4|↩︎]] ^f0bfc1

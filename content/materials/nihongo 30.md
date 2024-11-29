@@ -1,6 +1,6 @@
 ---
-draft: false
-status: Backlog
+draft: true
+status: Done
 title: "Nhật ngữ 30: Bài tập vẫn chưa xong"
 description:
 author: PhDoanh
@@ -9,18 +9,13 @@ tags:
   - japanese
   - grammar
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 30
 cssclasses:
   - img
 ---
-%% 
-LƯU Ý KHI CHỈNH SỬA:
-- thay thế các thông tin mẫu ở giữa 2 dấu 
-- xóa phần "Lưu ý" nếu mẫu ngữ pháp đó không cần
-- nhớ loại bỏ hết kí tự  
-%%
-
 # まだしゅくだい
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
@@ -28,28 +23,18 @@ LƯU Ý KHI CHỈNH SỬA:
 
 > [!content]- **キエン**さん: ホアンさん、まだ　しゅくだいを　[[#V て あります|して　ありますか]]？
 > **Kiên**: Bài tập đã làm xong chưa Hoàng?
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **ホアン**さん: [[#まだ + câu khẳng định|まだ]]　やって　あるよ。でも、むずかしいところが　のこって　います。
 > **Hoàng**: Mình vẫn còn đang làm. Nhưng còn vài chỗ khó (không biết làm).
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **キエン**さん: そうか。じゃあ、あとで　しゅくだいを　[[#V て おきます|みて　おきますよ]]。
 > **Kiên**: Vậy à. Thế để lát nữa mình xem bài cho nhé.
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **ホアン**さん: ほんとう？キエンは　やさしいともだちだね。
 > **Hoàng**: Thật sao? Kiên đúng là người bạn tốt bụng.
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **キエン**さん: いいえ、キエンだけ　じゃなく、ヒエウさん[[#とか|とか]]、ビンは　てつだい[[#Trợ từ cách + も|にも]]　きますよ。
 > **Kiên**: Không chỉ Kiên đâu, Hiếu và Bình cũng sẽ đến giúp nữa.
-> 
-> %% file_âm_thanh %%
 
 # V て　あります
 **Ý nghĩa**: dùng để diễn tả ==trạng thái== của sự vật, là kết quả của ==hành động có chủ ý== do con người gây ra
@@ -164,12 +149,6 @@ LƯU Ý KHI CHỈNH SỬA:
 
 > [!info]- Lưu ý
 > **も** không thay đổi nghĩa của trợ từ, mà chỉ làm tăng cường mức độ của ý nghĩa đó.
-
-
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
 
 1. **Trợ từ cách**: dùng để chỉ rõ cách thức, phương tiện, đích đến, mục đích, hay quan hệ của các thành phần trong câu [[#^7e5a62|↩️]] ^81ee7c
 

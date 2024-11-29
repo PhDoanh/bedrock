@@ -4,22 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f79017aafb68751b",
+        "id": "012955c72049049f",
         "type": "tabs",
         "children": [
           {
-            "id": "4560fa1fc69ef784",
+            "id": "9db100456bd22ecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/ps 2.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "1321a1eaf112cb21",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "e27435894532fd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/advanced table.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "advanced table"
+            }
+          },
+          {
+            "id": "0538d58de55bee9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +91,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lower-intermediate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materials/ps 2.md",
+                "file": "materials/nihongo 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nihongo 35"
             }
           },
           {
@@ -102,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materials/ps 2.md",
+                "file": "materials/nihongo 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nihongo 35"
             }
           },
           {
@@ -116,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "materials/ps 2.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -142,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -150,16 +207,17 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +234,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4560fa1fc69ef784",
+  "active": "68ed565b86c2f943",
   "lastOpenFiles": [
-    "materials/ps 2.md",
+    "materials/nihongo 42.md",
+    "materials/nihongo 40.md",
+    "materials/nihongo 41.md",
+    "materials/nihongo 39.md",
+    "materials/nihongo 38.md",
+    "materials/nihongo 37.md",
+    "materials/nihongo 36.md",
+    "materials/nihongo 35.md",
     "materials/nihongo 34.md",
     "materials/nihongo 33.md",
     "materials/nihongo 32.md",
@@ -189,40 +254,33 @@
     "materials/nihongo 27.md",
     "materials/nihongo 26.md",
     "materials/nihongo 25.md",
-    "materials/nihongo 24.md",
-    "materials/nihongo 23.md",
-    "materials/nihongo 22.md",
-    "materials/nihongo 21.md",
+    "materials/nihongo 1.md",
+    "templates/advanced table.md",
+    "draft.md",
     "materials/nihongo 20.md",
-    "materials/nihongo 19.md",
-    "materials/nihongo 18.md",
-    "materials/nihongo 17.md",
-    "materials/nihongo 16.md",
-    "materials/nihongo 15.md",
-    "materials/nihongo 14.md",
-    "materials/nihongo 13.md",
-    "materials/nihongo 12.md",
-    "materials/nihongo 11.md",
+    "materials/nihongo 23.md",
+    "materials/nihongo 9.md",
     "materials/nihongo 10.md",
-    "images/Pasted image 20241009065332.png",
-    "Pasted image 20241009065329.png",
-    "images/Screen Recording 2024-10-08 080902.mp3",
-    "images/Screen Recording 2024-10-08 080835.mp3",
-    "images/Screen Recording 2024-10-08 081125.mp3",
-    "images/Screen Recording 2024-10-08 081103.mp3",
-    "images/Screen Recording 2024-10-08 081044.mp3",
-    "images/Screen Recording 2024-10-08 081024.mp3",
-    "images/Screen Recording 2024-10-08 081005.mp3",
-    "images/Screen Recording 2024-10-08 080944.mp3",
-    "images/Screen Recording 2024-10-08 080923.mp3",
-    "images/Pasted image 20241004155630.png",
-    "images/Pasted image 20241004155546.png",
-    "images/Pasted image 20241004133859.png",
-    "images/Pasted image 20241003161945.png",
-    "images/Pasted image 20241003160502.png",
-    "images/Pasted image 20241003161652.png",
-    "Pasted image 20241003161438.png",
-    "images/Pasted image 20241003160149.png",
-    "images/Screen Recording 2024-10-01 075840.mp3"
+    "materials/nihongo 11.md",
+    "images/Screen Recording 2024-11-29 070305.mp3",
+    "images/Screen Recording 2024-11-29 070246.mp3",
+    "images/Screen Recording 2024-11-29 070224.mp3",
+    "images/Screen Recording 2024-11-29 070201.mp3",
+    "images/Screen Recording 2024-11-29 070136.mp3",
+    "images/Screen Recording 2024-11-29 070112.mp3",
+    "images/Screen Recording 2024-11-29 070044.mp3",
+    "images/Screen Recording 2024-11-29 070010.mp3",
+    "images/Screen Recording 2024-11-22 074731.mp3",
+    "images/Screen Recording 2024-11-22 074708.mp3",
+    "images/Pasted image 20241011073059.png",
+    "images/Pasted image 20241011073046.png",
+    "images/Pasted image 20241011073017.png",
+    "Pasted image 20241010195310.png",
+    "Pasted image 20241011072031.png",
+    "Pasted image 20241010212206.png",
+    "Pasted image 20241010212149.png",
+    "Pasted image 20241010211200.png",
+    "Pasted image 20241010211137.png",
+    "Pasted image 20241010211114.png"
   ]
 }

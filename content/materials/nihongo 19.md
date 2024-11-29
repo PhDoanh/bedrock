@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 19:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Thể た của động từ
 Cách chia thể た giống với [[nihongo 14#Thể て của động từ|て]]
 
@@ -41,7 +41,3 @@ Cách chia thể た giống với [[nihongo 14#Thể て của động từ|て
 |   3   | ２５さいに　なります。 | sang tuổi 25.     |
 |   4   | いしゃに　なります     | trở thành bác sĩ. |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

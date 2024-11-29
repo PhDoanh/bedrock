@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 20:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -7,10 +7,10 @@ draft: true
 tags:
   - japanese
   - grammar
-  - N5-JLPT
   - language
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Thể lịch sự và thể thông thường
 **Cách dùng**:
 - **Khi viết**: thư từ được viết bằng thể lịch sự. Luận văn, báo cáo, nhật ký, … thì được viết bằng thể thông thường
@@ -39,7 +39,3 @@ tags:
 |  13   |                                            | その　カレー(は)　**おいしい**？  <br>…うん、からい**けど**、おいしい。                                                                   | Món cà ri đó **ngon không**?  <br>…Có, tuy cay **nhưng** ngon.                                                        |
 |  14   |                                            | すもうの　チケット(が)　ある**けど**、いっしょに　いかない？  <br>…**いいね**。                                                           | Tôi có vé xem sumo, (bạn) đi xem cùng không?  <br>…**Hay quá nhỉ**.                                                   |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

@@ -1,6 +1,6 @@
 ---
-status: Backlog
-title: "Nhật ngữ 9:"
+status: Doing
+title: "Nhật ngữ 9: "
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 draft: true
@@ -8,9 +8,17 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
+# tên_truyện_tiếng_nhật
+> [!tip]- Mẹo đọc truyện
+> - Nhấp vào biểu tượng **">"** để xem **bản dịch**
+> - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
+
+> [!content]- bản_gốc
+> bản_dịch
+
 # N が + V / A
 **Cách dùng**: Một số bộ phận động từ như: **あります、わかります、…** và tính từ như: **すきです、きらいです、じょうずです、へたです、…** , biểu thị danh từ dưới dạng tân ngữ bằng trợ từ **が**
 
@@ -66,8 +74,5 @@ Cách dùng: bổ nghĩa cho động từ.
 > - Dùng **～から** để trả lời cho câu hỏi **どうして**
 > - Khi đối phương đã nhắc vấn đề cần hỏi trước đó, thì có thể dùng **どうしてですか** để hỏi tại sao
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 

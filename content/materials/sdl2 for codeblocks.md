@@ -3,7 +3,7 @@ title: Cách cài SDL2 cho CodeBlocks
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 status: Done
-draft: false
+draft: true
 tags:
   - hướng-dẫn
   - sdl
@@ -71,7 +71,4 @@ Sau khi hoàn tất thiết lập, để đảm bảo mọi thứ hoạt động
 > - Muốn biên dịch và chạy các file mã nguồn thông thường, bạn cần đóng dự án lại bằng cách chọn File > "Close Project"
 > - Để xem các định dạng file khác .cpp trong dự án, dán đường dẫn dự án vào trường ngay dưới phần Files trong Management
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+

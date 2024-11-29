@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 16:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Cách nối 2 câu trở lên
 |    Động từ     | Tính từ đuôi い | Tính từ đuôi な | Danh từ |
 | :------------: | :------------: | :------------: | :-----: |
@@ -70,7 +70,3 @@ Cách dùng: hỏi để xác định một đối tượng nào đó trong nhó
 |   1   | ミラーさんの　かさは　**どれ**ですか。  <br>…あの　あおい　かさです。                               | Cái ô của anh Miller là **cái nào**?  <br>…Là cái ô màu xanh da trời. |
 |   2   | サントスさんは　**どの　ひと**ですか。  <br>…あの　せが　たかくて、  <br>かみが　くろい　ひとです。 | Anh Santos là **người nào**?  <br>…Là người cao, tóc đen.             |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 10:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # N が あります／います
 **Cách dùng**: Biểu thị sự tồn tại của người (dùng います) hoặc đồ vật (dùng あります)
 
@@ -72,7 +72,3 @@ tags:
 | :---: | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 |   1   | すみません。アジアストアは　どこですか。  <br>…**アジアストアですか**。  <br>あの　ビルの　なかです。 | Xin lỗi, siêu thị Ajia ở đâu?  <br>…**Siêu thị Ajia ấy à**?  <br>Ở trong tòa nhà kia. |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

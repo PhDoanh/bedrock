@@ -229,10 +229,7 @@ Tương tự như ảnh chụp, một phần mềm chỉnh sửa video là tất
 - Luôn xác nhận rằng PDF được làm phẳng đúng cách qua việc kiểm tra các liên kết không còn hoạt động
 - Đảm bảo mọi hiệu ứng chỉnh sửa lên PDF đều bị xóa (các công cụ chỉnh sửa biến mất trong trình xem trước pdf)
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

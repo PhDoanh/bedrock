@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 17:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Thể ない của động từ
 - **Động từ nhóm 1**: Âm cuối thể ます thuộc hàng **い** đổi thành **あ**, ngoại trừ **nguyên âm い** thì đổi thành **わ** như: かきます → かかない、よみます → よまない、とります → とらない、すいます → すわない、**あります → ない (đặc biệt)**、…
 - **Động từ nhóm 2**: thay **ます** bằng **ない** như: たべます → たべない、みます → みない、…
@@ -57,7 +57,3 @@ tags:
 > [!info]- Lưu ý
 > Trợ từ まで biểu thị điểm kết thúc của 1 hành động diễn ra liên tục nên cần chú ý tránh nhầm lẫn với までに.
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

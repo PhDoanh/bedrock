@@ -133,7 +133,4 @@ Nhấn giữ phím **"Alt"** kết hợp **W, A, S, D** để di chuyển, nhả
 	- **UI.hpp, UI.cpp**: Quản lí toàn bộ giao diện người chơi trong game, Bố cục setting, game menu, game play, game over, ...
 	- **util.hpp, util.cpp**: tệp chứa các tiện ích hàm, cấu trúc dữ liệu, thuật toán đem lại trải nghiệm trong game. 
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+

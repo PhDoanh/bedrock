@@ -3,7 +3,7 @@ status: Done
 title: Ngăn xếp trong C++
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - cpp
   - cpp-language
@@ -78,7 +78,3 @@ int main()
 
 **Tham khảo thêm**: [Stack in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

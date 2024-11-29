@@ -1,7 +1,7 @@
 ---
 draft: true
-status: Backlog
-title: "Nhật ngữ <% tp.file.cursor(1) %>: story"
+status: Not started
+title: "Nhật ngữ <% tp.file.cursor(1) %>: vietnamese_story_name"
 description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -13,36 +13,26 @@ aliases:
   - <% tp.file.title %>
 cssclasses:
 ---
-# tên_truyện_tiếng_nhật
+# japanese_story_name
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- bản_gốc
-> bản_dịch
-> 
-> %% file_âm_thanh %%
+> [!content]- original_text
+> translated_text
 
-# mẫu_ngữ_pháp
-**Ý nghĩa**: 
-
+# grammar_sample
 **Cách dùng**:
 
 **Ví dụ**:
-> [!content]- 1\. bản_gốc
-> bản_dịch
+> [!content]- 1\. original_text
+> translated_text
 > 
-> file_âm_thanh
+> audio_attachments
 
 > [!info]- Lưu ý
-> Contents 
+> if_any 
 
-
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
-
-
+1. **keyword**: explaned_text [[link|↩️]]
 
 

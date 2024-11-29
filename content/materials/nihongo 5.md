@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 5: Mua sắm cùng bạn"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
 # ともだちと　かいものします
 > [!tip]- Mẹo đọc truyện
@@ -17,53 +18,33 @@ tags:
 
 > [!content]- **ハイ**さん: ゾアインさん、きょうは　なにを　しますか。
 > **Hải**: Doanh ê, hôm nay ông sẽ làm gì?
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: [[#N (địa điểm) へ いきます／きます／かえります|デパートへ　いきます]]。
 > **Doanh**: Tôi sẽ đến trung tâm thương mại.
-> 
-> %% audio %%
 
 > [!content]- **ハイ**さん: [[#いつ|いつ]]　いきますか。
 > **Hải**: Khi nào ông đi? 
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: いまよ！
 > **Doanh**: Bây giờ (đi luôn)!
-> 
-> %% audio %%
 
 > [!content]- **ハイ**さん: [[#N (người/động vật) と V|だれと　いきますか]]？ 
 > **Hải**: Ông có đi cùng ai không?
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: [[#Từ để hỏi も + V (phủ định)|だれもと　いきません]]。
 > **Doanh**: Tôi không đi cùng ai cả.
-> 
-> %% audio %%
 
 > [!content]- **ハイ**さん: よかった。ぼくも　いきますよ！ 
 > **Hải**:  Vậy thì tốt quá. Tôi cũng sẽ đi (mua sắm) đấy!
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: ほんとう？[[#N (phương tiện đi lại) で いきます／きます／かえります|なにで　いきますか]]？
 > **Doanh**: Thật sao? Ông đi bằng gì?
-> 
-> %% audio %%
 
 > [!content]- **ハイ**さん: バスでいきます。いっしょに　いきませんか？バスは　とても　べんりです[[#～よ|よ]]。 
 > **Hải**: Đi bằng xe buýt. Ông đi cùng không? Xe buýt tiện lắm đấy!
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: [[#そうですね|そうですね]]。じゃあ、そうしましょう! 
 > **Doanh**: Ừ nhỉ! Vậy thì triển thôi!
-> 
-> %% audio %%
 
 # N (địa điểm) へ　いきます／きます／かえります
 **Ý nghĩa**: ==đi/đến/về== đâu, chỗ nào
@@ -208,7 +189,4 @@ tags:
 > 
 > ![[Screen Recording 2024-09-16 134331.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+

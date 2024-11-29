@@ -2,5 +2,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-projects",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-reading-time"
 ]

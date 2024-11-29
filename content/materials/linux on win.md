@@ -3,7 +3,7 @@ status: Done
 title: Sử dụng Linux trên Windows 10/11
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - linux
   - os
@@ -68,7 +68,3 @@ So với máy ảo truyền thống:
 # Kết bài
 WSL là một tiện ích tuyệt vời để sử dụng Linux ngay trên Windows. Nó cho bạn một nơi để học hỏi, đặc biệt với những người mới bắt đầu!
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

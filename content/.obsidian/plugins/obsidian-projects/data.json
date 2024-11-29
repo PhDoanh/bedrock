@@ -3,8 +3,12 @@
   "projects": [
     {
       "fieldConfig": {
-        "due": {
-          "time": true
+        "status": {
+          "options": [
+            "Not started",
+            "Doing",
+            "Done"
+          ]
         }
       },
       "defaultName": "",

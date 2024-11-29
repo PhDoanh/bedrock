@@ -1,6 +1,6 @@
 ---
 draft: true
-status: Backlog
+status: Doing
 title: "Nhật ngữ 29:"
 description:
 author: PhDoanh
@@ -8,8 +8,9 @@ authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
-  - N5-JLPT
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 29
 cssclasses:
@@ -85,10 +86,7 @@ cssclasses:
 > [!info]- Lưu ý
 > Trợ từ **へ** và **を** đi sau **どこか、なにか** thì có thể lược bỏ nhưng **で** và **に** thì không!
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

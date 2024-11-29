@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 18:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Thể từ điển của động từ
 - **Động từ nhóm 1**: Âm cuối thể ます thuộc hàng **い** đổi thành**う** và bỏ **ます** như: かきます → かく、よみます → よむ、すいます → すう、はなします → はなす、…
 - **Động từ nhóm 2:** Thay **ます** bằng **る** như: たべます → たべる、みます → みる、…
@@ -59,7 +59,3 @@ tags:
 |   1   | **ぜひ**　ほっかいどうへ　いきたいです。 | Tôi **rất** muốn đi Hokkaido.            |
 |   2   | **ぜひ**　あそびに　きて　ください。   | **Nhất định** anh/chị phải đến chơi nhé. |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

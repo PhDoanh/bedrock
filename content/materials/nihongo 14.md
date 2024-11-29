@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 14:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Các nhóm động từ
 - **Động từ nhóm 1**: âm cuối của thể ます thuộc hàng **い** như: か**き**ます、の**み**ます、…
 - **Động từ nhóm 2**: hầu hết âm cuối thể ます thuộc hàng **え** nhưng một số ít thuộc hàng **い** như: た**べ**ます、み**せ**ます、**み**ます、…
@@ -71,7 +71,3 @@ tags:
 # すみませんが
 **Cách dùng**: Mở đầu câu với sắc thái nhẹ nhàng
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

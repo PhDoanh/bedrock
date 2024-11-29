@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 7: Cuốn từ điển bị lỗi"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
 # じしょの　ミス
 > [!tip]- Mẹo đọc truyện
@@ -17,38 +18,24 @@ tags:
 
 > [!content]- **ゾアイン**さん: ズンさん！きのう　[[#N₁ (người) に N₂ を V|わたしに　じしょを　かりました]]。もう　つかいましたか？
 > **Doanh**: Dũng! Quyển từ điển ông mượn tôi ngày hôm qua, ông đã dùng xong chưa?
-> 
-> %% audio %%
 
 > [!content]- **ズン**さん: うん、[[#もう + V ました|もう　つかいました]]。
 > **Dũng**: Rồi, tôi dùng xong rồi.
-> 
-> %% audio %%
 
 > [!content]- **ズン**さん: ところで、[[#"Từ/Câu" は ～ごで なんですか|「こんにちは」　は　えいごで　なんですか]]？じしょで　さがしたけど、みつけられませんでした。
 > **Dũng**: Mà từ "xin chào" trong tiếng Anh là gì vậy? Tôi tra bằng từ điển nhưng không thấy.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: じしょに~~[[#Lược bỏ trợ từ|も]]~~、その　ことばは　ないの？
 > **Doanh**: Từ điển mà cũng không có từ đó sao?
-> 
-> %% audio %%
 
 > [!content]- **ズン**さん: うん！ほんの　はっこうに　まちがいが　あると　おもいます。
 > **Dũng**: Ừ! Tôi nghĩ bản phát hành sách có lỗi.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: そうか？じゃあ、[[#N (công cụ/phương tiện) で V|でんわで　しらべてみるね]]…　あ、みつけた！「hello」だよ！
 > **Doanh**: Vậy à? Để tôi tra bằng điện thoại xem... À, tìm thấy rồi! Là "hello" nhé!
-> 
-> %% audio %%
 
 > [!content]- **ズン**さん: 「Thank you」! 
 > **Dũng**: Thank you!
-> 
-> %% audio %%
 
 # N (công cụ/phương tiện) で V
 **Ý nghĩa**: làm gì đó bằng ==công cụ / phương tiện== nào 
@@ -146,8 +133,5 @@ tags:
 > 
 > ![[Screen Recording 2024-09-19 213141.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 

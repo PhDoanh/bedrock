@@ -1,14 +1,16 @@
 ---
-draft: false
-status: Backlog
+draft: true
+status: Done
 title: "Nhật ngữ 34: Cơm trộn trứng sống - TKG"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 34
 cssclasses:
@@ -19,54 +21,34 @@ cssclasses:
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
 > [!content]- **フン**さん: [[#V₁ た／N の あとで、V₂|じゅぎょうの　あとで]]、おひるごはんを　どこで　たべるつもり？
-> Hùng: Sau giờ học, ông định ăn trưa ở đâu?
-> 
-> %% audio %%
+> **Hùng**: Sau giờ học, ông định ăn trưa ở đâu?
 
 > [!content]- **ゾアイン**さん: たぶん　がっこうの　がくしょくで　たべるよ。きょうは　たまごかけごはんが　あるんだ！
-> Doanh: Chắc là ăn ở căng tin của trường. Vì hôm nay có món cơm trộn trứng sống mà!
-> 
-> %% audio %%
+> **Doanh**: Chắc là ăn ở căng tin của trường. Vì hôm nay có món cơm trộn trứng sống mà!
 
 > [!content]- **フン**さん: えっ、あたらしい　りょうりなの？
-> Hùng: Ủa, món mới hả?
-> 
-> %% audio %%
+> **Hùng**: Ủa, món mới hả?
 
 > [!content]- **ゾアイン**さん: ここ　なんにちか　だけだよ。たべる？
-> Doanh: Mới có vài ngày thôi. Ông ăn không?
-> 
-> %% audio %%
+> **Doanh**: Mới có vài ngày thôi. Ông ăn không?
 
 > [!content]- **フン**さん: たべる！でも、どうやって　たべるのかな？
-> Hùng: Có! Không biết ăn như nào nhỉ?
-> 
-> %% audio %%
+> **Hùng**: Có! Không biết ăn như nào nhỉ?
 
 > [!content]- **ゾアイン**さん: あとで　[[#V₁ た／N の とおりに、V₂|ぼくの　とおりに]]　やってみれば　だいじょうぶだよ！・・・
-> Doanh: Tí nữa cứ làm theo tôi là được! ...
-> 
-> %% audio %%
+> **Doanh**: Tí nữa cứ làm theo tôi là được! ...
 
 > [!content]- **フン**さん: りょうりが　きたよ！たまごを　ごはんの　うえに　わって・・・
-> Hùng: Món ăn tới rồi kìa! Đập trứng lên cơm rồi ...
-> 
-> %% audio %%
+> **Hùng**: Món ăn tới rồi kìa! Đập trứng lên cơm rồi ...
 
 > [!content]- **ゾアイン**さん: よく　[[#V₁ て／V₁ ないで + V₂|まぜて、しょうゆを　かけて]]　たべるだけだよ！
-> Doanh: Trộn đều lên rồi dưới xì dầu vào. Xong là ăn được rồi đó!
-> 
-> %% audio %%
+> **Doanh**: Trộn đều lên rồi dưới xì dầu vào. Xong là ăn được rồi đó!
 
 > [!content]- **フン**さん: そうなの？たべて　みよう・・・おいしいね！
-> Hùng: Là vậy à? Ăn thử xem nào ... Ngon thế!
-> 
-> %% audio %%
+> **Hùng**: Là vậy à? Ăn thử xem nào ... Ngon thế!
 
 > [!content]- **ゾアイン**さん: おいしい　だけ　じゃなくて、やすいよね！
-> Doanh: Không những ngon mà còn rẻ nhỉ!
-> 
-> %% audio %%
+> **Doanh**: Không những ngon mà còn rẻ nhỉ!
 
 # V₁ た／N の　とおりに、V₂
 **Ý nghĩa**: thực hiện hành động 2 ==theo như== danh từ hoặc hành động 1
@@ -140,10 +122,7 @@ cssclasses:
 > [!info]- Lưu ý
 > Mẫu **"V₁ ないで + V₂"** còn dùng để nói có 2 việc không thể thực hiện đồng thời mà phải chọn một việc (động từ 2) để làm. (ví dụ 3)
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

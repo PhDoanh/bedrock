@@ -1,14 +1,16 @@
 ---
-draft: false
-status: Backlog
+draft: true
+status: Done
 title: "Nhật ngữ 33: Món quà trước ngày thi đấu bóng đá"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 33
 cssclasses:
@@ -21,58 +23,36 @@ cssclasses:
 
 > [!content]- **フン**: みんな、サッカーの　コーチが　あしたは　[[#Câu / Thể thông thường と いって いました|やすみだと　いって　いました]]。
 > **Hùng**: Anh em ơi, huấn luyện viên bóng đá nói rằng ngày mai chúng ta được nghỉ.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**: えっ！あさってに　しあいなのに。きょう　[[#Câu / Thể thông thường と つたえて いただけませんか|れんしゅうすると　つたえて　いただけませんか]]？
 > **Doanh**: Hả! Ngày kia thi rồi mà. Ông có thể nhắn lại với thầy là hôm nay tập nốt được không?
-> 
-> %% audio %%
 
 > [!content]- **フン**: もう　そういった　けど、コーチは　みんな　やすんだ　ほうが　いいと　いっていました。
 > **Hùng**: Tôi cũng đã nói vậy với thầy rồi, nhưng thầy bảo mọi người nên nghỉ ngơi cho khỏe.
-> 
-> %% audio %%
 
 > [!content]- **フン**: そして、コーチが　この　スポーツの　ふくを　くれました！
 > **Hùng**: Và thầy còn tặng cho chúng ta bộ quần áo thể thao này nữa!
-> 
-> %% audio %%
 
 > [!content]- **みんな**: わあ！かっこいいね。
 > **Mọi người**: Wao! Đẹp (ngầu) đấy nhỉ.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**: シャツの　うしろに　[[#~と かいて あリます／～と よみます|なんと　かいて　ありますか]]？
 > **Doanh**: Đằng sau áo có viết cái gì vậy?
-> 
-> %% audio %%
 
 > [!content]- **フン**:「無敗」です。
 > **Hùng**: Là chữ "Bất khả chiến bại"
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**: どういう　いみですか？
 > **Doanh**: Ý nghĩa là gì?
-> 
-> %% audio %%
 
 > [!content]- **フン**:「わたしたちの　チームは　かならず　かちます」[[#X は Y と いう いみです|と　いう　いみですよ]]。
 > **Hùng**: Nghĩa là "Đội của chúng ta chắn chắc sẽ giành thắng lợi"!
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**: じゃあ、せんせいの　いうことを　きいた　ほうが　いいです！やすもう、みんな。
 > **Doanh**: Vậy thì chúng ta nên nghe theo thầy! Nghỉ thôi anh em.
-> 
-> %% audio %%
 
 > [!content]- **みんな**: そうしよう！
 > **Mọi người**: Nhất trí!
-> 
-> %% audio %%
 
 # Thể mệnh lệnh và thể cấm chỉ
 **Cách chia**:
@@ -83,8 +63,7 @@ cssclasses:
 
 2. **Thể cấm chỉ**: Thêm **な** vào sau thể từ điển của động từ
 
-**Cách dùng**: 
-**Thể mệnh lệnh** ==bắt buộc== ai đó ==phải thực hiện== một hành vi nào đó trong khi **thể cấm chỉ** ==ra lệnh== cho ai đó ==không được thực hiện== một hành vi nào đó. Cả hai thể đều mang sắc thái mạnh, áp đặt và đe dọa vì thế phạm vi áp dụng chúng ở cuối câu văn rất hạn chế.
+**Cách dùng**: **Thể mệnh lệnh** ==bắt buộc== ai đó ==phải thực hiện== một hành vi nào đó trong khi **thể cấm chỉ** ==ra lệnh== cho ai đó ==không được thực hiện== một hành vi nào đó. Cả hai thể đều mang sắc thái mạnh, áp đặt và đe dọa vì thế phạm vi áp dụng chúng ở cuối câu văn rất hạn chế.
 
 **Ví dụ**:
 > [!content]- 1\. にげろ。
@@ -176,10 +155,7 @@ cssclasses:
 > 
 > ![[Screen Recording 2024-10-01 080333.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 22:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -10,7 +10,6 @@ tags:
   - grammar
   - N5-JLPT
 ---
-%% Bắt đầu tại đây %%
 # Mệnh đề bổ nghĩa cho danh từ
 **Cách dùng**: đưa các động từ, tính từ trong mệnh đề bổ nghĩa cho danh từ về thể thông thường. Nếu là tính từ đuôi **な** thì chuyển thành **～な**, danh từ thì chuyển thành **～の**. Trợ từ **が** biểu thị chủ ngữ của mệnh đề bổ nghĩa cho danh từ.
 
@@ -41,7 +40,3 @@ tags:
 |:-----:| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 |   1   | この　へや、きょう　みる　ことが　できますか。  <br>…ええ、いまから　**いきましょうか**。 | Tôi có thể xem căn phòng này hôm nay được không?  <br>…Vâng, **chúng ta đi** ngay bây giờ **nhé**? |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

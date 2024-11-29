@@ -254,10 +254,7 @@ Các nhà phát triển sẽ dùng nhật ký này để phân tích về vấn 
 5. Tìm file **.log, .crash hoặc .ips** bao gồm tên ứng dụng bị crash và dấu thời gian
 6. Tải lên báo cáo lỗi của bạn
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

@@ -339,10 +339,7 @@ Các trình duyệt dùng Chromium và Firefox chỉ hỗ trợ gỡ lỗi từ 
 **Loại bỏ PII trong nhật ký**
 1. Chỉnh sửa file HAR được đề cập ở [[#Cách chỉnh sửa nhật ký HAR|đây]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

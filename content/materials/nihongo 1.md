@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 1: Cái túi của ai?"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
 # だれの　かばんですか？
 > [!tip]- Mẹo đọc truyện
@@ -17,32 +18,24 @@ tags:
 
 > [!content]- **ゾアイン**さん: こんにちは、ヒエウ[[#~ さん|さん]]！げんきですか？
 > **Doanh**: Chào Hiếu! Bạn khỏe không?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: こんにちは、ゾアインさん。げんき[[#N₁ は N₂ です|です]]！
 > **Hiếu**: Chào Doanh, mình khỏe!
 
 > [!content]- **ゾアイン**さん: これは [[#N₁ の N₂|ヒエウさんの かばん]]ですか？
 > **Doanh**: Đây có phải túi của Hiếu không?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: はい、そうです。[[#N も|これも]] ゾアインさんの かばんですか？
 > **Hiếu**: Ừ, đúng rồi. (Mà) cái này cũng là túi của Doanh phải không?
 
 > [!content]- **ゾアイン**さん: いいえ、わたしの　[[#N₁ は N₂ じゃ（では）ありません|じゃありません]]。これは ホアンさんの かばんです。
 > **Doanh**: Không, không phải của mình. Đây là túi của Hoàng.
-> 
-> %% audio %%
 
 > [!content]-  **ヒエウ**さん: なるほど。ホアンさんもげんき[[#N₁ は N₂ ですか|ですか]]？
 > **Hiếu**: Ra vậy. (Mà) hoàng cũng khỏe chứ?
 
 > [!content]-  **ゾアイン**さん: はい、ホアンさんもげんきです！
 > **Doanh**: Ừ, Hoàng cũng khỏe!
-> 
-> %% audio %%
 
 # N₁ は N₂ です
 **Ý nghĩa**: Danh từ 1 ==là== danh từ 2  
@@ -177,7 +170,3 @@ tags:
 > - Đối với trẻ em, **ちゃん** thay cho **さん** thể hiện sắc thái thân mật
 > - **あなた** dùng trong quan hệ cực kỳ thân mật
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

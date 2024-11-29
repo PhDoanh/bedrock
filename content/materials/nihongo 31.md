@@ -1,6 +1,6 @@
 ---
-draft: false
-status: Backlog
+draft: true
+status: Done
 title: "Nhật ngữ 31: Kế hoạch cho những chuyến đi"
 description:
 author: PhDoanh
@@ -9,18 +9,13 @@ tags:
   - japanese
   - grammar
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 31
 cssclasses:
   - img
 ---
-%% 
-LƯU Ý KHI CHỈNH SỬA:
-- thay thế các thông tin mẫu ở giữa 2 dấu 
-- xóa phần "Lưu ý" nếu mẫu ngữ pháp đó không cần
-- nhớ loại bỏ hết kí tự  
-%%
-
 # たびの　けいかく
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
@@ -28,33 +23,21 @@ LƯU Ý KHI CHỈNH SỬA:
 
 > [!content]- **マイン**さん: キエンさん！つぎの　なつやすみは　どう[[#V (từ điển)／Vない つもりです|する　つもりです]]か？
 > **Mạnh**: Kiên này! Kỳ nghỉ hè sắp tới ông dự định làm gì?
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **キエン**さん: [[#まだ Vて いません|まだ　けいかくを　たてて　いません]]。マインさんは？
 > **Kiên**: Tôi vẫn chưa lên kế hoạch. Còn mạnh thì sao?
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **マイン**さん: わたしは　ほっかいどうへ　[[#V (từ điển)／Danh từ の よていです|いく　よていです]]。
 > **Mạnh**:  Tôi có kế hoạch đi Hokkaido.
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **キエン**さん: あ、きょねん　わたしも　[[#^343ee9|いこうと　おもって　います]]よ。
 > **Kiên**: A, năm ngoái tôi cũng định đi đấy!
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **マイン**さん: それならいいですね。ことし、いっしょに　[[#^474d34|いこう]]か？
 > **Mạnh**: Thế thì tốt quá! Năm nay bọn mình cùng đi nhé?
-> 
-> %% file_âm_thanh %%
 
 > [!content]- **キエン**さん: そうしよう！ 
 > **Kiên**: Nhất trí!
-> 
-> %% file_âm_thanh %%
 
 # Thể ý định
 **Cách chia**:
@@ -170,10 +153,7 @@ LƯU Ý KHI CHỈNH SỬA:
 > 
 > ![[Screen Recording 2024-09-19 080654.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

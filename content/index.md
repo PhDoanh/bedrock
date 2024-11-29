@@ -11,12 +11,14 @@ cssclasses:
 
 Blog chủ yếu xoay quanh những hiểu biết của mình về **công nghệ**, trải nghiệm về **sản phẩm và dịch vụ số**, song là kinh nghiệm **kiếm tiền** mà mình tích lũy được theo thời gian. Nhưng đôi khi mình cũng đá sang các lĩnh vực khác như: tiếng nhật, đại học, thể thao, ... 
 
-<br>
+![[Pasted image 20241010122523.png|center]]
 
 > [!tip]- Mẹo sử dụng blog
 > **Đăng nhập tài khoản [GitHub](https://github.com/login)** sẽ giúp bạn có được trải nghiệm dùng hoàn chỉnh với đầy đủ các tính năng như: tương tác và bình luận bài viết, chỉnh sửa bài viết, tham gia cộng đồng Doanhanma, ...
 
 # Cộng đồng Doanhanma 🤝
+![[Pasted image 20241010123742.png|center]]
+
 Hầu hết các thông tin trao đổi về Doanhanma đều được tổ chức trên nền tảng Github, bao gồm:
 - 📣 **[Announcements](https://github.com/PhDoanh/doanhanma/discussions/categories/announcements) (Thông báo)**: các tin tức mới nhất được cập nhật bởi mình
 - 💬 **[General](https://github.com/PhDoanh/doanhanma/discussions/categories/general) (Chung)**: trò chuyện, tán gẫu về mọi chủ đề khác nhau

@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 25:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Thể thông thường (quá khứ) ら、～
 **Cách dùng**: Nếu ~ thì ~
 
@@ -59,7 +59,3 @@ tags:
 |   2   | つま**が**　びょうきの　**とき**、かいしゃを　やすみます。               | Khi vợ bị ốm thì tôi nghỉ làm.                            |
 |   3   | ともだち**が**　やくそくの　じかんに　こなかっ**たら**、どう　しますか。 | Nếu (người) bạn không đến đúng giờ thì anh/chị sẽ làm gì? |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

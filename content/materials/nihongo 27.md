@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 27:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N4
+  - lower-intermediate
 ---
-%% Bắt đầu tại đây %%
 # Động từ khả năng
 **Cách dùng**: Thay cho mẫu biểu hiện khả năng [[nihongo 18#N / “V (từ điển) こと” が できます|"V (từ điển) こと が できます"]]. Tân ngữ của động từ khả năng biểu thị bởi **が** 
 
@@ -74,7 +74,3 @@ tags:
 > [!info]- Lưu ý
 > - Nếu các từ có trợ từ が、を đi kèm thì chúng sẽ được lược bỏ
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

@@ -3,7 +3,7 @@ title: Cách cài SDL2 cho VSCode
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 status: Done
-draft: false
+draft: true
 tags:
   - tutorial
   - cmake
@@ -228,7 +228,3 @@ Các bước sau cũng được áp dụng khi dự án của bạn được [[#
 > - `cmake` được dùng khi cấu trúc dự án bị thay đổi (thêm thư mục, xóa tệp, ...). Nếu bạn không cập nhật lại những thay đổi đó thì phần mềm vẫn sẽ chạy nhưng dùng cấu trúc dự án trước đó (chứa các dữ liệu trước lúc thay đổi)
 > - `mingw32-make` được dùng khi bạn thực hiện các thay đổi trên mã nguồn (chỉnh sửa tệp CPP, HPP)
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

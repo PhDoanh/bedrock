@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 4: Nghỉ trưa"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
 # ひるやすみ
 > [!tip]- Mẹo đọc truyện
@@ -17,43 +18,27 @@ tags:
 
 > [!content]- **ゾアイン**さん: こんにちは、ヒエウさん！いま　なんじ　ですか？
 > **Doanh**: Chào Hiếu! Bây giờ là mấy giờ rồi?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: こんにちは、ゾアインさん！[[#いま ーじ ーふんです|いま　１０じはんです]]。
 > **Hiếu**: Chào Doanh! Bây giờ là 10 giờ 30 phút.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: わたしは　いま　おひるごはんを　[[#V + ます／ません／ました／ませんでた|たべます]]。ヒエウさんも？
 > **Doanh**: Giờ tớ sẽ đi ăn trưa. Hiếu cũng vậy à?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: わたしは　[[#N₁ から N₂ まで|じゅういちじ　から　じゅうにじ　まで]]　おひるごはんを　たべますよ。
 > **Hiếu**:  Tớ đi ăn từ 11 giờ đến 12 giờ cơ!
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: [[#N₁ と N₂|だれと]]　たべますか。
 > **Doanh**: Thế bạn ăn cùng ai?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: ひとりで。
 > **Hiếu**: Tớ ăn một mình.
-> 
-> %% audio %%
 
 > [!content]- **ゾアイン**さん: よかった！いっしょに　たべませんか？
 > **Doanh**: Tốt quá! Mình cùng ăn với nhau nhé?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: えっと…　[[#～ね|いいですね]]！たべましょう！
 > **Hiếu**: Hmm (để mình nghĩ đã)... Cũng được đấy nhỉ! Cùng ăn thôi nào!
-> 
-> %% audio %%
 
 # いま　ーじ　ーふんです
 **Ý nghĩa**: Bây giờ là ==h== giờ ==m== phút.
@@ -181,10 +166,7 @@ tags:
 > 
 > ![[Screen Recording 2024-09-15 192729.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 1. **Số từ**: từ dùng để chỉ con số, số lượng [[#^7b4e00|↩️]] ^37f41a
 2. **Trợ số từ**: đơn vị của số từ như: cái, chiếc, miếng, giờ, phút, giây, ... [[#^7b4e00|↩️]] ^4476c1

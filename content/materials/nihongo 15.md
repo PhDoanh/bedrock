@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 15:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Vても　いいですか
 **Cách dùng**: xin phép làm một điều gì
 
@@ -63,7 +63,3 @@ tags:
 |   1   | ここ**に**　くるま**を**　とめて　ください。     | Bạn hãy đỗ xe ở đây.         |
 |   2   | ここ**に**　じゅうしょ**を**　かいて　ください。 | Bạn hãy ghi địa chỉ vào đây. |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

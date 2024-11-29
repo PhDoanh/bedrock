@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 11:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Cách đếm số lượng
 **Cách 1**: **ひとつ、ふたつ、…　とお** dùng để đếm số lượng đồ vật từ 1 đến 10. Từ 11 trở đi chỉ dùng chữ số
 
@@ -61,7 +61,3 @@ tags:
 |   1   | パワーでんきに　がいこくじんの　しゃいんが　**ひとりだけ**　います。 | Công ty điện Power **chỉ có 1 nhân viên** người nước ngoài. |
 |   2   | やすみは　**にちようびだけ**です。                  | Ngày nghỉ của tôi **chỉ có chủ nhật**.                      |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

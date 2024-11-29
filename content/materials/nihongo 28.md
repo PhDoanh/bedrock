@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 28:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N4
+  - lower-intermediate
 ---
-%% Bắt đầu tại đây %%
 # V₁~~ます~~ながら + V₂
 **Cách dùng**: biểu thị chủ thể thực hiện động tác 2 (động tác chính) cũng đồng thời thực hiện động tác 1 ở cùng thời điểm hoặc cùng một khoảng thời gian nhất định
 
@@ -59,7 +59,3 @@ tags:
 |   1   | べんきょうする　**ときは**、  <br>おんがくを　ききません。                      | Khi học bài, tôi không nghe nhạc.                                        |
 |   2   | つかれた　**ときや**　さびしい　とき、  <br>よく　いなかの　おおい　そらを　  <br>おもいだす。 | Những lúc mệt hoặc lúc buồn,  <br>tôi thường nghĩ về bầu trời xanh ở quê |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

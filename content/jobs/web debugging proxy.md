@@ -397,10 +397,7 @@ Hãy cân nhắc yêu cầu của dự án để biết bạn nên chọn phiên
 8. Trên điện thoại, thực hiện các bước tái tạo lỗi
 9. Xong rồi thì nhấp vào **File**, di chuột qua **Save Archive** và chọn **All Sessions**, sau đó lưu lại ở định dạng **.saz** (đừng chọn bất kì tùy chọn mã hóa nào)
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

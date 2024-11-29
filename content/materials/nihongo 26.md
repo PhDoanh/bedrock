@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 26:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N4
+  - lower-intermediate
 ---
-%% Bắt đầu tại đây %%
 # Thể thông thường (～~~だ~~な) んです
 **Cách dùng**:
 - **んですか** được dùng khi người nói muốn xác nhận hoặc yêu cầu người nghe giải thích; muốn được cung cấp thêm thông tin; muốn được nghe lí do; muốn được nghe giải thích về một tình trạng nào đó về những gì mình thấy hoặc nghe
@@ -52,7 +52,3 @@ tags:
 # Chủ đề hóa tân ngữ biểu thị bởi が
 **Cách dùng**: giống [[nihongo 17#Chủ đề hóa tân ngữ|bài 17]] nhưng là **が** thay vì **を** ([[#^b71b8d|vd 5]])
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

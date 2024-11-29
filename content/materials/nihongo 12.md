@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Doing
 title: "Nhật ngữ 12:"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -8,9 +8,9 @@ tags:
   - japanese
   - grammar
   - language
-  - N5-JLPT
+  - N5
+  - elementary
 ---
-%% Bắt đầu tại đây %%
 # Cách chia thời của câu danh từ và tính từ
 
 |            | Hiện tại/Tương lai                                            | Quá khứ                                                               |
@@ -55,7 +55,3 @@ tags:
 |:-----:| ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 |   1   | カリナさんの　かばんは　どれですか。  <br>…あの　あかくて、**おおきいの**です。 | Cặp của chị Karina là cái nào?  <br>…Là **cái lớn**, màu đỏ kia. |
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)

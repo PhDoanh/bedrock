@@ -1,26 +1,21 @@
 ---
-draft: false
-status: Backlog
+draft: true
+status: Done
 title: "Nhật ngữ 32: Tình bạn ấm áp"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
+  - N4
+  - lower-intermediate
 aliases:
   - nihongo 32
 cssclasses:
   - img
 ---
-%% 
-LƯU Ý KHI CHỈNH SỬA:
-- thay thế các thông tin mẫu ở giữa 2 dấu 
-- xóa phần "Lưu ý" nếu mẫu ngữ pháp đó không cần
-- nhớ loại bỏ hết kí tự  
-%%
-
 # あたたかい　ともだちの　きずな
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
@@ -28,43 +23,27 @@ LƯU Ý KHI CHỈNH SỬA:
 
 > [!content]- **ロン**さん: ことしの　ふゆは　もっと　[[#Thể thông thường (~~だ~~) でしょう|さむいでしょう]]！
 > **Long**: Mùa đông năm nay chắc là sẽ lạnh hơn nhiều đấy!
-> 
-> %% audio %%
 
 > [!content]- **ニャ**さん: そうなら、わたしには　むずかしいです… 
 > **Nghĩa**: Nếu vậy thì khó cho tôi rồi ...
-> 
-> %% audio %%
 
 > [!content]- **ロン**さん: [[#なにか しんぱいな こと|なにか　しんぱいな　こと]]が　あるんですか？
 > **Long**: Ông có gì lo lắng à?
-> 
-> %% audio %%
 
 > [!content]- **ニャ**さん: うん、あたたかく　するための　ものが　たりないです。
 > **Nghĩa**: Ừ, tôi không có đủ đồ để giữ ấm.
-> 
-> %% audio %%
 
 > [!content]- **ロン**さん: じゃ、ヒーターを　[[#Vた／Vない + ほうが いいです|かった　ほうが　いいです]]。
 > **Long**: Thế thì ông nên mua một cái máy sưởi đi.
-> 
-> %% audio %%
 
 > [!content]- **ニャ**さん: [[#Lượng từ で|こんなに　おかねで]]は　[[#Thể thông thường (~~だ~~) かも しれません|たりないかも　しれません]]、...
 > **Nghĩa**: Tầm này tiền có vẻ không đủ, ...
-> 
-> %% audio %%
 
 > [!content]- **ロン**さん: じゃ、ちょっと　[[#Vましょう|かしましょう]]。
 > **Long**: Vậy thì để tôi cho ông vay một ít.
-> 
-> %% audio %%
 
 > [!content]- **ニャ**さん: ああ！たくさん　ありがとう　ございますね。
 > **Nghĩa**: Ôi! Cảm ơn ông nhiều nhé.
-> 
-> %% audio %%
 
 # Vた／Vない + ほうが　いいです
 **Ý nghĩa**:
@@ -180,10 +159,7 @@ LƯU Ý KHI CHỈNH SỬA:
 > [!info]- Lưu ý
 > Ngoài mẫu trên còn có **「なにか　～もの」、「どこか　～ところ」、「だれか　～ひと」、いつか　～とき」、…**
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
+
 
 
 

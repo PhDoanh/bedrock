@@ -1,14 +1,15 @@
 ---
-status: Backlog
+status: Done
 title: "Nhật ngữ 2: Quyển sách của ai?"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: false
+draft: true
 tags:
   - japanese
   - grammar
-  - N5-JLPT
   - language
+  - N5
+  - elementary
 ---
 # だれの　ほん？
 > [!tip]- Mẹo đọc truyện
@@ -17,43 +18,27 @@ tags:
 
 > [!content]- **キエン**さん: [[#これ／それ／あれ|これ]]は　わたしの　ほんね？
 > **Kiên**: Đây là sách của mình nhỉ?
-> 
-> %% audio %%
 
 > [!content]- **ビン**さん: ちがうよ、それは　[[#N₁ の N₂|わたしの　ほん]]だよ。
 > **Bình**: Không phải, đó là sách của tôi mà.
-> 
-> %% audio %%
 
 > [!content]- **キエン**さん: ああ、[[#そうですか|そうですか]]。じゃあ、そのほんは　[[#の thay thế cho N|だれの]]？
 > **Kiên**: À, vậy à. Thế còn cuốn sách đó là của ai?
-> 
-> %% audio %%
 
 > [!content]- **ヒエウ**さん: [[#この ／その ／あの + N|あのほん]]は　わたしの　ほんだ。
 > **Hiếu**: Là của mình! 🖐️
-> 
-> %% audio %%
 
 > [!content]- **キエン**さん: えっと、これも？
 > **Kiên**: Xem nào... Cái này cũng vậy à?
-> 
-> %% audio %%
 
 > [!content]- **ビン**さん: [[#そうです|そうです]]。
 > **Bình**: Chuẩn không cần chỉnh! 👌
-> 
-> %% audio %%
 
 > [!content]- **キエン**さん: えっ？ほんとうに　わたしの　ほんは　[[#～か、～か|これですか、それですか]]？
 > **Hiếu**: Ủa? (Vậy) cuốn này hay cuốn đó mới thực sự là sách của mình? 😵‍💫
-> 
-> %% audio %%
 
 > [!content]- **ビン**さん: それは　むずかしいね。
 > **Bình**: Ảo ma (khó) nhỉ!
-> 
-> %% audio %%
 
 # これ／それ／あれ
 **Ý nghĩa**: Cái ==này/đó/kia==
@@ -180,7 +165,3 @@ tags:
 > 
 > ![[Screen Recording 2024-09-15 094656.mp3]]
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI)
