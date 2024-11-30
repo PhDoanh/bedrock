@@ -3,7 +3,7 @@ status: Done
 title: "Nhật ngữ 1: Cái túi của ai?"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
@@ -11,30 +11,30 @@ tags:
   - N5
   - elementary
 ---
-# だれの　かばんですか？
+# 誰の鞄ですか？
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **ゾアイン**さん: こんにちは、ヒエウ[[#~ さん|さん]]！げんきですか？
+> [!content]- **ゾアイン**さん: こんにちは、ヒエウ[[#~ さん|さん]]！元気ですか？
 > **Doanh**: Chào Hiếu! Bạn khỏe không?
 
-> [!content]- **ヒエウ**さん: こんにちは、ゾアインさん。げんき[[#N₁ は N₂ です|です]]！
+> [!content]- **ヒエウ**さん: こんにちは、ゾアインさん。元気[[#N₁ は N₂ です|です]]！
 > **Hiếu**: Chào Doanh, mình khỏe!
 
-> [!content]- **ゾアイン**さん: これは [[#N₁ の N₂|ヒエウさんの かばん]]ですか？
+> [!content]- **ゾアイン**さん: これは[[#N₁ の N₂|ヒエウさんの 鞄]]ですか？
 > **Doanh**: Đây có phải túi của Hiếu không?
 
-> [!content]- **ヒエウ**さん: はい、そうです。[[#N も|これも]] ゾアインさんの かばんですか？
+> [!content]- **ヒエウ**さん: はい、そうです。[[#N も|これも]] ゾアインさんの 鞄ですか？
 > **Hiếu**: Ừ, đúng rồi. (Mà) cái này cũng là túi của Doanh phải không?
 
-> [!content]- **ゾアイン**さん: いいえ、わたしの　[[#N₁ は N₂ じゃ（では）ありません|じゃありません]]。これは ホアンさんの かばんです。
+> [!content]- **ゾアイン**さん: いいえ、私の[[#N₁ は N₂ じゃ（では）ありません|じゃありません]]。これは ホアンさんの 鞄です。
 > **Doanh**: Không, không phải của mình. Đây là túi của Hoàng.
 
-> [!content]-  **ヒエウ**さん: なるほど。ホアンさんもげんき[[#N₁ は N₂ ですか|ですか]]？
+> [!content]-  **ヒエウ**さん: なるほど。ホアンさんも元気[[#N₁ は N₂ ですか|ですか]]？
 > **Hiếu**: Ra vậy. (Mà) hoàng cũng khỏe chứ?
 
-> [!content]-  **ゾアイン**さん: はい、ホアンさんもげんきです！
+> [!content]-  **ゾアイン**さん: はい、ホアンさんも元気です！
 > **Doanh**: Ừ, Hoàng cũng khỏe!
 
 # N₁ は N₂ です
@@ -43,17 +43,17 @@ tags:
 **Cách dùng**: khẳng định
 
 **Ví dụ**:
-> [!content]- 1\. **わたしは** がくせい**です**。
+> [!content]- 1\. **私は** 学生**です**。
 > **Tôi là** sinh viên.
 > 
 > ![[わたしは がくせいです.m4a]]
 
-> [!content]- 2\. **これは** ほん**です**。
+> [!content]- 2\. **これは** 本**です**。
 > **Đây là** cuốn sách.
 > 
 > ![[これは ほんです.m4a]]
 
-> [!content]- 3\. **にほんは** くに**です**。
+> [!content]- 3\. **日本は** 国**です**。
 > **Nhật Bản là** một đất nước.
 > 
 > ![[にほんは くにです.m4a]]
@@ -69,17 +69,17 @@ tags:
 **Cách dùng**: phủ định
 
 **Ví dụ**
-> [!content]- 1\. **わたしは** せんせい**じゃありません**。
+> [!content]- 1\. **私は** 先生**じゃありません**。
 > **Tôi không phải là** giáo viên.
 > 
 > ![[わたしは せんせいじゃありません.m4a]]
 
-> [!content]- 2\. **これは** くるま**ではありません**。
+> [!content]- 2\. **これは** 車**ではありません**。
 > **Đây không phải là** xe ô tô.
 > 
 > ![[これは くるまではありません.m4a]]
 
-> [!content]- 3\. **いぬは** ねこ**じゃありません**。
+> [!content]- 3\. **犬は** 猫**じゃありません**。
 > **Con chó không phải là** con mèo.
 > 
 > ![[いぬは ねこじゃありません.m4a]]
@@ -97,17 +97,17 @@ tags:
 
 **Cách dùng**: hỏi **đúng/sai**
 
-> [!content]- 1\. **あなたは** がくせい**ですか**。
+> [!content]- 1\. **あなたは** 学生**ですか**。
 > **Bạn có phải là** học sinh **không**?
 > 
 > ![[あなたは がくせいですか.m4a]]
 
-> [!content]- 2\. **にほんは** くに**ですか**。
+> [!content]- 2\. **日本は** 国**ですか**。
 > **Nhật Bản là** một đất nước **phải không**?
 > 
 > ![[にほんは くにですか.m4a]]
 
-> [!content]- 3\. **がっこうは**　どこ**ですか**。
+> [!content]- 3\. **学校は**　どこ**ですか**。
 > Trường học ở đâu?
 > 
 > ![[がっこうは どこですか.m4a]]
@@ -122,17 +122,17 @@ tags:
 **Cách dùng**: liệt kê thêm đối tượng có chung đặc điểm với đối tượng đã nói trước đó
 
 **Ví dụ**
-> [!content]- 1\. **かれも**　せんせいです。 
+> [!content]- 1\. **彼も**　先生です。 
 > (Tôi là giáo viên) Anh ấy cũng là giáo viên.
 > 
 > ![[かれも せんせいです.m4a]]
 
-> [!content]- 2\. **かのじょも**　しっている。
+> [!content]- 2\. **彼女も**　知っている。
 > (Không chỉ người khác biết) **Cô ấy cũng** biết.
 > 
 > ![[かのじょも しっている.m4a]]
 
-> [!content]- 3\. **このもんだいも**　むずかしい。
+> [!content]- 3\. **この　問題も**　難しい。
 > (Ngoài câu khó đó ra) Câu hỏi này cũng khó.
 > 
 > ![[このもんだいも むずかしい.m4a]]
@@ -145,17 +145,17 @@ tags:
 **Cách dùng**: danh từ 1 **bổ nghĩa** (bổ sung thông tin) cho danh từ 2
 
 **Ví dụ**:
-> [!content]- 1\. **わたしのほん**です。
+> [!content]- 1\. **私の　本**です。
 > Quyển sách của tôi.
 > 
 > ![[わたしのほんです.m4a]]
 
-> [!content]- 2\. **にほんごのほん**です。
+> [!content]- 2\. **日本語の　本**です。
 > Quyển sách về tiếng Nhật.
 > 
 > ![[にほんごのほんです.m4a]]
 
-> [!content]- 3\. **がくせいのしゅくだい**です。
+> [!content]- 3\. **学生の　宿題**です。
 > Bài tập về nhà của học sinh.
 > 
 > ![[がくせいのしゅくだいです.m4a]]
