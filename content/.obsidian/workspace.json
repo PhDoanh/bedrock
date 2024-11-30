@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db100456bd22ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "1321a1eaf112cb21",
             "type": "leaf",
             "state": {
@@ -30,37 +16,8 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
-          },
-          {
-            "id": "e27435894532fd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/advanced table.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "advanced table"
-            }
-          },
-          {
-            "id": "0538d58de55bee9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -234,9 +191,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "68ed565b86c2f943",
+  "active": "1321a1eaf112cb21",
   "lastOpenFiles": [
+    "materials/nihongo 2.md",
+    "index.md",
+    "templates/advanced table.md",
+    "draft.md",
+    "materials/nihongo 1.md",
     "materials/nihongo 42.md",
+    "materials/nihongo 25.md",
     "materials/nihongo 40.md",
     "materials/nihongo 41.md",
     "materials/nihongo 39.md",
@@ -253,15 +216,9 @@
     "materials/nihongo 28.md",
     "materials/nihongo 27.md",
     "materials/nihongo 26.md",
-    "materials/nihongo 25.md",
-    "materials/nihongo 1.md",
-    "templates/advanced table.md",
-    "draft.md",
     "materials/nihongo 20.md",
     "materials/nihongo 23.md",
     "materials/nihongo 9.md",
-    "materials/nihongo 10.md",
-    "materials/nihongo 11.md",
     "images/Screen Recording 2024-11-29 070305.mp3",
     "images/Screen Recording 2024-11-29 070246.mp3",
     "images/Screen Recording 2024-11-29 070224.mp3",
