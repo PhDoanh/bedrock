@@ -3,7 +3,7 @@ status: Done
 title: "Nhật ngữ 6: Người bạn lâu ngày không gặp"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
@@ -11,46 +11,46 @@ tags:
   - N5
   - elementary
 ---
-# ながい　あいだ　あって　いない　ともだち
+# 長い間あっていない友達
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **ゾアイン**さん: あ、ダットさん。ひさしぶり！
+> [!content]- **ゾアイン**さん: あ、ダットさん。久しぶり！
 > **Doanh**: A, Đạt. Lâu rồi không gặp!
 
 > [!content]- **ダット**さん:  [[#～か|ゾアインさんですか]]。こんにちわ！
 > **Đạt**: Doanh đấy phải không? Chào nhé!
 
-> [!content]- **ゾアイン**さん: いま　ひま　ですか？
+> [!content]- **ゾアイン**さん: 今暇ですか？
 > **Doanh**: Giờ ông rảnh không?
 
-> [!content]- **ダット**さん: [[#なん、なに|なに]]？
+> [!content]- **ダット**さん: [[#なん、なに|何]]？
 > **Đạt**: Chuyện gì thế? 
 
-> [!content]- **ゾアイン**さん: いっしょ に 　[[#V ませんか|いきませんか]]？
+> [!content]- **ゾアイン**さん: 一緒に[[#V ませんか|行きませんか]]？
 > **Doanh**: Đi cùng tôi không?
 
-> [!content]- **ダット**さん: [[#なにを しますか|なにを　しますか]]。
+> [!content]- **ダット**さん: [[#なにを しますか|何をしますか]]。
 > **Đạt**: Để làm gì?
 
-> [!content]- **ゾアイン**さん: コーヒー を　のんで、おしゃべりする　だけですよ！
+> [!content]- **ゾアイン**さん: コーヒー を飲んで、おしゃべりするだけですよ！
 > **Doanh**: Chỉ uống cà phê và tâm sự thôi mà! 
 
-> [!content]- **ダット**さん: どこ[[#N (địa điểm) で V|で]]　[[#N を V|コーヒー を　のみますか]]？
+> [!content]- **ダット**さん: どこ[[#N (địa điểm) で V|で]][[#N を V|コーヒー を飲みますか]]？
 > **Đạt**: Uống chỗ nào?
 
-> [!content]- **ゾアイン**さん: わたしの　うちで！
+> [!content]- **ゾアイン**さん: 私のうちで！
 > **Doanh**: Ở nhà tôi! 
 
-> [!content]- **ダット**さん: いいですよ。[[#V ましょう|いきましょう]]！
+> [!content]- **ダット**さん: いいですよ。[[#V ましょう|行きましょう]]！
 > **Đạt**: Được đấy. Đi thôi!
 
 # N を V
 **Cách dùng**: diễn tả hành động của một động từ xảy ra đối với một danh từ
 
 **Ví dụ**:
-> [!content]- 1\. ほん**を**　よみますせん。
+> [!content]- 1\. 本**を**　読みますせん。
 > Tôi **không đọc sách**.
 > 
 > ![[Screen Recording 2024-09-16 211056.mp3]]
@@ -60,7 +60,7 @@ tags:
 > 
 > ![[Screen Recording 2024-09-16 211144.mp3]]
 
-> [!content]- 3\. テレビ**を**　みました。
+> [!content]- 3\. テレビ**を**　見ました。
 > Tôi **đã xem TV**.
 > 
 > ![[Screen Recording 2024-09-16 211225.mp3]]
@@ -77,12 +77,12 @@ tags:
 **Cách dùng**: hỏi về hành động hoặc hoạt động mà người khác đang làm hoặc sẽ làm. Đây là cách hỏi thông tin về hành động cụ thể.
 
 **Ví dụ**:
-> [!content]- 1\. いま　あなたは　**なにを　しますか**。
+> [!content]- 1\. 今　あなたは　**何を　しますか**。
 > Bây giờ bạn đang **làm gì**?
 > 
 > ![[Screen Recording 2024-09-16 211242.mp3]]
 
-> [!content]- 2\. ばんごはんに　**なにを　たべますか**。
+> [!content]- 2\. 晩御飯に　**何を　食べますか**。
 > Bạn sẽ **ăn gì** cho bữa tối?
 > 
 > ![[Screen Recording 2024-09-16 211300.mp3]]
@@ -95,39 +95,39 @@ tags:
 - **なに** được dùng trong trường hợp còn lại
 
 **Ví dụ**:
-> [!content]- 1\. せんせいは　**なに**を　たべたいですか？
+> [!content]- 1\. 先生は　**なに**を　食べたいですか？
 > Thầy muốn ăn **cái gì** ạ?
 > 
 > ![[Screen Recording 2024-09-16 211318.mp3]]
 
-> [!content]- 2\. かいしゃには　**なに**で　いきますか？
+> [!content]- 2\. 会社には　**なに**で　行きますか？
 > Bạn sẽ đi bằng (phương tiện) **gì** tới công ty?
 > 
 > ![[Screen Recording 2024-09-16 211335.mp3]]
 
-> [!content]- 3\. おかあさんの　たんじょうびに、**なん**と　いいますか？
+> [!content]- 3\. お母さんの　誕生日に、**なん**と　言いますか？
 > Bạn sẽ nói **cái gì** vào ngày sinh nhật của mẹ?
 > 
 > ![[Screen Recording 2024-09-16 211355.mp3]]
 
-> [!content]- 4\. このへやには　**なに**か　へんな　おとが　しますか？
+> [!content]- 4\. この部屋には　**なに**か　変な　音が　しますか？
 > Có âm thanh lạ **nào** phát ra từ phòng này không?
 > 
 > ![[Screen Recording 2024-09-16 211413.mp3]]
 
-> [!content]- 5\. このみせには　**なん**の　あたらしい　しょうひんが　ありますか？
+> [!content]- 5\. この店には　**なん**の　あたらしい　商品が　ありますか？
 > Cửa hàng này có những sản phẩm **nào**?
 > 
 > ![[Screen Recording 2024-09-16 211432.mp3]]
 
-> [!content]- 6\. にほんごの　べんきょうは　**なん**で　たいへんですか？
+> [!content]- 6\. 日本語の　勉強は　**なん**で　大変ですか？
 > **Tại sao** việc học tiếng Nhật lại khó khăn?
 > 
 > ![[Screen Recording 2024-09-16 211451.mp3]]
 
 > [!info]- Lưu ý
 > - **なんで** còn dùng để hỏi lí do (ví dụ 6), nên muốn rõ ý hỏi về phương tiện thì dùng **なにで**
-> - **なん、なに** đều mang cùng ý nghĩa
+> - **なん、なに** đều mang cùng ý nghĩa và cùng có hán tự là **何**
 
 # N (địa điểm) で V
 **Ý nghĩa**: làm cái gì ở đâu
@@ -135,7 +135,7 @@ tags:
 **Cách dùng**: chỉ nơi mà một hành động xảy ra
 
 **Ví dụ**:
-> [!content]- 1\. このレストラン**で**　ごはんを　**たべます**。
+> [!content]- 1\. このレストラン**で**　ご飯を　**食べます**。
 > Tôi **ăn** cơm **ở** nhà hàng này.
 > 
 > ![[Screen Recording 2024-09-16 211515.mp3]]
@@ -146,7 +146,7 @@ tags:
 **Cách dùng**: đề xuất, mời gọi hoặc khuyến khích ai đó làm một việc gì đó cùng bạn. Đây là cách lịch sự để đưa ra lời mời hoặc đề nghị.
 
 **Ví dụ**:
-> [!content]- 1\. いっしょに　 **いきませんか**？
+> [!content]- 1\. 一緒に　 **行きませんか**？
 > Bạn có muốn **đi cùng không**?
 > 
 > ![[Screen Recording 2024-09-16 211532.mp3]]
@@ -157,7 +157,7 @@ tags:
 **Cách dùng**: đề xuất, mời người nghe cùng làm một việc gì đó, thường được dùng trong trường hợp người nghe tích cực đáp ứng đề xuất, lời mời đó
 
 **Ví dụ**:
-> [!content]- 1\. いっしょに　えいがを　**みましょう**。
+> [!content]- 1\. 一緒に　映画を　**見ましょう**。
 > Mình **cùng xem** phim thôi.
 > 
 > ![[Screen Recording 2024-09-16 211600.mp3]]
@@ -171,7 +171,7 @@ tags:
 **Cách dùng**: xác nhận hoặc hỏi lại thông tin, thường ở trong câu hỏi.
 
 **Ví dụ**:
-> [!content]- 1\. ベトナムにりょこうしたんですよ。<br>…ベトナムですか？いいですね！
+> [!content]- 1\. ベトナムに旅行したんですよ。<br>…ベトナムですか？いいですね！
 > Tôi đã du lịch đến Việt Nam rồi đấy!
 > ...Việt Nam? Sướng nhỉ!
 > 
