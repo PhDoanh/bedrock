@@ -34,12 +34,6 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 							</li>
 
 							<li>
-								<a href={resolveRelative(fileData.slug!, "tags/school" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-graduation-cap-line"></i> THPT - Đại học
-								</a>
-							</li>
-
-							<li>
 								<a href={resolveRelative(fileData.slug!, "materials/" as SimpleSlug)} class="dropdown__link">
 									<i class="ri-more-2-fill"></i> Xem thêm
 								</a>
@@ -56,7 +50,7 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 						<ul class="dropdown__menu">
 							<li>
 								<a href={resolveRelative(fileData.slug!, "products/fixyourpc" as FullSlug)} class="dropdown__link">
-									<i class="ri-gamepad-line"></i> Fix Your PC (game)
+									<i class="ri-gamepad-line"></i> Fix Your PC
 								</a>
 							</li>
 
