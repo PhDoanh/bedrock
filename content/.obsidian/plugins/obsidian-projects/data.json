@@ -73,7 +73,15 @@
       "name": "Materials"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Not started",
+            "Doing",
+            "Done"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [
@@ -203,7 +211,15 @@
       "name": "Courses"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Not started",
+            "Doing",
+            "Done"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [

@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Done
 title: Viết kịch bản Bash cho người mới
 author: PhDoanh
 authorlink: https://github.com/PhDoanh

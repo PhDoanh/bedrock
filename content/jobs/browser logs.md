@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Nhật ký trình duyệt
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

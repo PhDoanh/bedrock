@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Gỡ lỗi web qua proxy chuyên dụng
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

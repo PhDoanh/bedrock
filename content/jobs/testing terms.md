@@ -1,6 +1,6 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Các thuật ngữ trong mảng testing
 description:
 author: PhDoanh

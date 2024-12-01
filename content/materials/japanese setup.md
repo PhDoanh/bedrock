@@ -1,6 +1,6 @@
 ---
 draft: true
-status: Backlog
+status: Doing
 title: Các thiết lập khi học tiếng Nhật
 description:
 author: PhDoanh

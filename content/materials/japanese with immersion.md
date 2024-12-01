@@ -1,6 +1,6 @@
 ---
 draft: true
-status: Backlog
+status: Doing
 title: Cách học tiếng Nhật với Immersion
 description:
 author: PhDoanh

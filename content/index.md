@@ -7,17 +7,17 @@ cssclasses:
   - img
 ---
 # Bạn đọc thân mến 🤗
-![[B612_20230706_222553_706.jpg|profile+medium right lp]]Doanh là tên của mình, **kiến thức - kinh nghiệm - trải nghiệm**  là những gì mình muốn chia sẻ và **đây** là nơi lưu giữ chúng. **Hãy cứ tự nhiên như ở nhà!** 😉
+![[B612_20230706_222553_706.jpg|profile+medium right lp]]Doanh là tên của mình, **kiến thức - kinh nghiệm - trải nghiệm**  là những gì mình muốn chia sẻ và **bộ não thứ 2 này** là nơi lưu giữ chúng. **Hãy cứ tự nhiên như ở nhà!** 😉
 
-Blog chủ yếu xoay quanh những hiểu biết của mình về **công nghệ**, trải nghiệm về **sản phẩm và dịch vụ số**, song là kinh nghiệm **kiếm tiền** mà mình tích lũy được theo thời gian. Nhưng đôi khi mình cũng đá sang các lĩnh vực khác như: tiếng nhật, đại học, thể thao, ... 
+Mục đích chính của blog này là ghi lại hành trình học hỏi của mình về chủ đề ***"Công nghệ thông tin trong Nhật Bản"***, đặc biệt là lĩnh vực **IoT (Internet vạn vật)** đã và đang trở thành xu hướng phát triển mạnh của đất nước mặt trời mọc này. Các nội dung liên quan khác (Tiếng Nhật, Việc làm, Văn hóa Nhật Bản, ...) cũng được mình đề cập trong blog này.
 
-![[Pasted image 20241010122523.png|center]]
+![[Pasted image 20241201190325.png|center]]
 
 > [!tip]- Mẹo sử dụng blog
 > **Đăng nhập tài khoản [GitHub](https://github.com/login)** sẽ giúp bạn có được trải nghiệm dùng hoàn chỉnh với đầy đủ các tính năng như: tương tác và bình luận bài viết, chỉnh sửa bài viết, tham gia cộng đồng Doanhanma, ...
 
 # Cộng đồng Doanhanma 🤝
-![[Pasted image 20241010123742.png|center]]
+![[Pasted image 20241201202711.png|center]]
 
 Hầu hết các thông tin trao đổi về Doanhanma đều được tổ chức trên nền tảng Github, bao gồm:
 - 📣 **[Announcements](https://github.com/PhDoanh/doanhanma/discussions/categories/announcements) (Thông báo)**: các tin tức mới nhất được cập nhật bởi mình
@@ -26,7 +26,7 @@ Hầu hết các thông tin trao đổi về Doanhanma đều được tổ ch�
 - 🗳️ **[Polls](https://github.com/PhDoanh/doanhanma/discussions/categories/polls) (Bình chọn)**: Bỏ phiếu cho các bài khảo sát cộng đồng
 - 🙏 **[Q&A](https://github.com/PhDoanh/doanhanma/discussions/categories/q-a) (Câu hỏi và Trả lời)**: Đặt và trả lời các câu hỏi có liên quan
 
-> [!info] Lưu ý
+> [!info]- Lưu ý
 > Nếu bạn cần trao đổi riêng tư thì <a href="#footer" >đây</a> là thông tin liên hệ của mình
 
 # Các câu hỏi thường gặp ❓
@@ -37,7 +37,7 @@ Hầu hết các thông tin trao đổi về Doanhanma đều được tổ ch�
 > Bạn không thể làm được điều đó vì đây là blog cá nhân! 
 
 > [!question]- Tính năng chỉnh sửa bài viết hoạt động như thế nào?
-> Nếu như bài viết đó cho phép sửa đổi, bạn sẽ thấy một liên kết "Sửa bài viết" ngay dưới tiêu đề của nó. Sau khi nhấp vào, bạn sẽ được đưa đến một trình soạn thảo văn bản Markdown. Thực hiện các thay đổi trên đó và lưu lại bằng nút "Commit changes". Cuối cùng là chờ đợi cho đến khi các thay đổi của bạn được phê duyệt! Xem thêm tại [đây](https://github.com/PhDoanh/doanhanma/discussions/39)
+> Nếu như bài viết đó cho phép sửa đổi, bạn sẽ thấy một liên kết **"Sửa bài viết"** ngay dưới tiêu đề của nó. Sau khi nhấp vào, bạn sẽ được đưa đến một trình soạn thảo văn bản Markdown. Thực hiện các thay đổi trên đó và lưu lại bằng nút **"Commit changes"**. Cuối cùng là chờ đợi cho đến khi các thay đổi của bạn được phê duyệt! Xem thêm tại [đây](https://github.com/PhDoanh/doanhanma/discussions/39)
 
 > [!question]- Markdown là gì?
 > Là một ngôn ngữ cho phép soạn thảo, trang trí văn bản trực tiếp trên file bằng các cú pháp mà không phải thông qua công cụ hay phần mềm gì, được ưu chuộng bởi rất nhiều nhà sáng tạo nội dung hiện nay. Bạn có thể tìm hiểu thêm tại [đây](https://www.markdownguide.org/)!

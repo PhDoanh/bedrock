@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Not started
 title: Các bài toán lập trình
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: []

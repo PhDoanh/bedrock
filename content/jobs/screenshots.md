@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Ảnh chụp màn hình
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

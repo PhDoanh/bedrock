@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Thông tin nhận dạng cá nhân
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

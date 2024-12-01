@@ -1,6 +1,6 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Cách trở thành một blogger A đến Á
 author: PhDoanh
 authorlink: https://github.com/PhDoanh

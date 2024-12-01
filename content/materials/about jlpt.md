@@ -1,11 +1,11 @@
 ---
 draft: true
-status: Backlog
+status: Not started
 title: Thông tin về JLPT
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
+tags:
 aliases:
   - about jlpt
 cssclasses: []

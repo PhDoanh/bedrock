@@ -1,8 +1,8 @@
 ---
 draft: true
-status: Backlog
+status: Done
 title: Nhật ký thiết bị di động
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

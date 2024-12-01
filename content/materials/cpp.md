@@ -1,5 +1,5 @@
 ---
-status: Backlog
+status: Not started
 title: Ngôn ngữ lập trình C++
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
