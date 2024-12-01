@@ -3,7 +3,7 @@ status: Done
 title: "Nhật ngữ 4: Nghỉ trưa"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
@@ -11,33 +11,33 @@ tags:
   - N5
   - elementary
 ---
-# ひるやすみ
+# 昼休み
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **ゾアイン**さん: こんにちは、ヒエウさん！いま　なんじ　ですか？
+> [!content]- **ゾアイン**さん: こんにちは、ヒエウさん！今何時ですか？
 > **Doanh**: Chào Hiếu! Bây giờ là mấy giờ rồi?
 
-> [!content]- **ヒエウ**さん: こんにちは、ゾアインさん！[[#いま ーじ ーふんです|いま　１０じはんです]]。
+> [!content]- **ヒエウ**さん: こんにちは、ゾアインさん！[[#いま ーじ ーふんです|今１０時半です]]。
 > **Hiếu**: Chào Doanh! Bây giờ là 10 giờ 30 phút.
 
-> [!content]- **ゾアイン**さん: わたしは　いま　おひるごはんを　[[#V + ます／ません／ました／ませんでた|たべます]]。ヒエウさんも？
+> [!content]- **ゾアイン**さん: 私は今お昼ご飯を[[#V + ます／ません／ました／ませんでた|食べます]]。ヒエウさんも？
 > **Doanh**: Giờ tớ sẽ đi ăn trưa. Hiếu cũng vậy à?
 
-> [!content]- **ヒエウ**さん: わたしは　[[#N₁ から N₂ まで|じゅういちじ　から　じゅうにじ　まで]]　おひるごはんを　たべますよ。
+> [!content]- **ヒエウ**さん: 私は[[#N₁ から N₂ まで|十一時から十二時まで]]お昼ご飯をたべますよ。
 > **Hiếu**:  Tớ đi ăn từ 11 giờ đến 12 giờ cơ!
 
-> [!content]- **ゾアイン**さん: [[#N₁ と N₂|だれと]]　たべますか。
+> [!content]- **ゾアイン**さん: [[#N₁ と N₂|誰と]]食べますか。
 > **Doanh**: Thế bạn ăn cùng ai?
 
-> [!content]- **ヒエウ**さん: ひとりで。
+> [!content]- **ヒエウ**さん: 一人で。
 > **Hiếu**: Tớ ăn một mình.
 
-> [!content]- **ゾアイン**さん: よかった！いっしょに　たべませんか？
+> [!content]- **ゾアイン**さん: よかった！一緒にたべませんか？
 > **Doanh**: Tốt quá! Mình cùng ăn với nhau nhé?
 
-> [!content]- **ヒエウ**さん: えっと…　[[#～ね|いいですね]]！たべましょう！
+> [!content]- **ヒエウ**さん: えっと…[[#～ね|いいですね]]！食べましょう！
 > **Hiếu**: Hmm (để mình nghĩ đã)... Cũng được đấy nhỉ! Cùng ăn thôi nào!
 
 # いま　ーじ　ーふんです
@@ -49,7 +49,7 @@ tags:
 - **なんじ** để hỏi ==mấy giờ==, **なんぷん** để hỏi ==mấy phút==
 
 **Ví dụ**:
-> [!content]- 1\. いま　**７じ　２ふん**です。
+> [!content]- 1\. 今　**７じ　２ふん**です。
 > Bây giờ là **7 giờ 2 phút**.
 > 
 > ![[Screen Recording 2024-09-15 192222.mp3]]
@@ -63,31 +63,31 @@ tags:
 
 |            | Hiện tại/Tương lai<br> | Quá khứ<br>            |
 | :--------- | ---------------------- | ---------------------- |
-| Khẳng định | おきます: (sẽ) dậy         | おきました: đã dậy          |
-| Phủ định   | おきません: (sẽ) không dậy  | おきませんでした: đã không dậy |
+| Khẳng định | 起きます: (sẽ) dậy         | 起きました: đã dậy          |
+| Phủ định   | 起きません: (sẽ) không dậy  | 起きませんでした: đã không dậy |
 
 **Ví dụ**:
-> [!content]- 1\. おちゃを　**のみます**。
+> [!content]- 1\. お茶を　**飲みます**。
 > Tôi **uống** trà.
 > 
 > ![[Screen Recording 2024-09-15 192247.mp3]]
 
-> [!content]- 2\. かいしゃに　**いきません**。
+> [!content]- 2\. 会社に　**行きません**。
 > Tôi **sẽ không đi** đến công ty.
 > 
 > ![[Screen Recording 2024-09-15 192307.mp3]]
 
-> [!content]- 3\. きのう　えいがを　**みました**。
+> [!content]- 3\. 昨日　映画を　**見ました**。
 > Hôm qua tôi **đã xem** phim chiếu rạp.
 > 
 > ![[Screen Recording 2024-09-15 192326.mp3]]
 
-> [!content]- 4\. このほんを　**よみませんでした**か。
+> [!content]- 4\. この本を　**読みませんでした**か。
 > Bạn **(đã) không đọc** cuốn sách này à?
 > 
 > ![[Screen Recording 2024-09-15 192343.mp3]]
 
-> [!content]- 5\. いつ　うちに　**かえります**か。
+> [!content]- 5\. いつ　家に　**帰ります**か。
 > Khi nào con **về** nhà?
 > 
 > ![[Screen Recording 2024-09-15 192405.mp3]]
@@ -101,19 +101,19 @@ tags:
 **Cách dùng**: diễn tả ==thời điểm== mà hành động xảy ra
 
 **Ví dụ**:
-> [!content]- 1\. まいあさ　7じ**に**　おきます。
+> [!content]- 1\. 毎朝　7じ**に**　起きます。
 > Hằng sáng tôi dậy **lúc** 7 giờ.
 > 
 > ![[Screen Recording 2024-09-15 192454.mp3]]
 
-> [!content]- 2\. きょう　5じ**に**　しごとが　おわります。
+> [!content]- 2\. 今日　5じ**に**　仕事が　終わります。
 > Hôm nay công việc sẽ kết thúc **vào** 5 giờ.
 > 
 > ![[Screen Recording 2024-09-15 192525.mp3]]
 
 > [!info]- Lưu ý
 > - Chỉ dùng **に** sau những danh từ chỉ thời gian ==cụ thể, rõ ràng==
-> - **～ようび、あさ、ひる、ばん、よる** là các từ ==ngoại lệ== có thể dùng **に** hoặc không đều được
+> - **～曜日、朝、昼、晩、夜** là các từ ==ngoại lệ== có thể dùng **に** hoặc không đều được
 
 # N₁ から N₂ まで
 **Ý nghĩa**: ==từ== danh từ 1 ==đến== danh từ 2
@@ -121,17 +121,17 @@ tags:
 **Cách dùng**: **から、まで** biểu thị điểm ==bắt đầu, kết thúc== của ==thời gian hoặc địa điểm==
 
 **Ví dụ**
-> [!content]- 1\. いえ**から**　がっこう**まで**　あるきます。
+> [!content]- 1\. 家**から**　学校**まで**　歩きます。
 > Tôi đi bộ **từ** nhà **đến** trường.
 > 
 > ![[Screen Recording 2024-09-15 192549.mp3]]
 
-> [!content]- 2\. ごぜん　９じ**から**　ごご　５じ**まで**　はたらきます。
+> [!content]- 2\. 午前　９じ**から**　午後　５じ**まで**　働きます。
 > Tôi làm việc **từ** 9 giờ sáng **đến** 5 giờ chiều.
 > 
 > ![[Screen Recording 2024-09-15 192607.mp3]]
 
-> [!content]- 3\. ぎんこうは　あした**から**　あきます。
+> [!content]- 3\. 銀行は　明日**から**　開きます。
 > Ngân hàng mở cửa **từ** ngày mai.
 > 
 > ![[Screen Recording 2024-09-15 192625.mp3]]
@@ -145,7 +145,7 @@ tags:
 **Cách dùng**: ==nối== 2 danh từ lại với nhau
 
 **Ví dụ**: 
-> [!content]- 1\. みんな**と**　わたしは　えいがを　みに　いきます。
+> [!content]- 1\. みんな**と**　私は　映画を　みに　いきます。
 > Mọi người **và** tôi sẽ đi xem phim.
 > 
 > ![[Screen Recording 2024-09-15 192646.mp3]]
@@ -156,17 +156,15 @@ tags:
 **Cách dùng**: thể hiện sự ==kỳ vọng== của người nói vào sự ==đồng ý== của người nghe hoặc để ==xác nhận, nhắc nhở== thông tin
 
 **Ví dụ**:
-> [!content]- 1\. しゅくだい、まだ　おわってない**ね**。
+> [!content]- 1\. 宿題、まだ　終わってない**ね**。
 > Bài tập về nhà, vẫn chưa xong đâu **nhé**!
 > 
 > ![[Screen Recording 2024-09-15 192704.mp3]]
 
-> [!content]- 2\. きょう、いい　てんきだ**ね**！
+> [!content]- 2\. 今日、いい　天気だ**ね**！
 > Hôm nay trời đẹp **nhỉ**!
 > 
 > ![[Screen Recording 2024-09-15 192729.mp3]]
-
-
 
 1. **Số từ**: từ dùng để chỉ con số, số lượng [[#^7b4e00|↩️]] ^37f41a
 2. **Trợ số từ**: đơn vị của số từ như: cái, chiếc, miếng, giờ, phút, giây, ... [[#^7b4e00|↩️]] ^4476c1
