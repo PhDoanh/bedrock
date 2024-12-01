@@ -3,7 +3,7 @@ status: Done
 title: "Nhật ngữ 5: Mua sắm cùng bạn"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-draft: true
+draft: false
 tags:
   - japanese
   - grammar
@@ -11,36 +11,36 @@ tags:
   - N5
   - elementary
 ---
-# ともだちと　かいものします
+# 友だちと買い物します
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **ハイ**さん: ゾアインさん、きょうは　なにを　しますか。
+> [!content]- **ハイ**さん: ゾアインさん、今日は何をしますか。
 > **Hải**: Doanh ê, hôm nay ông sẽ làm gì?
 
-> [!content]- **ゾアイン**さん: [[#N (địa điểm) へ いきます／きます／かえります|デパートへ　いきます]]。
+> [!content]- **ゾアイン**さん: [[#N (địa điểm) へ いきます／きます／かえります|デパートへ行きます]]。
 > **Doanh**: Tôi sẽ đến trung tâm thương mại.
 
-> [!content]- **ハイ**さん: [[#いつ|いつ]]　いきますか。
+> [!content]- **ハイ**さん: [[#いつ|いつ]]行きますか。
 > **Hải**: Khi nào ông đi? 
 
-> [!content]- **ゾアイン**さん: いまよ！
+> [!content]- **ゾアイン**さん: 今よ！
 > **Doanh**: Bây giờ (đi luôn)!
 
-> [!content]- **ハイ**さん: [[#N (người/động vật) と V|だれと　いきますか]]？ 
+> [!content]- **ハイ**さん: [[#N (người/động vật) と V|誰と行きますか]]？ 
 > **Hải**: Ông có đi cùng ai không?
 
-> [!content]- **ゾアイン**さん: [[#Từ để hỏi も + V (phủ định)|だれもと　いきません]]。
+> [!content]- **ゾアイン**さん: [[#Từ để hỏi も + V (phủ định)|誰もと行きません]]。
 > **Doanh**: Tôi không đi cùng ai cả.
 
-> [!content]- **ハイ**さん: よかった。ぼくも　いきますよ！ 
+> [!content]- **ハイ**さん: よかった。僕も行きますよ！ 
 > **Hải**:  Vậy thì tốt quá. Tôi cũng sẽ đi (mua sắm) đấy!
 
-> [!content]- **ゾアイン**さん: ほんとう？[[#N (phương tiện đi lại) で いきます／きます／かえります|なにで　いきますか]]？
+> [!content]- **ゾアイン**さん: 本当？[[#N (phương tiện đi lại) で いきます／きます／かえります|何で行きますか]]？
 > **Doanh**: Thật sao? Ông đi bằng gì?
 
-> [!content]- **ハイ**さん: バスでいきます。いっしょに　いきませんか？バスは　とても　べんりです[[#～よ|よ]]。 
+> [!content]- **ハイ**さん: バスで行きます。一緒に行きませんか？バスはとても便利です[[#～よ|よ]]。 
 > **Hải**: Đi bằng xe buýt. Ông đi cùng không? Xe buýt tiện lắm đấy!
 
 > [!content]- **ゾアイン**さん: [[#そうですね|そうですね]]。じゃあ、そうしましょう! 
@@ -55,17 +55,17 @@ tags:
 - **かえります** (trở về): di chuyển trở lại một nơi quen thuộc (ví dụ: nhà, quê hương, ...)
 
 **Ví dụ**:
-> [!content]- 1\. こうえん**へ　いきます**。
+> [!content]- 1\. こうえん**へ　行きます**。
 > Tôi **đi** công viên.
 > 
 > ![[Screen Recording 2024-09-16 133658.mp3]]
 
-> [!content]- 2\. うち**へ　かえりますか**？
+> [!content]- 2\. うち**へ　帰りますか**？
 > Con **sẽ về** nhà chứ?
 > 
 > ![[Screen Recording 2024-09-16 133739.mp3]]
 
-> [!content]- 3\. がっこう**へ　きますした**。
+> [!content]- 3\. 学校**へ　来ますした**。
 > Tôi đã **đến** trường
 > 
 > ![[Screen Recording 2024-09-16 133758.mp3]]
@@ -80,17 +80,17 @@ tags:
 **Cách dùng**: ==phủ định hoàn toàn==, nhấn mạnh rằng không có trường hợp nào thỏa mãn hành động hoặc trạng thái trong câu.
 
 **Ví dụ**:
-> [!content]- 1\. だれ**も**　きませんでした。
+> [!content]- 1\. 誰**も**　来ませんでした。
 > Đã **không một ai** đến.
 > 
 > ![[Screen Recording 2024-09-16 133822.mp3]]
 
-> [!content]- 2\. どこ**も**　あいて　いません。
+> [!content]- 2\. どこ**も**　開いて　いません。
 > **Không nơi nào** mở cửa.
 > 
 > ![[Screen Recording 2024-09-16 133907.mp3]]
 
-> [!content]- 3\. なに**も**　たべませんでした。
+> [!content]- 3\. 何**も**　食べませんでした。
 > Tôi đã **không** ăn **gì cả**.
 > 
 > ![[Screen Recording 2024-09-16 133943.mp3]]
@@ -104,24 +104,24 @@ tags:
 **Cách dùng**: diễn tả hành động ==di chuyển bằng một phương tiện== đi lại cụ thể. 
 
 **Ví dụ**:
-> [!content]- 1\. ひこうき**で**　いきます。
+> [!content]- 1\. 飛行機**で**　行きます。
 > Tôi đi **bằng** máy bay.
 > 
 > ![[Screen Recording 2024-09-16 134016.mp3]]
 
-> [!content]- 2\. でんしゃ**で**　きます。
+> [!content]- 2\. 電車**で**　来ます。
 > Tôi đến **bằng** tàu điện.
 > 
 > ![[Screen Recording 2024-09-16 134037.mp3]]
 
-> [!content]- 3\. **あるいて**　かえります。
+> [!content]- 3\. **歩いて**　帰ります。
 > Tôi về nhà **bằng cách đi bộ**.
 > 
 > ![[Screen Recording 2024-09-16 134057.mp3]]
 
 > [!info]- Lưu ý
 > - **で** biểu thị phương tiện hay cách thức tiến hành một việc gì đó
-> - Trường hợp đi bộ thì dùng **あるいて** mà không kèm **で** (ví dụ 3)
+> - Trường hợp đi bộ thì dùng **歩いて** mà không kèm **で** (ví dụ 3)
 
 # N (người/động vật) と V
 **Ý nghĩa**: làm gì cùng ai (con vật) nào
@@ -129,23 +129,23 @@ tags:
 **Cách dùng**: nhấn mạnh sự hiện diện của người hoặc động vật ==cùng tham gia== vào một hành động hoặc tình huống nào đó
 
 **Ví dụ**:
-> [!content]- 1\. わたしは　ともだち**と**　こうえんで　あそんで　います。
+> [!content]- 1\. 私は　友達**と**　こうえんで　遊んで　います。
 > Con đang chơi **với** bạn ở công viên.
 > 
 > ![[Screen Recording 2024-09-16 134117.mp3]]
 
-> [!content]- 2\. ねこ**と**　うさぎが　いっしょに　ねて　います。
+> [!content]- 2\. 猫**と**　うさぎが　一緒に　寝て　います。
 > Con mèo **và** con thỏ đang ngủ cùng nhau.
 > 
 > ![[Screen Recording 2024-09-16 134137.mp3]]
 
-> [!content]- 3\. **ひとりで**　ランチを　たべます。
+> [!content]- 3\. **一人で**　ランチを　食べます。
 > Tôi ăn trưa **một mình**.
 > 
 > ![[Screen Recording 2024-09-16 134154.mp3]]
 
 > [!info]- Lưu ý
-> Nếu thực hiện hành động một mình thì dùng **ひとりで** mà không kèm **と** (ví dụ 3)
+> Nếu thực hiện hành động một mình thì dùng **一人で** mà không kèm **と** (ví dụ 3)
 
 # いつ
 **Ý nghĩa**: khi nào, bao giờ, ...
@@ -153,12 +153,12 @@ tags:
 **Cách dùng**: hỏi về ==thời gian==
 
 **Ví dụ**:
-> [!content]- 1\. あなたは　**いつ**　かえりますか？
+> [!content]- 1\. あなたは　**いつ**　帰りますか？
 > **Bao giờ** bạn về?
 > 
 > ![[Screen Recording 2024-09-16 134218.mp3]]
 
-> [!content]- 2\. この　みせは　**いつ**　ひらいて　いますか？
+> [!content]- 2\. この　店は　**いつ**　開いて　いますか？
 > Cửa hàng này mở cửa **khi nào**?
 > 
 > ![[Screen Recording 2024-09-16 134233.mp3]]
@@ -172,7 +172,7 @@ tags:
 **Cách dùng**: ==Nhấn mạnh thông tin== mà người nghe chưa biết, truyền đạt sự phán đoán hay ý kiến của người nói với người nghe
 
 **Ví dụ**:
-> [!content]- 1\. きょう、パーティーが　ある**よ**。
+> [!content]- 1\. 今日、パーティーが　ある**よ**。
 > Hôm nay có tiệc **đấy**!
 > 
 > ![[Screen Recording 2024-09-16 134254.mp3]]
@@ -183,7 +183,7 @@ tags:
 **Cách dùng**: Thể hiện ==sự đồng ý, đồng cảm== với điều đối phương nói, điều mà cả người tiếp nhận thông tin ==cũng nghĩ/biết như thế==.
 
 **Ví dụ**:
-> [!content]- 1\. あしたは　てんきが　よさそうですね。<br>…**そうですね**、はれたら　いいですね。
+> [!content]- 1\. 明日は　天気が　よさそうですね。<br>…**そうですね**、晴れたら　いいですね。
 > Ngày mai thời tiết có vẻ tốt ha!
 > ...**Ừ nhỉ**! Nếu trời đẹp thì tốt quá nhỉ!
 > 
