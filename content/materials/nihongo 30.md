@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Done
 title: "Nhật ngữ 30: Bài tập vẫn chưa xong"
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -16,24 +16,24 @@ aliases:
 cssclasses:
   - img
 ---
-# まだしゅくだい
+# まだ宿題
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **キエン**さん: ホアンさん、まだ　しゅくだいを　[[#V て あります|して　ありますか]]？
+> [!content]- **キエン**さん: ホアンさん、まだ宿題を[[#V て あります|してありますか]]？
 > **Kiên**: Bài tập đã làm xong chưa Hoàng?
 
-> [!content]- **ホアン**さん: [[#まだ + câu khẳng định|まだ]]　やって　あるよ。でも、むずかしいところが　のこって　います。
+> [!content]- **ホアン**さん: [[#まだ + câu khẳng định|まだ]]やってあるよ。でも、難しいところが残っています。
 > **Hoàng**: Mình vẫn còn đang làm. Nhưng còn vài chỗ khó (không biết làm).
 
-> [!content]- **キエン**さん: そうか。じゃあ、あとで　しゅくだいを　[[#V て おきます|みて　おきますよ]]。
+> [!content]- **キエン**さん: そうか。じゃあ、あとで宿題を[[#V て おきます|見ておきますよ]]。
 > **Kiên**: Vậy à. Thế để lát nữa mình xem bài cho nhé.
 
-> [!content]- **ホアン**さん: ほんとう？キエンは　やさしいともだちだね。
+> [!content]- **ホアン**さん: 本当？キエンは優しい友達だね。
 > **Hoàng**: Thật sao? Kiên đúng là người bạn tốt bụng.
 
-> [!content]- **キエン**さん: いいえ、キエンだけ　じゃなく、ヒエウさん[[#とか|とか]]、ビンは　てつだい[[#Trợ từ cách + も|にも]]　きますよ。
+> [!content]- **キエン**さん: いいえ、キエンだけじゃなく、ヒエウさん[[#とか|とか]]、ビンは手伝い[[#Trợ từ cách + も|にも]]来ますよ。
 > **Kiên**: Không chỉ Kiên đâu, Hiếu và Bình cũng sẽ đến giúp nữa.
 
 # V て　あります
@@ -44,17 +44,17 @@ cssclasses:
 - nhấn mạnh cái gì ... thì ở đâu: **N₂ は　N₁ に　V て　あります** (ví dụ 2)
 
 **Ví dụ**:
-> [!content]- 1\. かべに　ポスターが　**はって　あります**。
+> [!content]- 1\. 壁に　ポスターが　**貼って　あります**。
 > Poster **đã được dán** lên tường.
 > 
 > ![[かべに ポスターが はって あります .m4a]]
 
-> [!content]- 2\. ほんは　つくえのうえに　**おいて　あります**。
+> [!content]- 2\. 本は　机の上に　**置いて　あります**。
 > Sách thì **đã được đặt** lên bàn.
 > 
 > ![[本は つくえのうえに おいて あります .m4a]]
 
-> [!content]- 3\. ドアが　**しめて　あります**。
+> [!content]- 3\. ドアが　**閉めて　あります**。
 > Cửa **đã được đóng**.
 > 
 > ![[ドアが しめて あります .m4a]]
@@ -71,17 +71,17 @@ cssclasses:
 - Nó cũng có thể được dùng để ==giữ nguyên, duy trì trạng thái== sau khi hành động được thực hiện.
 
 **Ví dụ**:
-> [!content]- 1\. ドアを　**あけて　おきます**。
+> [!content]- 1\. ドアを　**開けて　おきます**。
 > Tôi sẽ **giữ cửa mở** (không đóng lại sau khi mở).
 > 
 > ![[ドアを あけて おきます .m4a]]
 
-> [!content]- 2\. まどを　**あけて　おきます**。
+> [!content]- 2\. 窓を　**開けて　おきます**。
 > Tôi sẽ **mở** cửa sổ **sẵn** (để giữ cho phòng thoáng khí).
 > 
 > ![[Screen Recording 2024-09-14 211352.mp3]]
 
-> [!content]- 3\. ほんを　**よんで　おきます**。
+> [!content]- 3\. 本を　**読んで　おきます**。
 > Tôi sẽ **đọc** sách **trước** (để chuẩn bị cho buổi học sắp tới).
 > 
 > ![[Screen Recording 2024-09-14 212016.mp3]]
@@ -97,17 +97,17 @@ cssclasses:
 - **まだ** thường đứng trước ==động từ hoặc tính từ== trong câu khẳng định để chỉ ra rằng một trạng thái hoặc hành động vẫn chưa kết thúc.
 
 **Ví dụ**:
-> [!content]- 1\. **まだ**　あめが　ふって　います。
+> [!content]- 1\. **まだ**　雨が　降って　います。
 > Trời **vẫn còn** đang mưa.
 > 
 > ![[Screen Recording 2024-09-14 212507.mp3]]
 
-> [!content]- 2\. **まだ**　しゅくだいを　して　います。
+> [!content]- 2\. **まだ**　宿題を　して　います。
 > Tôi **vẫn đang** làm bài tập.
 > 
 > ![[Screen Recording 2024-09-14 212552.mp3]]
 
-> [!content]- 3\. **まだ** 　いそがしい です。
+> [!content]- 3\. **まだ** 　忙しい です。
 > Tôi **vẫn còn** bận.
 > 
 > ![[Screen Recording 2024-09-14 212627.mp3]]
@@ -123,7 +123,7 @@ cssclasses:
 - **とか** được đặt sau ==danh từ, động từ hay một câu== hoàn chỉnh để đưa ra các ví dụ. Nó có thể đi cùng với các trợ từ khác như **も** / **は** để tạo ra sự nhấn mạnh hoặc so sánh.
 
 **Ví dụ**:
-> [!content]- 1\. おすし**とか**　ラーメン**とか**　たべたい。
+> [!content]- 1\. お寿司**とか**　ラーメン**とか**　食べたい。
 > Tôi muốn ăn những món **như là** sushi, ramen.
 > 
 > ![[Screen Recording 2024-09-14 212655.mp3]]
@@ -137,12 +137,12 @@ cssclasses:
 **Cách dùng**: Trợ từ **も** khi kết hợp với danh từ có các trợ từ **が、を** đi kèm thì các trợ từ **が、を** sẽ được lược bỏ, còn các trợ từ khác thì **も** sẽ kết hợp ngay phía sau chúng, riêng **へ** lược bỏ hoặc để nguyên đều được.
 
 **Ví dụ**:
-> [!content]- 1\. ほか**にも**　いろいろ　あります。
+> [!content]- 1\. 他**にも**　いろいろ　あります。
 > **Cũng** còn có nhiều thứ khác.
 > 
 > ![[Screen Recording 2024-09-14 212725.mp3]]
 
-> [!content]- 2\. どこ**(へ)も**　いきません。
+> [!content]- 2\. どこ**(へ)も**　行きません。
 > Tôi chẳng đi đâu cả.
 > 
 > ![[Screen Recording 2024-09-14 212807.mp3]]
