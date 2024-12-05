@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Done
 title: "Nhật ngữ 42: Công thức làm bánh mới"
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
