@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Done
 title: "Nhật ngữ 40: Cái giá của việc nói leo"
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -15,33 +15,33 @@ aliases:
   - nihongo 40
 cssclasses:
 ---
-# 余計な　口を　挟む　ことの　代償
+# 余計な口を挟むことの代償
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- **先生:** みんな、誰が　電球の　フィラメントを　[[#Thể thông thường か、～|明したか]]、　[[#Vて みます|考えて　みて　ください]]！
+> [!content]- **先生:** みんな、誰が電球のフィラメントを[[#Thể thông thường か、～|明したか]]、[[#Vて みます|考えてみてください]]！
 > **Thầy giáo:** Các em hãy thử nghĩ xem ai là người đã phát minh ra bóng đèn sợi đốt!
 
-> [!content]- **バンさん:** [[#Thể thông thường か どうか、～|トーマス・エジソンか　どうか]]、わからないね。
+> [!content]- **バンさん:** [[#Thể thông thường か どうか、～|トーマス・エジソンかどうか]]、わからないね。
 > **Văn:** Không biết có phải Thomas Edison hay không nhỉ.
 
 > [!content]- **リンさん:** 先生、トーマス・エジソンです！
 > **Linh:** Thưa thầy, là Thomas Edison ạ!
 
-> [!content]- **先生:** 正解です！リンに　ポイントを　加算します。
+> [!content]- **先生:** 正解です！リンにポイントを加算します。
 > **Thầy giáo:** Chính xác! Thầy sẽ cộng điểm cho bạn Linh.
 
-> [!content]- **バンさん:** え!? 俺が　先に　言った　のに、先生！
+> [!content]- **バンさん:** え!? 俺が先に言ったのに、先生！
 > **Văn:** Ơ!? Em là người nói trước mà thầy!
 
-> [!content]- **先生:** 俺は　君に　口を　挟むなと　言った　わけじゃないよ！
+> [!content]- **先生:** 俺は君に口を挟むなと言ったわけじゃないよ！
 > **Thầy giáo:** Thầy có bảo em nói leo đâu!
 
-> [!content]- **リンさん:** あなたは　[[#～でしょうか|悲しくない　でしょうか]]？ へへへ…
+> [!content]- **リンさん:** あなたは[[#～でしょうか|悲しくないでしょうか]]？ へへへ…
 > **Linh:** Chắc cậu không buồn đâu nhỉ? He he he...
 
-> [!content]- **バンさん:** どんな　[[#Tính từ đuôi い（~~～い~~）$ rightarrow$～さ|悲しさ]]だよ！ 待ってろよ。
+> [!content]- **バンさん:** どんな[[#Tính từ đuôi い（~~～い~~）$ rightarrow$～さ|悲しさ]]だよ！ 待ってろよ。
 > **Văn:** Nỗi buồn gì chứ! Cứ đợi đấy.
 
 # Thể thông thường か、～
@@ -141,7 +141,7 @@ cssclasses:
 **Cách dùng**: Khi dùng [[nihongo 32#Thể thông thường (~~だ~~) でしょう|でしょう]] trong câu nghi vấn thì nó là cách hỏi ==không yêu cầu câu trả lời chắc chắn==, mang sắc thái ==nhẹ nhàng, mềm mại== với người nghe.
 
 **Ví dụ**:
-> [!content]- 1\. ゾアインさんは　だいがくで　**どうでしょうか**、しらないね。
+> [!content]- 1\. ゾアインさんは　大学で　**どうでしょうか**、知らないね。
 > Không biết bạn Doanh ở đại học **như thế nào nhỉ**?
 > 
 > ![[Screen Recording 2024-11-16 214250.mp3]]
