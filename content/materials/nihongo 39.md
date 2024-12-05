@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 status: Done
 title: "Nhật ngữ 39: Cách giải quyết khi đau bụng giữa kì thi"
-description:
+description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -15,36 +15,36 @@ aliases:
   - nihongo 39
 cssclasses:
 ---
-# 試験の　途中で　お腹が　痛くなったときの　対処法
+# 試験の途中でお腹が痛くなったときの対処法
 > [!tip]- Mẹo đọc truyện
 > - Nhấp vào biểu tượng **">"** để xem **bản dịch**
 > - Nhấp vào thông tin hội thoại **nổi bật** để xem **ngữ pháp**
 
-> [!content]- 母: 今日の　テスト、うまく　できたの？
+> [!content]- 母: 今日のテスト、うまくできたの？
 > Mẹ: Bài kiểm tra hôm nay con làm tốt chứ?
 
-> [!content]- 息子: 問題を　[[#とちゅうで|解いて　いる　途中で]]　お腹が　[[#～て（で）、～|痛く　なって]]、あまり　うまく　できませんでした。
+> [!content]- 息子: 問題を[[#とちゅうで|解いている途中で]]お腹が[[#～て（で）、～|痛くなって]]、あまりうまくできませんでした。
 > Con trai: Trong lúc làm bài, con bị đau bụng giữa chừng nên làm không được tốt.
 
-> [!content]- 母: テスト前に　何か　変なものを　[[#Thể thông thường ので、～|食べたので]]、そう　なったんじゃないの？
+> [!content]- 母: テスト前に何か変なものを[[#Thể thông thường ので、～|食べたので]]、そう　なったんじゃないの？
 > Mẹ: Chắc trước khi thi lại ăn linh tinh gì nên mới thế phải không?
 
-> [!content]- 息子: いいえ！普通に　赤飯を　食べただけですよ。
+> [!content]- 息子: いいえ！普通に赤飯を食べただけですよ。
 > Con trai: Không mẹ! Con ăn xôi gấc bình thường mà.
 
-> [!content]- 母: 変ね！それで、お腹が　痛くなって、外に　出て　処理しなければ　ならなかった？
+> [!content]- 母: 変ね！それで、お腹が痛くなって、外に出て処理しなければならなかった？
 > Mẹ: Kỳ lạ thật! Thế đau bụng có phải xin ra ngoài giải quyết không?
 
-> [!content]- 息子: クラスで　そのまま　処理しました。
+> [!content]- 息子: クラスでそのまま処理しました。
 > Con trai: Con giải quyết ngay trong lớp...
 
-> [!content]- 母: えっ！？まさか、何を　やったの！
+> [!content]- 母: えっ！？まさか、何をやったの！
 > Mẹ: Hả!? Không thể nào, con làm trò gì vậy!
 
-> [!content]- 息子: つまり、試験中は　ずっと　我慢して、答案を　完成させたと　いうことです。
+> [!content]- 息子: つまり、試験中はずっと我慢して、答案を完成させたということです。
 > Con trai: Ý con là nhịn trong suốt giờ thi để hoàn thành bài làm mà!
 
-> [!content]- 母: もう、びっくりしたわ。次は　テストの　前に　あまり　食べ過ぎない　方が　いいかも　しれないね。
+> [!content]- 母: もう、びっくりしたわ。次はテストの前にあまり食べ過ぎない方がいいかもしれないね。
 > Mẹ: Trời ạ, làm mẹ cứ tưởng. Lần sau chắc hạn chế ăn no trước khi thi nhỉ!
 
 # ～て（で）、～
@@ -117,7 +117,7 @@ cssclasses:
 > - Tính từ đuôi **な** và Danh từ ở thể thông thường trong mẫu này sẽ thay **だ** bằng **な** (ví dụ 3, 4)
 > - Mẫu này thường dùng trong văn viết do sắc thái trang trọng, lịch sự và nguyên nhân được nêu ra một cách rõ ràng, thuyết phục. Trong khi mẫu **"～て（で）、～"** phù hợp hơn trong văn nói, chủ yếu nhấn mạnh sự liên kết giữa vế trước với vế sau
 
-# とちゅうで
+# 途中で
 **Ý nghĩa**: Trong lúc, trong khi đang , ...
 
 **Cách dùng**: dùng với **"V từ điển"** hoặc **"Danh từ の"**, diễn tả sự việc ==xảy ra giữa chừng trong một quá trình nào đó==, thường mang tính bất ngờ hoặc không theo kế hoạch ban đầu.
