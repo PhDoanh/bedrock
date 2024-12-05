@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea720275a4f5934c",
+        "id": "dce021774554763d",
         "type": "tabs",
         "children": [
           {
-            "id": "e44fcaa7a191ada9",
+            "id": "660b65e37599462e",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -134,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tags/tester.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of tester"
+              "title": "Outline"
             }
           },
           {
@@ -176,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +191,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e44fcaa7a191ada9",
+  "active": "660b65e37599462e",
   "lastOpenFiles": [
+    "materials/nihongo 39.md",
+    "materials/nihongo 40.md",
+    "materials/nihongo 41.md",
+    "materials/nihongo 42.md",
+    "materials/nihongo 38.md",
+    "materials/nihongo 37.md",
+    "materials/nihongo 36.md",
+    "materials/nihongo 34.md",
+    "materials/nihongo 35.md",
     "materials/nihongo 33.md",
     "materials/nihongo 32.md",
     "materials/nihongo 31.md",
@@ -221,15 +227,6 @@
     "images/Pasted image 20241201190325.png",
     "images/Pasted image 20241010122523.png",
     "Pasted image 20241201190303.png",
-    "draft.md",
-    "materials/stack.md",
-    "materials/sql.md",
-    "materials/about jlpt.md",
-    "materials/bash scripting.md",
-    "materials/coding problems.md",
-    "materials/japanese with immersion.md",
-    "materials/japanese setup.md",
-    "materials/japanese resources.md",
     "images/Screen Recording 2024-11-29 070305.mp3",
     "images/Screen Recording 2024-11-29 070246.mp3",
     "images/Screen Recording 2024-11-29 070224.mp3",
