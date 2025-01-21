@@ -1,0 +1,66 @@
+{
+  "callouts": {
+    "custom": [
+      "advices",
+      "support",
+      "news",
+      "content",
+      "suggest"
+    ],
+    "settings": {
+      "advices": [
+        {
+          "changes": {
+            "icon": "lucide-speech",
+            "color": "161, 106, 73"
+          }
+        }
+      ],
+      "support": [
+        {
+          "changes": {
+            "icon": "lucide-heart",
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "hint": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "news": [
+        {
+          "changes": {
+            "icon": "lucide-bell-ring",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "content": [
+        {
+          "changes": {
+            "icon": "lucide-languages",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "suggest": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "208, 181, 48"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

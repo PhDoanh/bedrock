@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dce021774554763d",
+        "id": "6ae828fc0f63fa03",
         "type": "tabs",
         "children": [
           {
-            "id": "660b65e37599462e",
+            "id": "17368559a2841915",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "index.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -188,45 +194,48 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "660b65e37599462e",
+  "active": "17368559a2841915",
   "lastOpenFiles": [
-    "materials/nihongo 39.md",
-    "materials/nihongo 40.md",
-    "materials/nihongo 41.md",
-    "materials/nihongo 42.md",
-    "materials/nihongo 38.md",
-    "materials/nihongo 37.md",
-    "materials/nihongo 36.md",
-    "materials/nihongo 34.md",
-    "materials/nihongo 35.md",
-    "materials/nihongo 33.md",
-    "materials/nihongo 32.md",
-    "materials/nihongo 31.md",
-    "tags/tester.md",
-    "tags/grammar.md",
-    "templates/nihongo.md",
-    "tags/japanese.md",
-    "tags/my-product.md",
-    "tags/coding.md",
     "index.md",
-    "materials/nihongo 30.md",
-    "materials/nihongo 29.md",
-    "materials/nihongo 7.md",
-    "materials/nihongo 8.md",
+    "materials/6_san.md",
+    "materials/5_no.md",
+    "materials/4_mo.md",
+    "materials/3_desuka.md",
+    "materials/2_ja-arimasen.md",
+    "materials/1_n1-ha-n2-desu.md",
+    "templates/bunpou.md",
+    "templates/dsa.md",
+    "draft.md",
+    "images/3_desuka.png",
+    "images/6_san.png",
+    "images/5_no.png",
+    "images/4_mo.png",
+    "materials/nihongo 1.md",
+    "materials/question-words.md",
+    "images/1_n1-ha-n2-desu.png",
     "materials/nihongo 6.md",
-    "materials/nihongo 28.md",
-    "materials/nihongo 9.md",
-    "images/Pasted image 20241201202711.png",
-    "images/Pasted image 20241201201958.png",
-    "Pasted image 20241201201851.png",
-    "Pasted image 20241201201647.png",
-    "images/Pasted image 20241010123742.png",
-    "images/Pasted image 20241201190325.png",
-    "images/Pasted image 20241010122523.png",
-    "Pasted image 20241201190303.png",
+    "2_n210-ha-n210-desu.md",
+    "materials/sdl2 for codeblocks.md",
+    "images/step-1.png",
+    "images/10.png",
+    "images/4.png",
+    "images/3.png",
+    "images/2.png",
+    "1   . tameni hello woels.md",
+    "templates/articles.md",
+    "1 tameni.md",
+    "templates/foldersPage.md",
+    "1. hello.md",
+    "materials/coding problems.md",
+    "templates/dataTables.md",
+    "tags/coding.md",
+    "tags/grammar.md",
+    "tags/tester.md",
     "images/Screen Recording 2024-11-29 070305.mp3",
     "images/Screen Recording 2024-11-29 070246.mp3",
     "images/Screen Recording 2024-11-29 070224.mp3",
@@ -236,8 +245,6 @@
     "images/Screen Recording 2024-11-29 070044.mp3",
     "images/Screen Recording 2024-11-29 070010.mp3",
     "images/Screen Recording 2024-11-22 074731.mp3",
-    "images/Screen Recording 2024-11-22 074708.mp3",
-    "images/Pasted image 20241011073059.png",
-    "images/Pasted image 20241011073046.png"
+    "images/Screen Recording 2024-11-22 074708.mp3"
   ]
 }
