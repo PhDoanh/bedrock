@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 status: Not started
 title: Các bài toán lập trình
 description:
@@ -14,42 +14,35 @@ cssclasses:
 Đây là nơi bạn thử sức với các bài toán lập trình đáng quan tâm trong thi đấu và phỏng vấn
 được giải quyết bởi tất cả mọi người, ở
 
-nhiều mảng kiến thức khác nhau như: cấu trúc dữ liệu, thuật toán, cơ sở dữ liệu, hướng đối tượng, ...
+nhiều mảng kiến thức khác nhau như: cấu trúc dữ liệu, thuật toán, cơ sở dữ liệu, hướng đối tượng
 
 Bạn có thể tìm kiếm và sắp xếp theo tên bài toán, mức độ khó, nguồn bài toán, thể loại hoặc từ khóa liên quan để thử sử   
 
-<table id="cp" class="display">
+
+| Người đăng | Tiêu đề | Thể loại | Độ khó | Thảo luận | Lời giải | Nguồn bài | 
+| ---------- | ------- | -------- | ------ | --------- | -------- | --------- |
+|            |         |          |        |           |          |           |
+
+<table id="" class="display">
     <thead>
         <tr>
-	        <th>Người đăng</th>
-            <th>Tiêu đề</th>
-            <th>Thể loại</th>
-            <th>Độ khó</th>
-            <th>Thảo luận</th>
-            <th>Lời giải</th>
-            <th>Nguồn bài</th>
+            <th>Column 1</th>
+            <th>Column 2</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-		</tr>
+            <td>Row 1 Data 1</td>
+            <td>Row 1 Data 2</td>
+        </tr>
+        <tr>
+            <td>Row 2 Data 1</td>
+            <td>Row 2 Data 2</td>
+        </tr>
     </tbody>
 </table>
-<script>
-	$(document).ready(function() {
-	  $('#cp').DataTable();
-	});
-</script>
 
 
-
-
-
-
+| A   | B   | C   |
+| --- | --- | --- |
+| a   | b   | c   | 

@@ -29,6 +29,25 @@ Hầu hết các thông tin trao đổi về Doanhanma đều được tổ ch�
 > [!info]- Lưu ý
 > Nếu bạn cần trao đổi riêng tư thì <a href="#footer" >đây</a> là thông tin liên hệ của mình
 
+# Tổng hợp thẻ tìm kiếm 🔍
+Đây là tất cả các thẻ đang được sử dụng trong các bài viết với mục đích hỗ trợ bạn đọc tìm kiếm nhanh và hiệu quả hơn
+
+| Thẻ phân loại                      | Ý nghĩa |
+| ---------------------------------- | ------- |
+| japanese (Tiếng Nhật)              |         |
+| grammar (Ngữ pháp)                 |         |
+| language (Ngôn ngữ)                |         |
+| elementary (Sơ cấp)                |         |
+| lower-intermediate (Sơ trung cấp)  |         |
+| intermediate (Trung cấp)           |         |
+| upper-intermediate (Trung cao cấp) |         |
+| Advanced (Cao cấp)                 |         |
+| N5                                 |         |
+| N4                                 |         |
+| N3                                 |         |
+| N2                                 |         |
+| N1                                 |         |
+
 # Các câu hỏi thường gặp ❓
 > [!question]- Làm thế nào để tạo một website giống thế này?
 > Nếu nhu cầu của bạn chỉ là trang [web tĩnh](https://en.wikipedia.org/wiki/Static_web_page) giống **Doanhanma** thì tài liệu miễn phí [này](https://quartz.jzhao.xyz/) sẽ cung cấp các hướng dẫn lập trình web tĩnh dựa trên mẫu thiết kế có sẵn!
