@@ -35,7 +35,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "dependencies": {
-    "@clack/prompts": "^0.7.0",
+    "@clack/prompts": "^0.9.1",
     "@floating-ui/dom": "^1.6.12",
     "@napi-rs/simple-git": "0.1.19",
     "async-mutex": "^0.5.0",
@@ -58,7 +58,7 @@
     "mdast-util-to-hast": "^13.2.0",
     "mdast-util-to-string": "^4.0.0",
     "micromorph": "^0.4.5",
-    "preact": "^10.24.2",
+    "preact": "^10.25.4",
     "preact-render-to-string": "^6.5.11",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
@@ -100,11 +100,11 @@
     "@types/node": "^22.9.3",
     "@types/pretty-time": "^1.1.5",
     "@types/source-map-support": "^0.5.10",
-    "@types/ws": "^8.5.12",
+    "@types/ws": "^8.5.13",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.20.2",
     "prettier": "^3.4.1",
-    "tsx": "^4.19.1",
+    "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }
 }
