@@ -29,7 +29,7 @@ tags:
 
 4. Dán `SDL2.dll` trong thư mục `bin` vào `usr\CodeBlocks\MinGW\bin` với `usr` là nơi cài CodeBlocks, ví dụ: `C:\Program Files\CodeBlocks\MinGW\bin`
 5. Trong CodeBlocks, chọn Settings > Compiler 
-![[1.png]]
+![[step-1.png]]
 6. Tại "Linker Settings", nhập `-lmingw32 -lSDL2main -lSDL2` vào trường "Other linker options" 
 ![[2.png]]
 7. Tại "Search directories", chọn 'Add' trong Compiler

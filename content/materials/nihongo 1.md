@@ -37,7 +37,7 @@ tags:
 > [!content]-  **ゾアイン**さん: はい、ホアンさんも元気です！
 > **Doanh**: Ừ, Hoàng cũng khỏe!
 
-# N₁ は N₂ です
+# N₁ は　N₂ です
 **Ý nghĩa**: Danh từ 1 ==là== danh từ 2  
 
 **Cách dùng**: khẳng định
@@ -63,7 +63,7 @@ tags:
 > - **は** dùng để nhấn mạnh về chủ đề câu văn, trong mẫu ngữ pháp này là danh từ 1
 > - **です** là động từ mang ý nghĩa **"là"** trong câu khẳng định lịch sự
 
-# N₁ は N₂ じゃ（では）ありません
+# N₁ は N₂ じゃ (では) ありません
 **Ý nghĩa**: danh từ 1 ==không là== danh từ 2
 
 **Cách dùng**: phủ định
