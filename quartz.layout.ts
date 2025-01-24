@@ -18,6 +18,8 @@ export const sharedPageComponents: SharedLayout = {
       Facebook: "https://www.facebook.com/PGDoanh",
       Youtube: "https://www.youtube.com/@phamgiadoanh",
       Email: "mailto:phdoanh285@gmail.com",
+      LinkedIn: "https://www.linkedin.com/in/doanhanma/",
+      "Ủng hộ 🙏": "https://ko-fi.com/pgdoanh",
       "Báo lỗi 🪲": "https://github.com/PhDoanh/doanhanma/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBug%5D+"
     }
   }),

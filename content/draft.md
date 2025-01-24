@@ -1,13 +1,8 @@
 ---
-draft: true
+draft: false
 ---
 # Nháp
 
-> [!quote]- Còn một điều nữa☝️...
-> *Đừng quên thả **tương tác** kèm **bình luận** của bạn để giúp mình cải thiện blog nhé!* Hoặc có thể ủng hộ một ít động lực đó ngay bây giờ bằng cách:
-> 
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M111S8CI
-> 
 
 # AI Prompts
 ## bunpou
@@ -20,4 +15,3 @@ Trình bày ngữ pháp "" theo các yêu cầu sau:
 - Nội dung nên nhấn mạnh (bôi đậm) về ngữ pháp đó trong câu ví dụ tiếng nhật và các từ khóa trong phần giải thích (mô tả chi tiết về trường hợp sử dụng) kết hợp các biểu tượng emoji liên quan để tạo cảm giác thoải mái cho người đọc
 
 ## dsa
-

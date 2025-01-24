@@ -1,4 +1,5 @@
 ---
+date: 2024-08-20
 title: Lập trình
 description: Định hướng và chiến lược trong lập trình, từ lựa chọn ngôn ngữ đến thiết kế thuật toán.
 author: PhDoanh

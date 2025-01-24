@@ -1,4 +1,5 @@
 ---
+date: 2024-08-20
 title: Tiếng Nhật
 description: Hành trình học tiếng Nhật từ cơ bản đến nâng cao với các phương pháp hiệu quả và tài liệu hữu ích.
 author: PhDoanh

@@ -1,4 +1,5 @@
 ---
+date: 2024-08-20
 title: Sản phẩm
 description: Các bài viết giới thiệu và đánh giá sản phẩm của người khác, trong đó có mình. 
 author: PhDoanh

@@ -1,4 +1,5 @@
 ---
+date: 2024-08-22
 draft: true
 status: Done
 title: Video ghi màn hình

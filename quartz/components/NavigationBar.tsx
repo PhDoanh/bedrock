@@ -23,7 +23,7 @@ const NavigationBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 						<ul class="dropdown__menu">
 							<li>
 								<a href={resolveRelative(fileData.slug!, "tags/coding" as SimpleSlug)} class="dropdown__link">
-									<i class="ri-code-s-slash-fill"></i> Lập trình
+									<i data-lucide="menu"></i> Lập trình
 								</a>
 							</li>
 

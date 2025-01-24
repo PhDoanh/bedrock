@@ -9,7 +9,8 @@
             "Doing",
             "Done"
           ]
-        }
+        },
+        "date": {}
       },
       "defaultName": "",
       "templates": [],
@@ -43,12 +44,16 @@
               },
               "cssclasses": {
                 "hide": true
+              },
+              "status": {
+                "hide": false
               }
             },
             "orderFields": [
               "name",
               "status",
               "draft",
+              "date",
               "title",
               "description",
               "tags"
@@ -59,7 +64,35 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Not started"
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Doing"
+                }
+              },
+              {
+                "color": "#9bff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Done"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []
@@ -123,7 +156,35 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Not started"
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Doing"
+                }
+              },
+              {
+                "color": "#9bff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Done"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []
@@ -160,7 +221,16 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []
@@ -252,6 +322,9 @@
               },
               "cssclasses": {
                 "hide": true
+              },
+              "date": {
+                "hide": true
               }
             },
             "orderFields": [
@@ -272,7 +345,35 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Not started"
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Doing"
+                }
+              },
+              {
+                "color": "#9bff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Done"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []

@@ -1,8 +1,9 @@
 ---
+date: 2025-01-21
 draft: false
 status: Done
-title: "2. ～じゃ ありません: Cách nói \"KHÔNG\" trong tiếng Nhật"
-description: 
+title: '2. ～じゃ ありません: Cách nói "KHÔNG" trong tiếng Nhật'
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:

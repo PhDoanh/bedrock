@@ -1,8 +1,9 @@
 ---
+date: 2025-01-21
 draft: false
 status: Done
 title: "5. の: Trợ từ biểu thị quan hệ, sở hữu, ..."
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -94,11 +95,11 @@ Diễn tả **mối quan hệ thời gian** giữa các sự việc.
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Phân biệt với trợ từ が khi muốn nhấn mạnh chủ thể
-> - Có thể dùng nhiều の liên tiếp: N₁のN₂のN₃...
+> - Có thể dùng nhiều **「の」** liên tiếp: N₁のN₂のN₃...
 > - Trong bài thi, chú ý văn cảnh để chọn trợ từ phù hợp
 
 > [!caution] Lưu ý quan trọng
-> - Không dùng の giữa hai từ Hán Việt cùng nghĩa
+> - Không dùng **の** giữa hai từ Hán Việt cùng nghĩa
 > - Cách phát âm: の được đọc là "no", không biến âm
 > - Tương đồng với 's trong tiếng Anh (John's book)
 > - Có thể thay thế bằng な trong một số trường hợp với tính từ đuôi な

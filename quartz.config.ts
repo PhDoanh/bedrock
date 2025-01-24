@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "vi-VN",
     baseUrl: "phdoanh.github.io/doanhanma/",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

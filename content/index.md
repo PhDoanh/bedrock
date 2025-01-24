@@ -1,4 +1,5 @@
 ---
+date: 2025-01-22
 title: Welcome to my 🧠
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -11,13 +12,13 @@ cssclasses:
 
 Mục đích chính của blog này là ghi lại hành trình học hỏi của mình về chủ đề ***"Công nghệ thông tin trong Nhật Bản"***, đặc biệt là lĩnh vực **IoT (Internet vạn vật)** đã và đang trở thành xu hướng phát triển mạnh của đất nước mặt trời mọc này. Các nội dung liên quan khác (Tiếng Nhật, Việc làm, Văn hóa Nhật Bản, ...) cũng được mình đề cập trong blog này.
 
-![[Pasted image 20241201190325.png|center]]
+![[Pasted-image-20241201190325.png|center]]
 
 > [!tip]- Mẹo sử dụng blog
 > **Đăng nhập tài khoản [GitHub](https://github.com/login)** sẽ giúp bạn có được trải nghiệm dùng hoàn chỉnh với đầy đủ các tính năng như: tương tác và bình luận bài viết, chỉnh sửa bài viết, tham gia cộng đồng Doanhanma, ...
 
 # Cộng đồng Doanhanma 🤝
-![[Pasted image 20241201202711.png|center]]
+![[Pasted-image-20241201202711.png|center]]
 
 Hầu hết các thông tin trao đổi về Doanhanma đều được tổ chức trên nền tảng Github, bao gồm:
 - 📣 **[Announcements](https://github.com/PhDoanh/doanhanma/discussions/categories/announcements) (Thông báo)**: các tin tức mới nhất được cập nhật bởi mình
@@ -62,3 +63,5 @@ Hầu hết các thông tin trao đổi về Doanhanma đều được tổ ch�
 > Là một ngôn ngữ cho phép soạn thảo, trang trí văn bản trực tiếp trên file bằng các cú pháp mà không phải thông qua công cụ hay phần mềm gì, được ưu chuộng bởi rất nhiều nhà sáng tạo nội dung hiện nay. Bạn có thể tìm hiểu thêm tại [đây](https://www.markdownguide.org/)!
 
 Xem thêm hoặc đặt các câu hỏi khác tại [đây](https://github.com/PhDoanh/doanhanma/discussions/categories/q-a) 
+
+

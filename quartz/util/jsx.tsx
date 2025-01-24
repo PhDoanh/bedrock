@@ -7,7 +7,7 @@ import { type FilePath } from "./path"
 const customComponents: Components = {
   table: (props) => (
     <div class="table-container">
-      <table {...props} />
+      <table {...props} id="" class="display" />
     </div>
   ),
 }

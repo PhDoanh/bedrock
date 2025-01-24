@@ -1,4 +1,5 @@
 ---
+date: 2024-08-27
 draft: true
 status: Done
 title: Thông tin nhận dạng cá nhân

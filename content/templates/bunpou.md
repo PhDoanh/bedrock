@@ -1,4 +1,5 @@
 ---
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 draft: true
 status: Not started
 title: "<% tp.file.title.split("_")[0] %>. <% tp.file.cursor(1) %>: <% tp.file.cursor(2) %>"
@@ -14,7 +15,9 @@ aliases:
   - <% tp.file.title.split("_")[1].split("-").join(" ") %>
   - <% tp.file.cursor(1) %>
   - <% tp.file.cursor(2) %>
-cssclasses: img
+cssclasses: 
+  - img
+  - btn
 ---
 %% ĐỊNH DẠNG TÊN FILE: "stt_tên-furigana-của-ngữ-pháp" | VD: 1_n-no-tameni %%
 

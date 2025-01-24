@@ -1,8 +1,9 @@
 ---
+date: 2025-01-21
 draft: false
 status: Done
 title: "3. ～ですか: Câu hỏi xác nhận cơ bản"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
