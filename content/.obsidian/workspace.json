@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "draft"
             }
+          },
+          {
+            "id": "fed8d4910b2adaa4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -199,7 +209,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "482a08b1ac122878",
+  "active": "7adf88e035705e7a",
   "lastOpenFiles": [
     "draft.md",
     "index.md",
