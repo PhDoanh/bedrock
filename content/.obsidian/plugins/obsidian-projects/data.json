@@ -571,12 +571,7 @@
     "locale": {
       "firstDayOfWeek": "default"
     },
-    "commands": [
-      {
-        "project": "2fe2b58a-f1e1-4cc8-b7e8-6d30af43f120",
-        "view": "ecd56d34-0d4c-47af-9207-b185b2458883"
-      }
-    ],
+    "commands": [],
     "linkBehavior": "open-editor"
   }
 }
