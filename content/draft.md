@@ -2,7 +2,7 @@
 draft: true
 ---
 # Nháp
-
+hello
 
 # AI Prompts
 ## bunpou
