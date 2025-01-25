@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "draft"
             }
+          },
+          {
+            "id": "ec2b96ca594bb65c",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ]
       }
@@ -195,8 +205,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "68ed565b86c2f943",
+  "active": "acd664ab3602745e",
   "lastOpenFiles": [
+    "materials/about-jlpt.md",
     "draft.md",
     "index.md",
     "materials/8_kono-sono-ano.md",
@@ -217,7 +228,6 @@
     "jobs/jobnew.md",
     "materials/question-words.md",
     "materials/coding-problems.md",
-    "materials/about-jlpt.md",
     "materials/jp-typing-guide.md",
     "materials/linux-on-win.md",
     "materials/japanese-with-immersion.md",
