@@ -1,5 +1,5 @@
 ---
-date: 2024-08-20
+date: 2025-01-25
 draft: true
 status: Done
 title: Cách trở thành một blogger A đến Á

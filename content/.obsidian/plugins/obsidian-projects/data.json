@@ -9,11 +9,14 @@
             "Doing",
             "Done"
           ]
-        },
-        "date": {}
+        }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/single-post.md",
+        "templates/bunpou.md",
+        "templates/dsa.md"
+      ],
       "excludedNotes": [
         "materials/index.md"
       ],
@@ -95,7 +98,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "9acec678-cd30-42ba-a012-3880709aa905",
           "name": "Table",
@@ -116,7 +125,9 @@
         }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/single-post.md"
+      ],
       "excludedNotes": [
         "products/index.md"
       ],
@@ -136,6 +147,7 @@
               "name",
               "status",
               "draft",
+              "date",
               "title",
               "tags"
             ],
@@ -187,7 +199,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "1b01a0c1-e1e4-49cf-ad4c-e66da4311618",
           "name": "Table",
@@ -200,7 +218,9 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/service.md"
+      ],
       "excludedNotes": [
         "services/index.md"
       ],
@@ -223,7 +243,23 @@
           "colors": {
             "conditions": [
               {
-                "color": "#a882ff",
+                "color": "#ff8080",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#9bff80",
                 "condition": {
                   "field": "",
                   "operator": "is-not-empty",
@@ -233,7 +269,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "53c3d04a-1e07-43da-993c-5b7eb9ab83fa",
           "name": "Table",
@@ -246,7 +288,9 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/course.md"
+      ],
       "excludedNotes": [
         "courses/index.md"
       ],
@@ -267,10 +311,41 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#9bff80",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "1b749e82-b12e-47da-8e37-e45f6a60c95f",
           "name": "Table",
@@ -288,10 +363,15 @@
             "Doing",
             "Done"
           ]
+        },
+        "date": {
+          "time": false
         }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "templates/single-post.md"
+      ],
       "excludedNotes": [
         "jobs/index.md"
       ],
@@ -324,20 +404,17 @@
                 "hide": true
               },
               "date": {
-                "hide": true
+                "hide": false
               }
             },
             "orderFields": [
               "name",
               "status",
               "draft",
+              "date",
               "title",
               "description",
-              "tags",
-              "aliases",
-              "author",
-              "authorlink",
-              "cssclasses"
+              "tags"
             ]
           },
           "filter": {
@@ -376,7 +453,13 @@
             ]
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "447f3f22-7c12-40bf-9d57-75c0de4eacc2",
           "name": "Table",
@@ -385,6 +468,98 @@
       ],
       "id": "68269d20-bb4b-4fb7-8c23-be9a3186a72e",
       "name": "Jobs"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/pillar-post.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "tags",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "author": {
+                "hide": true
+              },
+              "authorlink": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "draft",
+              "enableToc",
+              "date",
+              "title",
+              "description"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Not started"
+                }
+              },
+              {
+                "color": "#f7ff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Doing"
+                }
+              },
+              {
+                "color": "#9bff80",
+                "condition": {
+                  "field": "status",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Done"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "ce477f1b-13c9-4cb9-bf4f-26baa50c1ba6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e936484b-355b-4474-8703-fb917e2ed06b",
+      "name": "Tags"
     }
   ],
   "archives": [],
@@ -396,7 +571,12 @@
     "locale": {
       "firstDayOfWeek": "default"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "2fe2b58a-f1e1-4cc8-b7e8-6d30af43f120",
+        "view": "ecd56d34-0d4c-47af-9207-b185b2458883"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }

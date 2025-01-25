@@ -1,7 +1,9 @@
 ---
 date: 2024-09-08
+draft: true
+status: Not started
 title: Nhật ngữ sâu bên trong
-description: Sổ tay tổng hợp và tóm tắt ngữ pháp 
+description: Sổ tay tổng hợp và tóm tắt ngữ pháp
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 enableToc: true

@@ -3,7 +3,7 @@ date: 2025-01-24
 draft: false
 status: Done
 title: "10. ～か、～か: Câu hỏi yêu cầu sự lựa chọn"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -17,7 +17,7 @@ aliases:
   - ka ka
   - ～か、～か
   - Câu hỏi yêu cầu sự lựa chọn
-cssclasses: 
+cssclasses:
   - img
   - btn
 ---

@@ -1,12 +1,12 @@
 ---
-date: 2025-01-25
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 draft: true
 status: Not started
-title: <% tp.file.cursor(1) %>
-description: <% tp.file.cursor(2) %>
+title: "<% tp.file.cursor(1) %>"
+description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags:
+tags: 
   - <% tp.file.cursor(3) %>
 aliases:
   - <% tp.file.title.split("-").join(" ") %>

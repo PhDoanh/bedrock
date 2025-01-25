@@ -1,5 +1,5 @@
 ---
-date: 2024-09-20
+date: 2025-01-25
 draft: true
 status: Not started
 title: Các bài toán lập trình

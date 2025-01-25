@@ -1,5 +1,5 @@
 ---
-date: 2025-01-24
+date: 2025-01-22
 draft: false
 status: Done
 title: "7. これ・それ・あれ: Đại từ chỉ thị trong tiếng Nhật"

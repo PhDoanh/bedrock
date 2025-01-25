@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,28 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "courses",
+      "template": "templates/course.md"
+    },
+    {
+      "folder": "jobs",
+      "template": "templates/single-post.md"
+    },
+    {
+      "folder": "materials",
+      "template": "templates/single-post.md"
+    },
+    {
+      "folder": "products",
+      "template": "templates/single-post.md"
+    },
+    {
+      "folder": "services",
+      "template": "templates/service.md"
+    },
+    {
+      "folder": "tags",
+      "template": "templates/pillar-post.md"
     }
   ],
   "enable_file_templates": false,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f32cc0447e2793bd",
+        "id": "7cf14342ad46235c",
         "type": "tabs",
         "children": [
           {
-            "id": "765a0d43dddcde08",
+            "id": "7adf88e035705e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "draft"
             }
-          },
-          {
-            "id": "195a14b7910d47ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/4_mo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "4_mo"
-            }
-          },
-          {
-            "id": "b020af9722b5373b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/10_ka-ka.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "10_ka-ka"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materials/nihongo 35.md",
+                "file": "draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nihongo 35"
+              "title": "Backlinks for draft"
             }
           },
           {
@@ -141,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materials/nihongo 35.md",
+                "file": "draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from nihongo 35"
+              "title": "Outgoing links from draft"
             }
           },
           {
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/10_ka-ka.md"
+                "file": "draft.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 10_ka-ka"
+              "title": "Outline of draft"
             }
           },
           {
@@ -228,37 +199,38 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "b020af9722b5373b",
+  "active": "410b6811532d7f71",
   "lastOpenFiles": [
-    "materials/4_mo.md",
     "draft.md",
-    "materials/5_no.md",
-    "materials/6_san.md",
-    "materials/7_kore-sore-are.md",
-    "materials/9_soudesu.md",
-    "materials/8_kono-sono-ano.md",
-    "materials/10_ka-ka.md",
     "index.md",
+    "materials/8_kono-sono-ano.md",
+    "materials/1_n1-ha-n2-desu.md",
+    "materials/2_ja-arimasen.md",
+    "materials/3_desuka.md",
+    "materials/4_mo.md",
+    "materials/5_no.md",
+    "materials/9_soudesu.md",
+    "materials/Untitled.md",
+    "tags/Untitled.md",
+    "jobs/Untitled.md",
+    "jobs/screencast.md",
+    "tags/bruh.md",
+    "products/newprodinhere.md",
+    "products/newprod.md",
+    "products/newfile.md",
+    "jobs/jobnew.md",
+    "materials/question-words.md",
+    "materials/coding-problems.md",
+    "materials/about-jlpt.md",
+    "materials/jp-typing-guide.md",
+    "materials/linux-on-win.md",
+    "materials/japanese-with-immersion.md",
+    "materials/sdl2-for-vscode.md",
+    "materials/sdl2-for-codeblocks.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",
     "images/7_kore-sore-are.png",
-    "materials/nihongo-2.md",
-    "materials/2_ja-arimasen.md",
-    "materials/1_n1-ha-n2-desu.md",
-    "materials/test.md",
-    "materials/nihongo-1.md",
-    "templates/dsa.md",
-    "courses/index.md",
-    "jobs/index.md",
-    "materials/index.md",
-    "products/index.md",
-    "products/fix-your-pc.md",
-    "services/index.md",
-    "materials/3_desuka.md",
-    "templates/single-post.md",
-    "templates/pillar-post.md",
-    "templates/bunpou.md",
     "images/Pasted-image-20240222150839.png",
     "images/Pasted-image-20240222151113.png",
     "images/Pasted-image-20240222161257.png",
