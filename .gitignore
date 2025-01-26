@@ -10,4 +10,5 @@ private/
 replit.nix
 .idea
 .vscode
-.obsidian
+.obsidian/
+!.obsidian/snippets/

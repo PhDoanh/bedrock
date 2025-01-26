@@ -5,8 +5,8 @@
 @use "../components/styles/darkmode.scss";
 @use "../components/styles/graph.scss";
 @use "./variables.scss" as *;
-@use "./btn.css";
-@use "./img.css";
+@use "../../content/.obsidian/snippets/btn.css";
+@use "../../content/.obsidian/snippets/img.css";
 
 // base.scss
 .page {
