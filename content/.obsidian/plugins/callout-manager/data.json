@@ -5,7 +5,8 @@
       "support",
       "news",
       "content",
-      "suggest"
+      "suggest",
+      "explain"
     ],
     "settings": {
       "advices": [
@@ -53,6 +54,14 @@
           "changes": {
             "icon": "lucide-lightbulb",
             "color": "208, 181, 48"
+          }
+        }
+      ],
+      "explain": [
+        {
+          "changes": {
+            "icon": "lucide-text-search",
+            "color": "68, 207, 110"
           }
         }
       ]

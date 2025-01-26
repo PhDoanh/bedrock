@@ -33,6 +33,12 @@ video {
 }
 // callouts.scss
 .callout {
+	&[data-callout="explain"] {
+		--color: #44cf6e;
+		--border: #44cf6e44;
+		--bg: #44cf6e10;
+		--callout-icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXRleHQtc2VhcmNoIj48cGF0aCBkPSJNMjEgNkgzIi8+PHBhdGggZD0iTTEwIDEySDMiLz48cGF0aCBkPSJNMTAgMThIMyIvPjxjaXJjbGUgY3g9IjE3IiBjeT0iMTUiIHI9IjMiLz48cGF0aCBkPSJtMjEgMTktMS45LTEuOSIvPjwvc3ZnPg==");
+	}
 	&[data-callout="advices"] {
 			--color: #a16a49;
 			--border: #a16a4944;

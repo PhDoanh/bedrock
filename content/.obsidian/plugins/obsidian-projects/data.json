@@ -566,7 +566,7 @@
   "preferences": {
     "projectSizeLimit": 1000,
     "frontmatter": {
-      "quoteStrings": "QUOTE_DOUBLE"
+      "quoteStrings": "PLAIN"
     },
     "locale": {
       "firstDayOfWeek": "default"

@@ -1,15 +1,15 @@
 ---
-date: 2025-01-25
+date: 2025-01-26
 draft: true
 status: Not started
 title: "<% tp.file.cursor(1) %>"
 description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags:
+tags: 
   - "<% tp.file.cursor(3) %>"
 aliases:
-  - '<% tp.file.title.split("-").join(" ") %>'
+  - "about jlpt"
   - "<% tp.file.cursor(1) %>"
 cssclasses:
   - img
@@ -19,7 +19,7 @@ cssclasses:
 
 <figure style="text-align: center; margin: 20px auto;">
   <img 
-    src="images/<% tp.file.title %>.png"
+    src="images/about-jlpt.png"
     alt="<% tp.file.cursor(1) %>" 
     style="
       width: 90%;
