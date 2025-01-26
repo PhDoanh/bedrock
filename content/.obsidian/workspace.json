@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "data-types"
             }
-          },
-          {
-            "id": "5afe9b50e2a71ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
-            "id": "91f170570b59114d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md"
+                "file": "materials/data-types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of data-types"
             }
           },
           {
@@ -226,12 +197,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5afe9b50e2a71ae7",
+  "active": "c0236f4a30959643",
   "lastOpenFiles": [
-    "index.md",
     "draft.md",
     "materials/data-types.md",
     "materials/input-output.md",
+    "index.md",
     "materials/1_n1-ha-n2-desu.md",
     "templates/dsa.md",
     "materials/demo.md",

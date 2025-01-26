@@ -7,15 +7,12 @@ draft: true
 # AI Prompts
 ## single-post
 ```
-Trình bày bài viết "" với cấu trúc và yêu cầu sau:
-- Bài toán: Giới thiệu một bài toán lập trình đơn giản có dùng chủ đề bài viết để giải quyết, bao gồm: đầu vào mẫu, đầu ra mẫu và ràng buộc (điều kiện bài toán)
-- Vào/ra tiêu chuẩn: cung cấp mô tả 
-	- Thư viện iostream: cung cấp mô tả, mã c++ và một số lưu ý và mẹo nếu có
-	- Thư viện cstdio: cung cấp mô tả, mã c++ và một số lưu ý và mẹo nếu có
-- Vào/ra tệp: cung cấp mô tả
-	- Hàm freopen: cung cấp mô tả, mã c++ và một số lưu ý và mẹo nếu có
-	- Thư viện fstream: cung cấp mô tả, mã c++ và một số lưu ý và mẹo nếu có
-- Tổng kết: Tóm tắt chủ đề, nhận xét về các phương pháp trên
+Trình bày bài viết "Kiểu dữ liệu C++ phổ biến trong thi đấu lập trình" với cấu trúc và yêu cầu sau:
+- Số nguyên: cung cấp mô tả, mã c++, một số lưu ý và mẹo nếu có 
+- Số thực: cung cấp mô tả, mã c++, một số lưu ý và mẹo nếu có 
+- Kí tự và văn bản: cung cấp mô tả, mã c++, một số lưu ý và mẹo nếu có 
+- Logic đúng/sai: cung cấp mô tả, mã c++, một số lưu ý và mẹo nếu có 
+- Tổng kết: Tóm tắt chủ đề, nhận xét về các kiểu 
 
 Lưu ý khi trình bày: 
 - bôi đậm những từ khóa quan trọng

@@ -62,7 +62,7 @@ Viết một chương trình C++ đọc hai số nguyên từ bàn phím, tính 
 ## Thư viện `iostream`
 Thư viện `<iostream>` là công cụ chính để thực hiện các thao tác **nhập/xuất tiêu chuẩn** trong C++. Nó cung cấp các đối tượng như `std::cin` (nhập) và `std::cout` (xuất).
 
-```cpp {6,7}
+```cpp {6-7}
 #include <iostream>
 using namespace std;
 
@@ -86,7 +86,7 @@ int main() {
 ## Thư viện `cstdio`
 Thư viện `<cstdio>` cung cấp các hàm nhập/xuất kiểu C như `scanf` và `printf`. Nó thường được sử dụng khi cần hiệu suất cao hoặc tương thích với mã C.
 
-```cpp {6,7}
+```cpp {6-7}
 #include <cstdio>
 using namespace std;
 
@@ -111,7 +111,7 @@ int main() {
 ## Hàm `freopen`
 Hàm `freopen` cho phép chuyển hướng luồng nhập/xuất tiêu chuẩn (`stdin`, `stdout`) sang tệp tin.
 
-```cpp {5,6}
+```cpp {5-6}
 #include <cstdio>
 using namespace std;
 
