@@ -1,5 +1,5 @@
 {
-  "commitMessage": "docs(content): update {{numFiles}} files",
+  "commitMessage": "docs(content): publish {{numFiles}} files",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,

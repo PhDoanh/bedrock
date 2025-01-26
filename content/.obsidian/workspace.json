@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/input-output.md",
+                "file": "materials/about-jlpt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "input-output"
+              "title": "about-jlpt"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/input-output.md"
+                "file": "materials/about-jlpt.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of input-output"
+              "title": "Outline of about-jlpt"
             }
           },
           {
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
