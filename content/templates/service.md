@@ -7,10 +7,10 @@ description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
-  - <% tp.file.cursor(3) %>
+  - "<% tp.file.cursor(3) %>"
 aliases:
-  - <% tp.file.title.split("-").join(" ") %>
-  - <% tp.file.cursor(1) %>
+  - "<% tp.file.title.split("-").join(" ") %>"
+  - "<% tp.file.cursor(1) %>"
 cssclasses:
   - img
   - btn

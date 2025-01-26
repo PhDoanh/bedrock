@@ -10,11 +10,11 @@ tags:
   - japanese
   - grammar
   - language
-  - <% tp.file.cursor(3) %>
+  - "<% tp.file.cursor(3) %>"
 aliases:
-  - <% tp.file.title.split("_")[1].split("-").join(" ") %>
-  - <% tp.file.cursor(1) %>
-  - <% tp.file.cursor(2) %>
+  - "<% tp.file.title.split("_")[1].split("-").join(" ") %>"
+  - "<% tp.file.cursor(1) %>"
+  - "<% tp.file.cursor(2) %>"
 cssclasses: 
   - img
   - btn

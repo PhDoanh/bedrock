@@ -11,10 +11,10 @@ tags:
   - coding
   - cpp
   - competitive
-  - <% tp.file.cursor(2) %>
+  - "<% tp.file.cursor(2) %>"
 aliases:
-  - <% tp.file.title.split("-").join(" ") %>
-  - <% tp.file.cursor(1) %>
+  - "<% tp.file.title.split("-").join(" ") %>"
+  - "<% tp.file.cursor(1) %>"
 cssclasses:
   - img
   - btn

@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acd664ab3602745e",
+            "id": "323eceaf2760c625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "materials/input-output.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
-            "id": "ec2b96ca594bb65c",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "title": "input-output"
             }
           }
         ]
@@ -146,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "materials/input-output.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of input-output"
             }
           },
           {
@@ -182,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,10 +197,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "acd664ab3602745e",
+  "active": "323eceaf2760c625",
   "lastOpenFiles": [
-    "materials/about-jlpt.md",
+    "materials/input-output.md",
+    "jobs/bruh.md",
+    "templates/single-post.md",
+    "materials/Untitled.md",
+    "templates/service.md",
+    "templates/pillar-post.md",
+    "templates/dsa.md",
+    "templates/course.md",
+    "templates/bunpou.md",
+    "jobs/blogger-from-zero.md",
     "draft.md",
+    "materials/about-jlpt.md",
     "index.md",
     "materials/8_kono-sono-ano.md",
     "materials/1_n1-ha-n2-desu.md",
@@ -217,22 +219,12 @@
     "materials/4_mo.md",
     "materials/5_no.md",
     "materials/9_soudesu.md",
-    "materials/Untitled.md",
     "tags/Untitled.md",
-    "jobs/Untitled.md",
     "jobs/screencast.md",
     "tags/bruh.md",
     "products/newprodinhere.md",
     "products/newprod.md",
     "products/newfile.md",
-    "jobs/jobnew.md",
-    "materials/question-words.md",
-    "materials/coding-problems.md",
-    "materials/jp-typing-guide.md",
-    "materials/linux-on-win.md",
-    "materials/japanese-with-immersion.md",
-    "materials/sdl2-for-vscode.md",
-    "materials/sdl2-for-codeblocks.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",
