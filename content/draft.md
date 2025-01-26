@@ -7,7 +7,7 @@ draft: true
 # AI Prompts
 ## single-post
 ```
-Trình bày bài viết "Xử lý vào/ra trong C++" với cấu trúc và yêu cầu sau:
+Trình bày bài viết "" với cấu trúc và yêu cầu sau:
 - Bài toán: Giới thiệu một bài toán lập trình đơn giản có dùng chủ đề bài viết để giải quyết, bao gồm: đầu vào mẫu, đầu ra mẫu và ràng buộc (điều kiện bài toán)
 - Vào/ra tiêu chuẩn: cung cấp mô tả 
 	- Thư viện iostream: cung cấp mô tả, mã c++ và một số lưu ý và mẹo nếu có

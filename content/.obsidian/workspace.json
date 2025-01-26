@@ -4,38 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "9137c916c05694fa",
+        "id": "f50e33da8a62125c",
         "type": "tabs",
         "children": [
           {
-            "id": "041d780d90834e75",
+            "id": "c0236f4a30959643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/input-output.md",
+                "file": "materials/data-types.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "input-output"
+              "title": "data-types"
             }
           },
           {
-            "id": "a2b4fa45864c99a8",
+            "id": "5afe9b50e2a71ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/dsa.md",
+                "file": "draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "dsa"
+              "title": "draft"
+            }
+          },
+          {
+            "id": "91f170570b59114d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/input-output.md"
+                "file": "draft.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of input-output"
+              "title": "Outline of draft"
             }
           },
           {
@@ -188,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,11 +226,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "041d780d90834e75",
+  "active": "5afe9b50e2a71ae7",
   "lastOpenFiles": [
+    "index.md",
     "draft.md",
-    "materials/1_n1-ha-n2-desu.md",
+    "materials/data-types.md",
     "materials/input-output.md",
+    "materials/1_n1-ha-n2-desu.md",
     "templates/dsa.md",
     "materials/demo.md",
     "templates/single-post.md",
@@ -233,12 +250,10 @@
     "jobs/bruh.md",
     "materials/Untitled.md",
     "jobs/blogger-from-zero.md",
-    "index.md",
     "materials/8_kono-sono-ano.md",
     "materials/2_ja-arimasen.md",
     "materials/3_desuka.md",
     "materials/4_mo.md",
-    "materials/5_no.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",

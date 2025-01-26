@@ -1,7 +1,7 @@
 ---
 date: 2025-01-25
 draft: false
-status: Done
+status: Doing
 title: "Xử lý vào/ra trong C++"
 description: ""
 author: PhDoanh
@@ -21,7 +21,7 @@ cssclasses:
 ---
 %% ĐỊNH DẠNG TÊN FILE: "tên-bài-viết" | VD: jp-typing-guide %%
 
-<figure style="text-align: center; margin: 20px auto;">
+%% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/input-output.png"
     alt="Xử lý vào/ra trong C++" 
@@ -43,7 +43,7 @@ cssclasses:
   ">
     <em>Xử lý vào/ra trong C++</em>
   </figcaption>
-</figure>
+</figure> %%
 
 Trong bài viết này, chúng ta sẽ tìm hiểu về **xử lý vào/ra (I/O)** trong C++ thông qua một bài toán đơn giản, cùng với các phương pháp và công cụ phổ biến như thư viện `<iostream>`, `<cstdio>`, và `<fstream>`. Ngoài ra, chúng ta cũng sẽ khám phá cách làm việc với tệp tin và một số mẹo hữu ích. 🚀
 

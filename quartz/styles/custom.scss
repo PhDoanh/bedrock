@@ -1,12 +1,12 @@
 @use "./base.scss";
 @use "./callouts.scss";
-@use "./variables.scss" as *;
 @use "../components/styles/toc.scss";
 @use "../components/styles/footer.scss";
 @use "../components/styles/darkmode.scss";
 @use "../components/styles/graph.scss";
-@use "../../content/.obsidian/snippets/btn.css";
-@use "../../content/.obsidian/snippets/img.css";
+@use "./variables.scss" as *;
+@use "./btn.css";
+@use "./img.css";
 
 // base.scss
 .page {
