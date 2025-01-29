@@ -62,7 +62,7 @@ cssclasses:
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Nhấn mạnh **「そ」** và kéo dài **「う」** (**そーです**) để thể hiện sự đồng tình.
-> - Kết hợp với trợ từ **「よ・ね・か・…」** để tạo sắc thái. 
+> - Kết hợp với trợ từ **「よ・ね・か・…」** để tạo sắc thái. Đặc biệt **「そうですか」(vậy à)** bày tỏ sự **ngạc nhiên/thấu hiểu** khi tiếp nhận thông tin mới.
 
 > [!caution] Lưu ý quan trọng
 > - Dùng **「そうです」** để trả lời khi bạn **chắc chắn** về thông tin. 
@@ -70,7 +70,7 @@ cssclasses:
 
 > [!info] Ngữ pháp tương tự
 > - **「その通りです」**: Trang trọng hơn, dùng trong văn viết hoặc tình huống nghiêm túc.
-> - **「～そうです」**: dùng để **truyền đạt thông tin nghe được** và **phỏng đoán dựa trên quan sát**.
+> - **[[n_sou|「～そうです」]]**: dùng để **truyền đạt thông tin nghe được** và **phỏng đoán dựa trên quan sát**.
 
 # 🔥Tổng kết
 **「そうです」** trong câu trả lời mang nghĩa **"đúng vậy", "chuẩn rồi"**; thể hiện sự **đồng ý/xác nhận** thông tin.

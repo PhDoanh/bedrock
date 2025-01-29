@@ -92,6 +92,12 @@ Diễn tả **mối quan hệ thời gian** giữa các sự việc.
 > [!content]- <ruby>来週<rt>らいしゅう</rt></ruby>**の**<ruby>予定<rt>よてい</rt></ruby>
 > Kế hoạch của tuần sau
 
+## の thay thế cho N 🔄️
+**Lược bỏ** danh từ 2 trong cấu trúc **N1 の N2** với ý nghĩa **không thay đổi**
+
+> [!content]- A: これは<ruby>誰<rt>だれ</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>ですか。<br>B: あ、**<ruby>私<rt>わたし</rt></ruby>の**です。
+> A: Cái ô của ai đây?<br>B: A, của tôi.
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Phân biệt với trợ từ が khi muốn nhấn mạnh chủ thể
@@ -103,6 +109,7 @@ Diễn tả **mối quan hệ thời gian** giữa các sự việc.
 > - Cách phát âm: の được đọc là "no", không biến âm
 > - Tương đồng với 's trong tiếng Anh (John's book)
 > - Có thể thay thế bằng な trong một số trường hợp với tính từ đuôi な
+> - **の** chỉ dùng để thay thế cho danh từ **chỉ vật chứ không phải người**
 
 # 🔥Tổng kết
 「N₁ の N₂」là một trong những **cấu trúc cơ bản** và **quan trọng nhất** trong tiếng Nhật. Nó được sử dụng rộng rãi để diễn tả nhiều mối quan hệ khác nhau giữa các danh từ, từ sở hữu đến vị trí, thời gian và đặc điểm.

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f50e33da8a62125c",
+        "id": "ce81ed443ec3ecf9",
         "type": "tabs",
         "children": [
           {
-            "id": "c0236f4a30959643",
+            "id": "9c6ed5cddf5f9ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/data-types.md",
+                "file": "materials/nihongo-3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "data-types"
+              "title": "nihongo-3"
+            }
+          },
+          {
+            "id": "fd084588e7d8ba4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/12_koko-soko-asoko.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "12_koko-soko-asoko"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/data-types.md"
+                "file": "materials/12_koko-soko-asoko.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of data-types"
+              "title": "Outline of 12_koko-soko-asoko"
             }
           },
           {
@@ -197,9 +212,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c0236f4a30959643",
+  "active": "fd084588e7d8ba4a",
   "lastOpenFiles": [
+    "materials/12_koko-soko-asoko.md",
+    "materials/nihongo-3.md",
+    "materials/nihongo-2.md",
+    "materials/11_o-n.md",
     "draft.md",
+    "materials/9_soudesu.md",
+    "materials/n_sou.md",
+    "materials/5_no.md",
+    "materials/3_desuka.md",
+    "materials/nihongo-1.md",
+    "materials/10_ka-ka.md",
     "materials/data-types.md",
     "materials/input-output.md",
     "index.md",
@@ -215,16 +240,6 @@
     "materials/linux-on-win.md",
     "materials/jp-typing-guide.md",
     "templates/service.md",
-    "templates/pillar-post.md",
-    "templates/course.md",
-    "materials/11_hello.md",
-    "jobs/bruh.md",
-    "materials/Untitled.md",
-    "jobs/blogger-from-zero.md",
-    "materials/8_kono-sono-ano.md",
-    "materials/2_ja-arimasen.md",
-    "materials/3_desuka.md",
-    "materials/4_mo.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",
