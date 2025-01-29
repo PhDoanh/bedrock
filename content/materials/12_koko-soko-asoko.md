@@ -78,6 +78,7 @@ Có thể thêm **へ / に** sau các từ này để chỉ hướng di chuyể
 > - Trong bài thi, chú ý ngữ cảnh để xác định vị trí tương đối giữa người nói và đối tượng
 
 > [!caution] Lưu ý quan trọng
+> - Khi cả người nói và nghe ở cùng vị trí thì **ここ** chỉ vị trí của 2 người đang ở, **そこ** chỉ vị trí hơi xa 2 người và **あそこ** chỉ vị trí xa hẳn 2 người
 > - **「こちら・そちら・あちら」** lịch sự hơn **「ここ・そこ・あそこ」**
 > - Tránh dùng **あそこ** chỉ người vì có thể mang tính xúc phạm
 > - Phát âm cần chú ý: そこ (so-ko) không phải (soko)

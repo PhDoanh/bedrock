@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "12_koko-soko-asoko"
             }
+          },
+          {
+            "id": "ad591877b952e18b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/1_n1-ha-n2-desu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1_n1-ha-n2-desu"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/12_koko-soko-asoko.md"
+                "file": "materials/1_n1-ha-n2-desu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 12_koko-soko-asoko"
+              "title": "Outline of 1_n1-ha-n2-desu"
             }
           },
           {
@@ -212,10 +226,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fd084588e7d8ba4a",
+  "active": "ad591877b952e18b",
   "lastOpenFiles": [
-    "materials/nihongo-3.md",
     "materials/12_koko-soko-asoko.md",
+    "materials/1_n1-ha-n2-desu.md",
+    "materials/nihongo-3.md",
     "materials/7_kore-sore-are.md",
     "materials/nihongo-2.md",
     "materials/11_o-n.md",
@@ -229,7 +244,6 @@
     "materials/data-types.md",
     "materials/input-output.md",
     "index.md",
-    "materials/1_n1-ha-n2-desu.md",
     "templates/dsa.md",
     "materials/demo.md",
     "templates/single-post.md",
