@@ -73,7 +73,7 @@ cssclasses: img
 > [!content]- この<ruby>料理<rt>りょうり</rt></ruby> **は** <ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby> **です**。
 > Món ăn này là món ăn Nhật Bản
 
-> [!content]- <ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby> **は <ruby>町<rt>まち</rt></ruby>**です。
+> [!content]- <ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby> **は** <ruby>町<rt>まち</rt></ruby>です。
 > Rạp chiếu phim ở trong thành phố.
 
 # 🔓 Mở rộng ngữ pháp   

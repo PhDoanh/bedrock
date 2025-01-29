@@ -100,7 +100,7 @@ cssclasses:
 > - **Không lẫn lộn** giữa các từ chỉ thị
 
 > [!caution] Lưu ý quan trọng
-> - Khác với **「どの＋N」** (từ nghi vấn "cái nào")
+> - **[[n_dono|「どの＋N」]]** là từ để hỏi **"cái nào"**
 > - Tương tự **[[7_kore-sore-are|「あれ・これ・それ」]]** (đại từ chỉ định)
 
 # 🔥Tổng kết

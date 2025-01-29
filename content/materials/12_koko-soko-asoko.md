@@ -1,6 +1,6 @@
 ---
 date: 2025-01-29
-draft: true
+draft: false
 status: Doing
 title: "12. ここ・そこ・あそこ: Đại từ chỉ vị trí"
 description: 
@@ -23,7 +23,7 @@ cssclasses:
 ---
 %% ĐỊNH DẠNG TÊN FILE: "stt_tên-furigana-của-ngữ-pháp" | VD: 1_n-no-tameni %%
 
-<figure style="text-align: center; margin: 20px auto;">
+%% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/12_koko-soko-asoko.png"
     alt="Đại từ chỉ vị trí" 
@@ -45,7 +45,7 @@ cssclasses:
   ">
     <em>Cấu trúc ngữ pháp đầy đủ</em>
   </figcaption>
-</figure>
+</figure> %%
 
 # ✨ Ứng dụng
 **ここ** (gần người nói), **そこ** (gần người nghe), **あそこ** (xa cả hai) được dùng để chỉ vị trí cụ thể. Đây là cách dùng phổ biến nhất.
@@ -78,6 +78,7 @@ Có thể thêm **へ / に** sau các từ này để chỉ hướng di chuyể
 > - Trong bài thi, chú ý ngữ cảnh để xác định vị trí tương đối giữa người nói và đối tượng
 
 > [!caution] Lưu ý quan trọng
+> - **「どこ／どちら」** là từ để hỏi "ở đâu / phía nào"
 > - Khi cả người nói và nghe ở cùng vị trí thì **ここ** chỉ vị trí của 2 người đang ở, **そこ** chỉ vị trí hơi xa 2 người và **あそこ** chỉ vị trí xa hẳn 2 người
 > - **「こちら・そちら・あちら」** lịch sự hơn **「ここ・そこ・あそこ」**
 > - Tránh dùng **あそこ** chỉ người vì có thể mang tính xúc phạm

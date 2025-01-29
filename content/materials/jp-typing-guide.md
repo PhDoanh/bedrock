@@ -2,25 +2,28 @@
 date: 2025-01-26
 draft: true
 status: Not started
-title: "<% tp.file.cursor(1) %>"
-description: "<% tp.file.cursor(2) %>"
+title: "Hướng dẫn gõ tiếng Nhật từ A-Z"
+description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
-  - "<% tp.file.cursor(3) %>"
+  - "japanese"
+  - skills
+  - keyboard
+  - tutorial
 aliases:
   - "jp typing guide"
-  - "<% tp.file.cursor(1) %>"
+  - "Hướng dẫn gõ tiếng Nhật từ A-Z"
 cssclasses:
   - img
   - btn
 ---
 %% ĐỊNH DẠNG TÊN FILE: "tên-bài-viết" | VD: jp-typing-guide %%
 
-<figure style="text-align: center; margin: 20px auto;">
+%% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/jp-typing-guide.png"
-    alt="<% tp.file.cursor(1) %>" 
+    alt="Hướng dẫn gõ tiếng Nhật từ A-Z" 
     style="
       width: 90%;
       height: auto;
@@ -39,5 +42,13 @@ cssclasses:
   ">
     <em>caption</em>
   </figcaption>
-</figure>
+</figure> %%
+description
 
+# ⌨️ Cài đặt bàn phím tiếng Nhật
+
+# 🉑 Kí tự tiếng Nhật trên bàn phím 
+
+# ⚡ Luyện gõ nhanh 
+
+# 🔥 Tổng kết
