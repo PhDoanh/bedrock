@@ -2,7 +2,7 @@
 date: 2025-01-26
 draft: true
 status: Not started
-title: "Hướng dẫn gõ tiếng Nhật từ A-Z"
+title: "Làm chủ cách gõ tiếng Nhật trong 5 phút"
 description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -13,7 +13,7 @@ tags:
   - tutorial
 aliases:
   - "jp typing guide"
-  - "Hướng dẫn gõ tiếng Nhật từ A-Z"
+  - "Làm chủ cách gõ tiếng Nhật trong 5 phút"
 cssclasses:
   - img
   - btn
@@ -23,7 +23,7 @@ cssclasses:
 %% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/jp-typing-guide.png"
-    alt="Hướng dẫn gõ tiếng Nhật từ A-Z" 
+    alt="Làm chủ cách gõ tiếng Nhật trong 5 phút" 
     style="
       width: 90%;
       height: auto;
@@ -46,9 +46,26 @@ cssclasses:
 description
 
 # ⌨️ Cài đặt bàn phím tiếng Nhật
+> [!caution]- Cảnh báo
+> Hướng dẫn cài đặt hiện chỉ áp dụng cho hệ điều hành Windows (máy tính) và Android (điện thoại)! 
+
+## Bàn phím máy tính
+### Sử dụng phần mềm VGN
+
+## Bàn phím điện thoại
+
+> [!info] Lưu ý
+> Nếu các cách trên không hoạt động, bạn có thể dùng các dịch vụ gõ phím online   
 
 # 🉑 Kí tự tiếng Nhật trên bàn phím 
 
+|     |     |
+| --- | --- |
+|     |     |
+
+
 # ⚡ Luyện gõ nhanh 
 
+
 # 🔥 Tổng kết
+conclusion_and_comments

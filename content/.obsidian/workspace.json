@@ -49,7 +49,8 @@
               "title": "draft"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/nihongo-4.md"
+                "file": "materials/jp-typing-guide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of nihongo-4"
+              "title": "Outline of jp-typing-guide"
             }
           },
           {
@@ -225,12 +226,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f2b17dab89990c9f",
+  "active": "86f866cb2707700d",
   "lastOpenFiles": [
-    "materials/jp-typing-guide.md",
     "draft.md",
-    "templates/bunpou.md",
+    "materials/jp-typing-guide.md",
     "materials/nihongo-4.md",
+    "templates/bunpou.md",
     "materials/14_doushi-no-teineikei.md",
     "materials/10_ka-ka.md",
     "materials/11_o-n.md",

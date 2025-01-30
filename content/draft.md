@@ -2,6 +2,15 @@
 draft: true
 ---
 # Nháp
+Trình bày bài viết "Hướng dẫn gõ tiếng Nhật từ A-Z" theo cấu trúc và yêu cầu sau:
+- Cài đặt bàn phím tiếng Nhật: cung cấp các bước cài bố cục bàn phím nhật trên máy tính windows và điện thoại  android và một số lưu ý nếu có
+- Kí tự tiếng Nhật trên bàn phím: giới thiệu về hệ thống bảng chữ, các kí hiệu và cách gõ chúng (trình bày dưới dạng bảng). Bổ sung lưu ý về cách kích hoạt hán tự, kana, ...
+- Luyện gõ nhanh: chỉ ra các mẹo gõ (xóa nhanh, xóa từ, trỏ về đầu câu, ...) và nền tảng luyện gõ tiếng Nhật
+- Tổng kết: Tóm tắt chủ đề, nhận xét
+
+Lưu ý khi trình bày: 
+- bôi đậm những từ khóa quan trọng
+- kết hợp emoji để tạo cảm giác thoải mái cho người đọc
 
 
 # AI Prompts
