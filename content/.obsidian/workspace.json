@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce81ed443ec3ecf9",
+        "id": "2b3ebb4f2976ac76",
         "type": "tabs",
         "children": [
           {
-            "id": "f2b17dab89990c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/nihongo-4.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "nihongo-4"
-            }
-          },
-          {
-            "id": "86f866cb2707700d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/jp-typing-guide.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "jp-typing-guide"
-            }
-          },
-          {
-            "id": "a2f4e1d4f5ca5e82",
+            "id": "2230b281c18eaaa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +19,34 @@
               },
               "icon": "lucide-file",
               "title": "draft"
+            }
+          },
+          {
+            "id": "5abbb49b6a216acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/time_complexity.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "time_complexity"
+            }
+          },
+          {
+            "id": "34832f56712f83ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/data-types.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "data-types"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/jp-typing-guide.md",
+                "file": "materials/time_complexity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of jp-typing-guide"
+              "title": "Outline of time_complexity"
             }
           },
           {
@@ -230,11 +230,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "86f866cb2707700d",
+  "active": "5abbb49b6a216acb",
   "lastOpenFiles": [
+    "materials/data-types.md",
+    "materials/time_complexity.md",
     "draft.md",
-    "materials/jp-typing-guide.md",
     "materials/nihongo-4.md",
+    "materials/jp-typing-guide.md",
     "templates/bunpou.md",
     "materials/14_doushi-no-teineikei.md",
     "materials/10_ka-ka.md",
@@ -253,11 +255,9 @@
     "materials/n_sou.md",
     "materials/3_desuka.md",
     "materials/nihongo-1.md",
-    "materials/data-types.md",
     "materials/input-output.md",
     "index.md",
     "templates/dsa.md",
-    "materials/demo.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",
