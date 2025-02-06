@@ -1,23 +1,23 @@
 ---
 date: 2025-01-29
 draft: false
-status: Doing
+status: Done
 title: "14. V + ます・ません・ました・ませんでした: Động từ thể lịch sự"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N5"
+  - N5
   - elementary
   - minna-no-nihongo
 aliases:
-  - "doushi no teineikei"
-  - "V + ます・ません・ました・ませんでした"
-  - "Động từ thể lịch sự"
-cssclasses: 
+  - doushi no teineikei
+  - V + ます・ません・ました・ませんでした
+  - Động từ thể lịch sự
+cssclasses:
   - img
   - btn
 ---

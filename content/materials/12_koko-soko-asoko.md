@@ -1,23 +1,23 @@
 ---
 date: 2025-01-29
 draft: false
-status: Doing
+status: Done
 title: "12. ここ・そこ・あそこ: Đại từ chỉ vị trí"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N5"
+  - N5
   - elementary
   - minna-no-nihongo
 aliases:
-  - "koko soko asoko"
-  - "ここ・そこ・あそこ"
-  - "Đại từ chỉ vị trí"
-cssclasses: 
+  - koko soko asoko
+  - ここ・そこ・あそこ
+  - Đại từ chỉ vị trí
+cssclasses:
   - img
   - btn
 ---

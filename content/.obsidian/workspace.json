@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "94027c8a6667cc7c",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "86f866cb2707700d",
             "type": "leaf",
             "state": {
@@ -34,8 +44,23 @@
               "icon": "lucide-file",
               "title": "jp-typing-guide"
             }
+          },
+          {
+            "id": "4b975a854ec98572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/17_n-wo-niku-simasu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "17_n-wo-niku-simasu"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,15 +240,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f2b17dab89990c9f",
+  "active": "94027c8a6667cc7c",
   "lastOpenFiles": [
-    "materials/jp-typing-guide.md",
-    "materials/18_n-ni-simasu.md",
+    "materials/nihongo-4.md",
     "materials/17_n-wo-niku-simasu.md",
+    "materials/jp-typing-guide.md",
+    "materials/11_o-n.md",
+    "draft.md",
+    "materials/18_n-ni-simasu.md",
     "materials/16_yasui-nikui.md",
     "materials/15_sugimasu.md",
     "materials/14_doushi-no-teineikei.md",
-    "materials/11_o-n.md",
     "materials/12_koko-soko-asoko.md",
     "materials/13_ima-ji-fun-desu.md",
     "images/18_n-ni-simasu.png",
@@ -234,8 +261,6 @@
     "images/13_ima-ji-fun-desu.png",
     "images/12_koko-soko-asoko.png",
     "images/11_o-n.png",
-    "materials/nihongo-4.md",
-    "draft.md",
     "materials/time_complexity.md",
     "materials/data-types.md",
     "templates/bunpou.md",

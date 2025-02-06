@@ -1,23 +1,23 @@
 ---
 date: 2025-01-29
 draft: false
-status: Doing
+status: Done
 title: "13. いま ～じ ～ふんです: Hỏi mấy giờ thì trả lời như thế nào?"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N5"
+  - N5
   - elemeantary
   - minna-no-nihongo
 aliases:
-  - "ima ji fun desu"
-  - "いま ～じ ～ふんです"
-  - "Hỏi mấy giờ thì trả lời như thế nào"
-cnào?ssclasses: 
+  - ima ji fun desu
+  - いま ～じ ～ふんです
+  - Hỏi mấy giờ thì trả lời như thế nào
+cnào?ssclasses:
   - img
   - btn
 ---

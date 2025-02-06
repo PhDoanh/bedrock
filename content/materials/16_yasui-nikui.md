@@ -1,23 +1,23 @@
 ---
 date: 2025-02-06
-draft: true
-status: Doing
+draft: false
+status: Done
 title: '16. ～　やすいです／にくいです: Cách diễn đạt "dễ làm" và "khó làm" trong tiếng Nhật'
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N4"
+  - N4
   - elementary
   - minna-no-nihongo
 aliases:
-  - "yasui nikui"
-  - "～　やすいです／にくいです"
-  - 'Cách diễn đạt "dễ làm" và "khó làm" trong tiếng Nhật'
-cssclasses: 
+  - yasui nikui
+  - ～　やすいです／にくいです
+  - Cách diễn đạt "dễ làm" và "khó làm" trong tiếng Nhật
+cssclasses:
   - img
   - btn
 ---

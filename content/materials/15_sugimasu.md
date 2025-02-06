@@ -1,23 +1,23 @@
 ---
 date: 2025-02-06
-draft: true
-status: Doing
+draft: false
+status: Done
 title: "15. ～すぎます: Làm thế nào để nói quá?"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N4"
+  - N4
   - elementary
   - minna-no-nihongo
 aliases:
-  - "sugimasu"
-  - "～すぎます"
-  - "Làm thế nào để nói quá?"
-cssclasses: 
+  - sugimasu
+  - ～すぎます
+  - Làm thế nào để nói quá?
+cssclasses:
   - img
   - btn
 ---

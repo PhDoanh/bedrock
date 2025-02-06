@@ -1,23 +1,23 @@
 ---
 date: 2025-02-06
-draft: true
-status: Doing
+draft: false
+status: Done
 title: "17. Nを ～く／～に します: Biến đổi trạng thái hoặc tính chất của đối tượng"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N4"
+  - N4
   - elementary
   - minna-no-nihongo
 aliases:
-  - "n wo niku simasu"
-  - "Nを ～く／～に します"
-  - "Biến đổi trạng thái hoặc tính chất của đối tượng"
-cssclasses: 
+  - n wo niku simasu
+  - Nを ～く／～に します
+  - Biến đổi trạng thái hoặc tính chất của đối tượng
+cssclasses:
   - img
   - btn
 ---

@@ -1,23 +1,23 @@
 ---
 date: 2025-02-06
-draft: true
-status: Doing
+draft: false
+status: Done
 title: "18. Nに します: Quyết định hoặc lựa chọn một cái gì đó"
-description: 
+description:
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "N4"
+  - N4
   - elementary
   - minna-no-nihongo
 aliases:
-  - "n ni simasu"
-  - "Nに します"
-  - "Quyết định hoặc lựa chọn một cái gì đó"
-cssclasses: 
+  - n ni simasu
+  - Nに します
+  - Quyết định hoặc lựa chọn một cái gì đó
+cssclasses:
   - img
   - btn
 ---
