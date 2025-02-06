@@ -23,7 +23,7 @@ cssclasses:
 ---
 %% ĐỊNH DẠNG TÊN FILE: "stt_tên-furigana-của-ngữ-pháp" | VD: 1_n-no-tameni %%
 
-%% <figure style="text-align: center; margin: 20px auto;">
+<figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/12_koko-soko-asoko.png"
     alt="Đại từ chỉ vị trí" 
@@ -45,7 +45,7 @@ cssclasses:
   ">
     <em>Cấu trúc ngữ pháp đầy đủ</em>
   </figcaption>
-</figure> %%
+</figure>
 
 # ✨ Ứng dụng
 **ここ** (gần người nói), **そこ** (gần người nghe), **あそこ** (xa cả hai) được dùng để chỉ vị trí cụ thể. Đây là cách dùng phổ biến nhất.

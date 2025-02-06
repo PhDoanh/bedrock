@@ -34,65 +34,8 @@
               "icon": "lucide-file",
               "title": "jp-typing-guide"
             }
-          },
-          {
-            "id": "a3cdecd7d3e78d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/15_sugimasu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "15_sugimasu"
-            }
-          },
-          {
-            "id": "30f71c2a3fb153ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/16_yasui-nikui.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "16_yasui-nikui"
-            }
-          },
-          {
-            "id": "d869bb7c5243824c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/17_n-wo-niku-simasu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "17_n-wo-niku-simasu"
-            }
-          },
-          {
-            "id": "a9f2bf3f71618ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/18_n-ni-simasu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "18_n-ni-simasu"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/18_n-ni-simasu.md",
+                "file": "materials/nihongo-4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18_n-ni-simasu"
+              "title": "Outline of nihongo-4"
             }
           },
           {
@@ -272,18 +215,26 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a9f2bf3f71618ae0",
+  "active": "f2b17dab89990c9f",
   "lastOpenFiles": [
+    "materials/jp-typing-guide.md",
+    "materials/18_n-ni-simasu.md",
     "materials/17_n-wo-niku-simasu.md",
     "materials/16_yasui-nikui.md",
     "materials/15_sugimasu.md",
-    "materials/18_n-ni-simasu.md",
-    "materials/jp-typing-guide.md",
-    "materials/nihongo-4.md",
     "materials/14_doushi-no-teineikei.md",
-    "materials/13_ima-ji-fun-desu.md",
-    "materials/12_koko-soko-asoko.md",
     "materials/11_o-n.md",
+    "materials/12_koko-soko-asoko.md",
+    "materials/13_ima-ji-fun-desu.md",
+    "images/18_n-ni-simasu.png",
+    "images/17_n-wo-niku-simasu.png",
+    "images/16_yasui-nikui.png",
+    "images/15_sugimasu.png",
+    "images/14_doushi-no-teineikei.png",
+    "images/13_ima-ji-fun-desu.png",
+    "images/12_koko-soko-asoko.png",
+    "images/11_o-n.png",
+    "materials/nihongo-4.md",
     "draft.md",
     "materials/time_complexity.md",
     "materials/data-types.md",
@@ -299,17 +250,8 @@
     "materials/nihongo-2.md",
     "materials/9_soudesu.md",
     "materials/n_sou.md",
-    "materials/3_desuka.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
-    "images/8_kono-sono-ano.png",
-    "images/7_kore-sore-are.png",
-    "images/Pasted-image-20240222150839.png",
-    "images/Pasted-image-20240222151113.png",
-    "images/Pasted-image-20240222161257.png",
-    "images/Pasted-image-20240223154703.png",
-    "images/Pasted-image-20240223152911.png",
-    "images/Pasted-image-20240223152611.png",
     "images/Screen Recording 2024-11-29 070305.mp3",
     "images/Screen Recording 2024-11-29 070246.mp3",
     "images/Screen Recording 2024-11-29 070224.mp3",

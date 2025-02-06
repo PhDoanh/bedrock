@@ -23,7 +23,7 @@ cssclasses:
 ---
 %% ĐỊNH DẠNG TÊN FILE: "stt_tên-furigana-của-ngữ-pháp" | VD: 1_n-no-tameni %%
 
-%% <figure style="text-align: center; margin: 20px auto;">
+<figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/14_doushi-no-teineikei.png"
     alt="Động từ thể lịch sự" 
@@ -45,7 +45,7 @@ cssclasses:
   ">
     <em>Cấu trúc ngữ pháp đầy đủ</em>
   </figcaption>
-</figure> %%
+</figure>
 
 # ✨ Ứng dụng
 ## Diễn tả hành động quá khứ ⌛
