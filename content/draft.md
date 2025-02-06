@@ -48,7 +48,8 @@ Trình bày ngữ pháp "" theo cấu trúc và yêu cầu sau:
 
 Lưu ý khi trình bày: 
 - Các ví dụ nên viết bằng Hán tự và dùng thẻ ruby để hiển thị furigana
-- Nội dung nên nhấn mạnh (bôi đậm) về ngữ pháp đó trong câu ví dụ tiếng nhật và các từ khóa trong phần giải thích (mô tả chi tiết về trường hợp sử dụng) - Kết hợp các biểu tượng emoji liên quan để tạo cảm giác thoải mái cho người đọc
+- Nội dung nên nhấn mạnh (bôi đậm) về ngữ pháp đó trong câu ví dụ tiếng nhật và các từ khóa trong phần giải thích (mô tả chi tiết về trường hợp sử dụng) 
+- Kết hợp các biểu tượng emoji liên quan để tạo cảm giác thoải mái cho người đọc
 ```
 
 ## dsa

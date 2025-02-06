@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3ebb4f2976ac76",
+        "id": "ce81ed443ec3ecf9",
         "type": "tabs",
         "children": [
           {
-            "id": "2230b281c18eaaa2",
+            "id": "f2b17dab89990c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "materials/nihongo-4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "nihongo-4"
             }
           },
           {
-            "id": "5abbb49b6a216acb",
+            "id": "86f866cb2707700d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/time_complexity.md",
+                "file": "materials/jp-typing-guide.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "time_complexity"
+              "title": "jp-typing-guide"
             }
           },
           {
-            "id": "34832f56712f83ba",
+            "id": "a3cdecd7d3e78d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/data-types.md",
+                "file": "materials/15_sugimasu.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "data-types"
+              "title": "15_sugimasu"
+            }
+          },
+          {
+            "id": "30f71c2a3fb153ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/16_yasui-nikui.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "16_yasui-nikui"
+            }
+          },
+          {
+            "id": "d869bb7c5243824c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/17_n-wo-niku-simasu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "17_n-wo-niku-simasu"
+            }
+          },
+          {
+            "id": "a9f2bf3f71618ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/18_n-ni-simasu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "18_n-ni-simasu"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/time_complexity.md",
+                "file": "materials/18_n-ni-simasu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of time_complexity"
+              "title": "Outline of 18_n-ni-simasu"
             }
           },
           {
@@ -207,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,19 +272,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5abbb49b6a216acb",
+  "active": "a9f2bf3f71618ae0",
   "lastOpenFiles": [
-    "materials/data-types.md",
-    "materials/time_complexity.md",
-    "draft.md",
-    "materials/nihongo-4.md",
+    "materials/17_n-wo-niku-simasu.md",
+    "materials/16_yasui-nikui.md",
+    "materials/15_sugimasu.md",
+    "materials/18_n-ni-simasu.md",
     "materials/jp-typing-guide.md",
-    "templates/bunpou.md",
+    "materials/nihongo-4.md",
     "materials/14_doushi-no-teineikei.md",
-    "materials/10_ka-ka.md",
-    "materials/11_o-n.md",
-    "materials/12_koko-soko-asoko.md",
     "materials/13_ima-ji-fun-desu.md",
+    "materials/12_koko-soko-asoko.md",
+    "materials/11_o-n.md",
+    "draft.md",
+    "materials/time_complexity.md",
+    "materials/data-types.md",
+    "templates/bunpou.md",
+    "materials/10_ka-ka.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/nihongo-3.md",
     "materials/8_kono-sono-ano.md",
@@ -254,10 +300,6 @@
     "materials/9_soudesu.md",
     "materials/n_sou.md",
     "materials/3_desuka.md",
-    "materials/nihongo-1.md",
-    "materials/input-output.md",
-    "index.md",
-    "templates/dsa.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/8_kono-sono-ano.png",

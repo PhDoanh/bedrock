@@ -2,7 +2,7 @@
 date: 2025-01-29
 draft: false
 status: Doing
-title: "13. いま　～じ　～ふんです: Hỏi mấy giờ thì trả lời như thế nào?"
+title: "13. いま ～じ ～ふんです: Hỏi mấy giờ thì trả lời như thế nào?"
 description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -15,7 +15,7 @@ tags:
   - minna-no-nihongo
 aliases:
   - "ima ji fun desu"
-  - "いま　～じ　～ふんです"
+  - "いま ～じ ～ふんです"
   - "Hỏi mấy giờ thì trả lời như thế nào"
 cnào?ssclasses: 
   - img
@@ -80,7 +80,7 @@ Dùng để chỉ **khoảng thời gian** từ lúc nào đến lúc nào
 > - Có thể bỏ **です** trong giao tiếp thân mật
 
 # 🔥Tổng kết
-Ngữ pháp **「いま　～じ　～ふんです」** là một trong những mẫu câu **cơ bản** và **quan trọng** trong tiếng Nhật, dùng để nói về thời gian hiện tại một cách **chính xác** và **lịch sự**.
+Ngữ pháp **「いま ～じ ～ふんです」** là một trong những mẫu câu **cơ bản** và **quan trọng** trong tiếng Nhật, dùng để nói về thời gian hiện tại một cách **chính xác** và **lịch sự**.
 
 > [!advices] Lời khuyên
 > - Nên học thuộc và sử dụng thường xuyên vì đây là mẫu câu giao tiếp cơ bản
