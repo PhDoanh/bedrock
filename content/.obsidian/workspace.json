@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2b17dab89990c9f",
+            "id": "bd56ecb8ea443e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/nihongo-4.md",
+                "file": "materials/self-hosted-n8n-guides.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "nihongo-4"
-            }
-          },
-          {
-            "id": "94027c8a6667cc7c",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "86f866cb2707700d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/jp-typing-guide.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "jp-typing-guide"
-            }
-          },
-          {
-            "id": "4b975a854ec98572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/17_n-wo-niku-simasu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "17_n-wo-niku-simasu"
+              "title": "self-hosted-n8n-guides"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/nihongo-4.md",
+                "file": "materials/self-hosted-n8n-guides.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nihongo-4"
+              "title": "Outline of self-hosted-n8n-guides"
             }
           },
           {
@@ -217,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -240,13 +201,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "94027c8a6667cc7c",
+  "active": "410b6811532d7f71",
   "lastOpenFiles": [
-    "materials/jp-typing-guide.md",
+    "materials/self-hosted-n8n-guides.md",
+    "draft.md",
     "materials/nihongo-4.md",
+    "materials/jp-typing-guide.md",
     "materials/17_n-wo-niku-simasu.md",
     "materials/11_o-n.md",
-    "draft.md",
     "materials/18_n-ni-simasu.md",
     "materials/16_yasui-nikui.md",
     "materials/15_sugimasu.md",
