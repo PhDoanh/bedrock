@@ -16,7 +16,6 @@ tags:
 aliases:
   - yasui nikui
   - ～　やすいです／にくいです
-  - Cách diễn đạt "dễ làm" và "khó làm" trong tiếng Nhật
 cssclasses:
   - img
   - btn

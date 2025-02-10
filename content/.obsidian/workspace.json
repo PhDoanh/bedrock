@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ce81ed443ec3ecf9",
+        "id": "80275ad4045fe99c",
         "type": "tabs",
         "children": [
           {
-            "id": "bd56ecb8ea443e93",
+            "id": "14869ef3ddcd578b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/self-hosted-n8n-guides.md",
+                "file": "materials/git-vs-github.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "self-hosted-n8n-guides"
+              "title": "git-vs-github"
+            }
+          },
+          {
+            "id": "8b85ebe4897c1619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
         ]
@@ -138,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/self-hosted-n8n-guides.md",
+                "file": "materials/git-vs-github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of self-hosted-n8n-guides"
+              "title": "Outline of git-vs-github"
             }
           },
           {
@@ -178,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,17 +215,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "482a08b1ac122878",
+  "active": "14869ef3ddcd578b",
   "lastOpenFiles": [
-    "materials/self-hosted-n8n-guides.md",
     "draft.md",
+    "materials/15_sugimasu.md",
+    "materials/16_yasui-nikui.md",
+    "materials/git-vs-github.md",
+    "materials/self-hosted-n8n-guides.md",
     "materials/nihongo-4.md",
     "materials/jp-typing-guide.md",
     "materials/17_n-wo-niku-simasu.md",
     "materials/11_o-n.md",
     "materials/18_n-ni-simasu.md",
-    "materials/16_yasui-nikui.md",
-    "materials/15_sugimasu.md",
     "materials/14_doushi-no-teineikei.md",
     "materials/12_koko-soko-asoko.md",
     "materials/13_ima-ji-fun-desu.md",
@@ -236,7 +251,6 @@
     "materials/5_no.md",
     "materials/nihongo-2.md",
     "materials/9_soudesu.md",
-    "materials/n_sou.md",
     "images/10_ka-ka.png",
     "images/9_soudesu.png",
     "images/Screen Recording 2024-11-29 070305.mp3",

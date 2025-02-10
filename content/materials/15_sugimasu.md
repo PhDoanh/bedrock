@@ -16,7 +16,6 @@ tags:
 aliases:
   - sugimasu
   - ～すぎます
-  - Làm thế nào để nói quá?
 cssclasses:
   - img
   - btn

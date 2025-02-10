@@ -15,6 +15,7 @@ Lưu ý khi trình bày:
 
 # AI Prompts
 ## single-post
+### Start from zero
 ```
 Trình bày bài viết "" theo cấu trúc và yêu cầu sau:
 - Số nguyên: cung cấp mô tả, mã c++, một số lưu ý và mẹo nếu có 
@@ -30,6 +31,24 @@ Lưu ý khi trình bày:
 	```cpp {1,2-3,4}
 	
 	```
+```
+
+### Start from documents
+```
+Trình bày lại nội dung trong tài liệu đính kèm với bố cục bài viết dạng blog tiêu chuẩn và đáp ứng được các tiêu chí sau:
+- Nội dung bên ngoài:
+	- Dùng tên bài viết cuốn hút hơn 
+	- Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong 
+- Nội dung bên trong:
+	- Tiêu đề mỗi phần dạng thẻ H1 và các phần con lần lượt là: H2, H3 (không có H4 trở đi), không đánh số thứ tự cho từng tiêu đề
+	- Mỗi phần phải có mô tả chi tiết nội dung sắp nói tới
+	- Mỗi nội dung nên thêm các lưu ý, cảnh báo, mẹo, quan trọng, ví dụ, ... (nếu cần thiết)
+	- Bổ sung thêm thông tin còn thiếu, mở rộng sang các thông tin nâng cao 
+	- Luôn có phần Tổng kết tóm gọn lại toàn bộ chủ đề bài viết
+	- Nhấn mạnh các từ hoặc cụm từ quan trọng bằng cú pháp in đậm, gắn link vào đó nếu cần 
+- Lưu ý chung:
+	- Dùng cú pháp Markdown để viết
+	- Sử dụng các biểu tượng emoji để cuốn hút người đọc
 ```
 
 ## bunpou
