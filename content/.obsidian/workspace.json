@@ -35,7 +35,8 @@
               "title": "draft"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/git-vs-github.md",
+                "file": "draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of git-vs-github"
+              "title": "Outline of draft"
             }
           },
           {
@@ -215,12 +216,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "14869ef3ddcd578b",
+  "active": "8b85ebe4897c1619",
   "lastOpenFiles": [
+    "materials/git-vs-github.md",
     "draft.md",
     "materials/15_sugimasu.md",
     "materials/16_yasui-nikui.md",
-    "materials/git-vs-github.md",
     "materials/self-hosted-n8n-guides.md",
     "materials/nihongo-4.md",
     "materials/jp-typing-guide.md",
