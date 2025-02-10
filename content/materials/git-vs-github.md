@@ -3,7 +3,7 @@ date: 2025-02-10
 draft: false
 status: Doing
 title: "Hiểu Git và Github trong 5 phút!"
-description: "**Git** là một hệ thống quản lý phiên bản phân tán, giúp theo dõi và kiểm soát thay đổi trong mã nguồn một cách hiệu quả. **GitHub** là một nền tảng trực tuyến dựa trên Git, cho phép lưu trữ, chia sẻ và cộng tác trong dự án phần mềm."
+description: "Git là một hệ thống quản lý phiên bản phân tán, giúp theo dõi và kiểm soát thay đổi trong mã nguồn một cách hiệu quả. GitHub là một nền tảng trực tuyến dựa trên Git, cho phép lưu trữ, chia sẻ và cộng tác trong dự án phần mềm."
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
