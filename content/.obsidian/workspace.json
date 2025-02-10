@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,7 +201,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "410b6811532d7f71",
+  "active": "482a08b1ac122878",
   "lastOpenFiles": [
     "materials/self-hosted-n8n-guides.md",
     "draft.md",
