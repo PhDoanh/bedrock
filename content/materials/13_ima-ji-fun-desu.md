@@ -17,7 +17,7 @@ aliases:
   - ima ji fun desu
   - いま ～じ ～ふんです
   - Hỏi mấy giờ thì trả lời như thế nào
-cnào?ssclasses:
+cssclasses:
   - img
   - btn
 ---

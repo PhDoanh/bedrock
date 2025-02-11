@@ -10,7 +10,6 @@ tags:
   - "<% tp.file.cursor(3) %>"
 aliases:
   - "<% tp.file.title.split("-").join(" ") %>"
-  - "<% tp.file.cursor(1) %>"
 cssclasses:
   - img
   - btn

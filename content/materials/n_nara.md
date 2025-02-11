@@ -1,8 +1,8 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+date: 2025-02-11
 draft: true
 status: Not started
-title: "<% tp.file.title.split("_")[0] %>. <% tp.file.cursor(1) %>"
+title: "n. <% tp.file.cursor(1) %>"
 description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -12,7 +12,7 @@ tags:
   - language
   - <% tp.file.cursor(3) %>
 aliases:
-  - <% tp.file.title.split("_")[1].split("-").join(" ") %>
+  - nara
 cssclasses: 
   - img
   - btn
@@ -21,7 +21,7 @@ cssclasses:
 
 <figure style="text-align: center; margin: 20px auto;">
   <img 
-    src="images/<% tp.file.title %>.png"
+    src="images/n_nara.png"
     alt="<% tp.file.cursor(1) %>" 
     style="
       width: 90%;
@@ -50,16 +50,12 @@ description
 > [!content]- japanese
 > vietnamese
 
----
-
 # 🔓 Mở rộng ngữ pháp   
 ## usage_case 
 description
 
 > [!content]- japanese
 > vietnamese
-
----
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -70,8 +66,6 @@ description
 
 > [!info] Ngữ pháp tương tự
 > 
-
----
 
 # 🔥Tổng kết
 conclusion
