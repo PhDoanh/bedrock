@@ -1,20 +1,20 @@
 ---
 date: 2025-01-25
 draft: false
-status: Doing
-title: "Xử lý vào/ra trong C++"
+status: Done
+title: Xử lý vào/ra trong C++
 description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
-  - "coding"
+tags:
+  - coding
   - cpp
   - cph
   - competitive
   - basic
 aliases:
-  - "input output"
-  - "Xử lý vào/ra trong C++"
+  - input output
+  - Xử lý vào/ra trong C++
 cssclasses:
   - img
   - btn

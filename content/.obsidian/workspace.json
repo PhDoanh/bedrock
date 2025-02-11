@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "index"
+            }
+          },
+          {
+            "id": "5be42b99d5e484bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/n_to.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "n_to"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md",
+                "file": "materials/n_to.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of n_to"
             }
           },
           {
@@ -201,11 +216,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8b85ebe4897c1619",
+  "active": "5be42b99d5e484bc",
   "lastOpenFiles": [
+    "index.md",
+    "materials/input-output.md",
+    "draft.md",
     "materials/16_yasui-nikui.md",
     "templates/bunpou.md",
-    "draft.md",
     "materials/20_noni.md",
     "materials/19_baaiha.md",
     "materials/n_to.md",
@@ -227,8 +244,6 @@
     "materials/15_sugimasu.md",
     "materials/nihongo-4.md",
     "materials/17_n-wo-niku-simasu.md",
-    "materials/11_o-n.md",
-    "materials/14_doushi-no-teineikei.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
