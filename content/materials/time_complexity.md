@@ -1,27 +1,27 @@
 ---
-date: 2025-02-05
-draft: true
+date: 2025-02-12
+draft: false
 status: Doing
-title: "Độ phức tạp thời gian của thuật toán"
-description: "Bài viết này sẽ hướng dẫn bạn cách tính toán Độ phức tạp thời gian trong các thuật toán – từ những ví dụ đơn giản đến các trường hợp phức tạp hơn, qua đó giúp bạn chuẩn bị tốt hơn cho các cuộc thi lập trình"
+title: Độ phức tạp thời gian của thuật toán
+description: Bài viết này sẽ hướng dẫn bạn cách tính toán Độ phức tạp thời gian trong các thuật toán – từ những ví dụ đơn giản đến các trường hợp phức tạp hơn, qua đó giúp bạn chuẩn bị tốt hơn cho các cuộc thi lập trình
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
-  - "cpp"
+tags:
+  - cpp
   - coding
   - competitive
   - cph
   - basic
 aliases:
-  - "time_complexity"
-  - "Độ phức tạp thời gian của thuật toán"
+  - time_complexity
+  - Độ phức tạp thời gian của thuật toán
 cssclasses:
   - img
   - btn
 ---
 %% ĐỊNH DẠNG TÊN FILE: "tên-bài-viết" | VD: jp-typing-guide %%
 
-<figure style="text-align: center; margin: 20px auto;">
+%% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/time_complexity.png"
     alt="Độ phức tạp thời gian của thuật toán" 
@@ -43,7 +43,7 @@ cssclasses:
   ">
     <em>caption</em>
   </figcaption>
-</figure>
+</figure> %%
 
 Trong thế giới lập trình và các cuộc thi thuật toán, **Độ phức tạp thời gian của thuật toán** là một khái niệm cốt lõi giúp đánh giá hiệu năng của một thuật toán. Bài viết này sẽ giới thiệu cơ bản về cách đo lường số lượng thao tác thực hiện, giải thích ý nghĩa của Big O notation, và cung cấp các ví dụ minh họa cụ thể. Bạn cũng sẽ được cung cấp các lưu ý, cảnh báo và mẹo giúp nhận biết khi nào thuật toán của bạn có thể bị “chậm” trong những trường hợp xử lý dữ liệu lớn.
 
@@ -68,7 +68,7 @@ int d = a + b + c + 153;
 ```
 
 ## Thao tác tuyến tính
-Đoạn mã sau sẽ chạy với số lần lặp tỷ lệ thuận với _n_:
+Hai đoạn mã sau sẽ chạy với số lần lặp tỷ lệ thuận với *n* (độ phức tạp $O(n)$):
 
 ```cpp
 for (int i = 1; i <= n; i++) {
@@ -76,36 +76,57 @@ for (int i = 1; i <= n; i++) {
 }
 ```
 
+```cpp
+int i = 0;
+while (i < n) {
+	// xử lý thời gian hằng số ở đây
+	i++;
+}
+```
 
+Vì bỏ qua các hằng số và số hạng bậc thấp hơn nên độ phức tạp các đoạn mã sau vẫn là $O(n)$ :
 
-## 
-
+```cpp
+for (int i = 1; i <= 5 * n + 17; i++) {
+	// xử lý thời gian hằng số ở đây
+}
+```
 
 ## Câu lệnh vòng lặp
-Trong phần này, chúng ta sẽ xem xét cách tính số lần lặp của vòng lặp trong thuật toán.
-
 - **Vòng lặp đơn:** Khi sử dụng vòng lặp duy nhất chạy từ 1 đến _n_, thời gian chạy là **O(n)**.
-- **Vòng lặp lồng nhau:** Nếu có vòng lặp bên trong chạy _n_ lần cho mỗi vòng lặp ngoài, ta sẽ có **O(n²)**.
+- **Vòng lặp lồng nhau:** Nếu có vòng lặp bên trong chạy _m_ lần cho mỗi vòng lặp ngoài, ta sẽ có **O(n.m)**.
 
 > [!caution]- Cảnh báo
 > Khi thiết kế các thuật toán với vòng lặp lồng nhau, hãy cân nhắc đến trường hợp **worst-case** vì số lượng thao tác có thể tăng nhanh theo cấp số mũ.
 
+## Tích hợp nhiều khối lệnh
+Khi thuật toán bao gồm nhiều khối lệnh (blocks), tổng thời gian chạy được xác định bởi khối có độ phức tạp cao nhất:
 
-## Tích Hợp Nhiều Khối Lệnh
+```cpp
+for (int i = 1; i <= n; i++) {
+	for (int j = 1; j <= n; j++) {
+		// xử lý thời gian hằng số ở đây
+	}
+}
+for (int i = 1; i <= n + 2048; i++) {
+	// xử lý thời gian hằng số ở đây
+}
+```
 
-Khi thuật toán bao gồm nhiều khối lệnh (blocks), tổng thời gian chạy được xác định bởi khối có độ phức tạp cao nhất.  
-Ví dụ:
+Một khối lệnh với độ phức tạp **O(n²)** kết hợp với một khối lệnh **O(n)** thì tổng độ phức tạp vẫn là **O(n²)**.
 
-- Một khối lệnh với độ phức tạp **O(n²)** kết hợp với một khối lệnh **O(n)** thì tổng độ phức tạp vẫn là **O(n²)**.
-- Nếu các khối lệnh có các độ phức tạp khác nhau và không thể bỏ qua số hạng nào, ta biểu diễn tổng bằng cách cộng các hàm số, nhưng trong Big O chỉ lấy phần tăng trưởng cao nhất.
+Nếu các khối lệnh có các độ phức tạp khác nhau và không thể bỏ qua số hạng nào, ta biểu diễn tổng bằng cách cộng các hàm số, nhưng trong Big O chỉ lấy phần tăng trưởng cao nhất:
 
-> **Ví dụ:**
-
-cpp
-
-CopyEdit
-
-`for (int i = 1; i <= n; i++) {     for (int j = 1; j <= n; j++) {         // thao tác hằng số     } } for (int i = 1; i <= m; i++) {     // thao tác hằng số }`
+```cpp
+for (int i = 1; i <= n; i++) {
+	for (int j = 1; j <= n; j++) {
+		// xử lý thời gian hằng số ở đây
+	}
+}
+for (int i = 1; i <= m; i++) {
+	// xử lý thời gian hằng số ở đây
+}
+```
 
 Đoạn code này có độ phức tạp **O(n² + m)**. Nếu _m_ không lớn bằng _n²_, phần **O(n²)** sẽ quyết định.
 
