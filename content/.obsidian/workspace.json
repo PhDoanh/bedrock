@@ -35,8 +35,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "13b5db64a3befe05",
+  "active": "8b85ebe4897c1619",
   "lastOpenFiles": [
     "draft.md",
     "index.md",
