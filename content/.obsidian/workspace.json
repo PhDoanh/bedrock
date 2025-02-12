@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "4bdbfbd176485717",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "6e16cdb8ea64b66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/time-complexity.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "time-complexity"
+            }
+          },
+          {
             "id": "13b5db64a3befe05",
             "type": "leaf",
             "state": {
@@ -153,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline"
             }
           },
           {
@@ -216,10 +239,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "13b5db64a3befe05",
+  "active": "4bdbfbd176485717",
   "lastOpenFiles": [
-    "materials/time_complexity.md",
+    "materials/data-structures-intro.md",
     "draft.md",
+    "materials/time-complexity.md",
     "index.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/2_ja-arimasen.md",
@@ -243,7 +267,6 @@
     "materials/n_dore.md",
     "materials/25_dono-n.md",
     "materials/n_dono-n.md",
-    "materials/24_sou.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",

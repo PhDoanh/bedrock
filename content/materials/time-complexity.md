@@ -13,7 +13,7 @@ tags:
   - cph
   - basic
 aliases:
-  - time_complexity
+  - time complexity
   - Độ phức tạp thời gian của thuật toán
 cssclasses:
   - img
@@ -23,7 +23,7 @@ cssclasses:
 
 %% <figure style="text-align: center; margin: 20px auto;">
   <img 
-    src="images/time_complexity.png"
+    src="images/time-complexity.png"
     alt="Độ phức tạp thời gian của thuật toán" 
     style="
       width: 90%;
