@@ -24,9 +24,9 @@ Lưu ý khi trình bày:
 	```
 ```
 
-### Start from documents
+### Start from documents or URL
 ```
-Trình bày lại nội dung trong tài liệu đính kèm với bố cục bài viết dạng blog tiêu chuẩn và đáp ứng được các tiêu chí sau:
+Trình bày lại nội dung trong tài liệu đính kèm/URL với bố cục bài viết dạng blog tiêu chuẩn và đáp ứng được các tiêu chí sau:
 
 1. Nội dung bên ngoài:
 - Dùng tên bài viết cuốn hút hơn 

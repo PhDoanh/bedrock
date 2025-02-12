@@ -39,10 +39,14 @@
             "id": "43615cc843c69d9d",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "materials/time_complexity.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "time_complexity"
             }
           }
         ],
@@ -163,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "materials/time_complexity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of time_complexity"
             }
           },
           {
@@ -229,6 +234,7 @@
   "lastOpenFiles": [
     "draft.md",
     "index.md",
+    "materials/time_complexity.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/2_ja-arimasen.md",
     "materials/3_desuka.md",
@@ -252,7 +258,6 @@
     "materials/25_dono-n.md",
     "materials/n_dono-n.md",
     "materials/24_sou.md",
-    "materials/n_sou.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
