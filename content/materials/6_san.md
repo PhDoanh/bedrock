@@ -1,5 +1,5 @@
 ---
-date: 2025-01-21
+date: 2025-02-11
 draft: false
 status: Done
 title: "6. ～さん: Cách xưng hô lịch sự và an toàn"
@@ -61,6 +61,8 @@ Dùng để gọi đồng nghiệp hoặc khách hàng một cách lịch sự, 
 > [!content]- <ruby>佐藤<rt>さとう</rt></ruby>**さん**は<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しますか。
 > Anh/Chị Sato có tham dự cuộc họp không?
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với chức danh 👔
 **「さん」** có thể được dùng sau chức danh hoặc nghề nghiệp để thể hiện sự tôn trọng.
@@ -73,6 +75,8 @@ Có thể dùng với tên cửa hàng hoặc doanh nghiệp nhỏ để thể h
 
 > [!content]- <ruby>花屋<rt>はなや</rt></ruby>**さん**で<ruby>花<rt>はな</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。
 > Tôi sẽ mua hoa ở tiệm hoa
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -89,6 +93,8 @@ Có thể dùng với tên cửa hàng hoặc doanh nghiệp nhỏ để thể h
 > - **「～様」**: Trang trọng hơn **「さん」**
 > - **「～君」**: Thân mật hơn, thường dùng với nam giới
 > - **「～ちゃん」**: Thân mật, thường dùng với trẻ em hoặc phụ nữ
+
+---
 
 # 🔥Tổng kết
 **「さん」** là một trợ từ xưng hô cơ bản và quan trọng trong tiếng Nhật, thể hiện sự tôn trọng vừa phải và được sử dụng rộng rãi trong cuộc sống hàng ngày. Đây là cách xưng hô an toàn và phổ biến nhất, phù hợp với hầu hết tình huống giao tiếp.

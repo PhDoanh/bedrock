@@ -1,5 +1,5 @@
 ---
-date: 2025-01-24
+date: 2025-02-11
 draft: false
 status: Done
 title: '9. そうです: Cách trả lời "ĐÚNG VẬY" bằng tiếng Nhật'

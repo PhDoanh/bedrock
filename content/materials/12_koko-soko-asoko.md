@@ -1,5 +1,5 @@
 ---
-date: 2025-01-29
+date: 2025-02-11
 draft: false
 status: Done
 title: "12. ここ・そこ・あそこ: Đại từ chỉ vị trí"
@@ -56,6 +56,8 @@ cssclasses:
 > [!content]- <ruby>本<rt>ほん</rt></ruby>は**そこ**に<ruby>置<rt>お</rt></ruby>いてありますか。
 > Quyển sách có được đặt ở đó không?
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## こちら・そちら・あちら
 Đây là cách nói lịch sự của **ここ・そこ・あそこ**, thường dùng trong kinh doanh hoặc với người lạ.
@@ -72,6 +74,8 @@ Có thể thêm **へ / に** sau các từ này để chỉ hướng di chuyể
 > [!content]- <ruby>駅<rt>えき</rt></ruby>は**そちら**へ<ruby>行<rt>い</rt></ruby>けば<ruby>見<rt>み</rt></ruby>えてきます。
 > Nếu đi về phía đó sẽ thấy nhà ga
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Ghi nhớ theo bộ 3: こ (gần người nói) → そ (gần người nghe) → あ (xa cả hai)
@@ -87,6 +91,8 @@ Có thể thêm **へ / に** sau các từ này để chỉ hướng di chuyể
 > [!info] Ngữ pháp tương tự
 > - [[7_kore-sore-are|「これ・それ・あれ」]]chỉ đồ vật dựa theo khoảng cách
 > - Có thể kết hợp với 「から・まで」 để chỉ điểm bắt đầu/kết thúc
+
+---
 
 # 🔥Tổng kết
 Đây là ngữ pháp cơ bản nhưng **rất quan trọng** trong tiếng Nhật, giúp chỉ định vị trí và phương hướng. Cần nắm vững:

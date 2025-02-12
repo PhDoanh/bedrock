@@ -1,5 +1,5 @@
 ---
-date: 2025-01-20
+date: 2025-02-11
 draft: false
 status: Done
 title: "1. N₁ は N₂ です: Câu khẳng định với trợ từ ở/thì/là"
@@ -76,6 +76,8 @@ cssclasses: img
 > [!content]- <ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby> **は** <ruby>町<rt>まち</rt></ruby>です。
 > Rạp chiếu phim ở trong thành phố.
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Diễn tả khái niệm trừu tượng 💭
 **Dùng để giải thích hoặc định nghĩa** các khái niệm trừu tượng như tình cảm, ý tưởng, quan điểm trong văn nói và văn viết mang tính học thuật.
@@ -95,6 +97,8 @@ cssclasses: img
 > [!content]-  <ruby>彼<rt>かれ</rt></ruby> **は** <ruby>先生<rt>せんせい</rt></ruby> **じゃありません**。
 > Anh ấy không phải là giáo viên
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - **Phát âm**: は trong cấu trúc này đọc là "wa"
@@ -112,6 +116,8 @@ cssclasses: img
 > - N₁ が N₂ です (nhấn mạnh thông tin mới)
 > - N₁ も N₂ です (cũng là...)
 > - N₁ には N₂ があります (có... ở...)
+
+---
 
 # 🔥Tổng kết
 "N₁ は N₂ です" là cấu trúc nền tảng trong tiếng Nhật, **thường xuyên xuất hiện trong giao tiếp hàng ngày**. Cấu trúc này **đặc biệt quan trọng** cho người mới học vì:

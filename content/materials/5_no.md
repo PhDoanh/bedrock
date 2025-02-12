@@ -1,5 +1,5 @@
 ---
-date: 2025-01-21
+date: 2025-02-11
 draft: false
 status: Done
 title: "5. の: Trợ từ biểu thị quan hệ, sở hữu, ..."
@@ -73,6 +73,8 @@ Chỉ **vị trí** hoặc **địa điểm** của sự vật, sự việc.
 > [!content]- <ruby>日本<rt>にほん</rt></ruby>**の**<ruby>東京<rt>とうきょう</rt></ruby>
 > Tokyo của Nhật Bản
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Đặc điểm/Tính chất 🎨
 Mô tả **đặc điểm** hoặc **tính chất** của sự vật.
@@ -98,6 +100,8 @@ Diễn tả **mối quan hệ thời gian** giữa các sự việc.
 > [!content]- A: これは<ruby>誰<rt>だれ</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>ですか。<br>B: あ、**<ruby>私<rt>わたし</rt></ruby>の**です。
 > A: Cái ô của ai đây?<br>B: A, của tôi.
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Phân biệt với trợ từ が khi muốn nhấn mạnh chủ thể
@@ -110,6 +114,8 @@ Diễn tả **mối quan hệ thời gian** giữa các sự việc.
 > - Tương đồng với 's trong tiếng Anh (John's book)
 > - Có thể thay thế bằng な trong một số trường hợp với tính từ đuôi な
 > - **の** chỉ dùng để thay thế cho danh từ **chỉ vật chứ không phải người**
+
+---
 
 # 🔥Tổng kết
 「N₁ の N₂」là một trong những **cấu trúc cơ bản** và **quan trọng nhất** trong tiếng Nhật. Nó được sử dụng rộng rãi để diễn tả nhiều mối quan hệ khác nhau giữa các danh từ, từ sở hữu đến vị trí, thời gian và đặc điểm.

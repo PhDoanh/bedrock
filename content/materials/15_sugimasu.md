@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06
+date: 2025-02-11
 draft: false
 status: Done
 title: "15. ～すぎます: Làm thế nào để nói quá?"
@@ -58,6 +58,8 @@ cssclasses:
 > [!content]- この<ruby>部屋<rt>へや</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かすぎます。
 > Căn phòng này **yên tĩnh quá**
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 「～すぎます」 cũng có thể được sử dụng trong các tình huống phức tạp hơn, chẳng hạn như diễn đạt sự quá mức trong quá khứ hoặc tương lai.
 
@@ -66,6 +68,8 @@ cssclasses:
 
 > [!content]- 来週は<ruby>忙<rt>いそが</rt></ruby>しすぎるでしょう。
 > Tuần sau chắc sẽ **quá bận**
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -82,6 +86,8 @@ cssclasses:
 > - 「～すぎる」: Dạng từ điển của "～すぎます".
 > - 「～すぎた」: Diễn tả sự quá mức trong quá khứ. 
 > - 「～すぎないで」: Yêu cầu ai đó không làm gì quá mức.
+
+---
 
 # 🔥Tổng kết
 Ngữ pháp 「～すぎます」 là một cấu trúc linh hoạt và dễ sử dụng, giúp diễn đạt mức độ quá mức của hành động, trạng thái hoặc tính chất. Bằng cách nắm vững cấu trúc, luyện tập thường xuyên, và áp dụng các mẹo học hiệu quả, bạn sẽ dễ dàng sử dụng ngữ pháp này trong cả giao tiếp và thi cử. Hãy bắt đầu với những ví dụ đơn giản và dần dần nâng cao để thành thạo nhé! 🚀

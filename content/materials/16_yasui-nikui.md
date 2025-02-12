@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06
+date: 2025-02-11
 draft: false
 status: Done
 title: '16. ～　やすいです／にくいです: Cách diễn đạt "dễ làm" và "khó làm" trong tiếng Nhật'
@@ -58,6 +58,8 @@ Ngữ pháp **"～やすいです"** và **"～にくいです"** được s
 > [!content]- この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>作<rt>つく</rt></ruby>りやすいです。
 > Món ăn này dễ làm
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 Trong các tình huống trang trọng hoặc văn viết, **"～やすい／にくい"** có thể được sử dụng với các động từ phức tạp hơn hoặc trong các câu dài, phức tạp. Điều này giúp diễn đạt ý nghĩa một cách chính xác và tinh tế hơn.
 
@@ -66,6 +68,8 @@ Trong các tình huống trang trọng hoặc văn viết, **"～やすい／�
 
 > [!content]- <ruby>彼<rt>かれ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>は<ruby>理解<rt>りかい</rt></ruby>しやすいですが、<ruby>賛成<rt>さんせい</rt></ruby>しにくいです。
 > Câu chuyện của anh ấy dễ hiểu nhưng khó chấp nhận.
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -77,6 +81,8 @@ Trong các tình huống trang trọng hoặc văn viết, **"～やすい／�
 > - **Học qua ví dụ**: Hãy ghi nhớ các ví dụ cụ thể để hiểu rõ cách sử dụng **"～やすい／にくい"**.
 > - **Luyện tập thường xuyên**: Tạo câu với các động từ quen thuộc để làm quen với cấu trúc này. 
 > - **Chú ý động từ**: Luôn bỏ **ます** khi kết hợp với **"～やすい／にくい"**.
+
+---
 
 # 🔥Tổng kết
 Ngữ pháp **"～やすいです／にくいです"** là một công cụ hữu ích để diễn đạt mức độ dễ dàng hoặc khó khăn khi thực hiện một hành động. Nó được sử dụng rộng rãi trong cả văn nói và văn viết, phù hợp với nhiều tình huống khác nhau. Để học tốt ngữ pháp này, hãy luyện tập thường xuyên với các ví dụ cụ thể và chú ý đến cách kết hợp với động từ.

@@ -1,5 +1,5 @@
 ---
-date: 2025-01-24
+date: 2025-02-11
 draft: false
 status: Done
 title: "8. この・その・あの: Sức mạnh của từ chỉ thị trong giao tiếp"

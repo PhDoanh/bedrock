@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06
+date: 2025-02-11
 draft: false
 status: Done
 title: "17. Nを ～く／～に します: Biến đổi trạng thái hoặc tính chất của đối tượng"
@@ -59,6 +59,8 @@ Ngữ pháp **「Nを ～く／～に します」** được sử dụng đ�
 > [!content]- 温度<ruby>おんど<rt>おんど</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くします。
 > Tôi sẽ tăng nhiệt độ lên
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 Ngữ pháp này cũng có thể được sử dụng để diễn tả **sự thay đổi trạng thái mang tính chất trừu tượng hoặc cảm xúc**, thường xuất hiện trong văn viết hoặc giao tiếp trang trọng.
 
@@ -67,6 +69,8 @@ Ngữ pháp này cũng có thể được sử dụng để diễn tả **sự 
 
 > [!content]- 関係<ruby>かんけい<rt>かんけい</rt></ruby>を<ruby>良<rt>よ</rt></ruby>くします。
 > Tôi sẽ cải thiện mối quan hệ
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -81,6 +85,8 @@ Ngữ pháp này cũng có thể được sử dụng để diễn tả **sự 
 
 > [!info] Ngữ pháp tương tự
 > 「～く／～に なる」:diễn tả sự thay đổi tự nhiên của chủ thể
+
+---
 
 # 🔥Tổng kết
 Ngữ pháp **「Nを ～く／～に します」** là một cấu trúc quan trọng và linh hoạt trong tiếng Nhật, giúp diễn tả **sự thay đổi trạng thái hoặc tính chất của danh từ**. Nó được sử dụng rộng rãi trong cả giao tiếp hàng ngày và văn viết trang trọng.

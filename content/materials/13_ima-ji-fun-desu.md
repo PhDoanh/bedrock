@@ -1,5 +1,5 @@
 ---
-date: 2025-01-29
+date: 2025-02-11
 draft: false
 status: Done
 title: "13. いま ～じ ～ふんです: Hỏi mấy giờ thì trả lời như thế nào?"
@@ -56,6 +56,8 @@ Dùng để nói về giờ giấc hiện tại một cách **chính xác** theo
 > [!content]- A: <ruby>今何時<rt>いまなんじ</rt></ruby>ですか。<br>B: 7<ruby>時<rt>**じ**</rt></ruby>45<ruby>**分**<rt>ふん</rt></ruby>です。
 > A: Bây giờ là mấy giờ?<br>B: Bây giờ là 7 giờ 45 phút
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với từ chỉ khoảng thời gian 🕒
 Có thể thêm từ chỉ **khoảng thời gian** như ごろ (khoảng) để diễn tả thời gian **không chính xác**
@@ -69,6 +71,8 @@ Dùng để chỉ **khoảng thời gian** từ lúc nào đến lúc nào
 > [!content]- <ruby>授業<rt>じゅぎょう</rt></ruby>は**8時30分**から**10時15分**までです。
 > Lớp học từ 8 giờ 30 phút đến 10 giờ 15 phút.
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Luyện đọc giờ bằng cách nhìn đồng hồ và nói thời gian hiện tại
@@ -78,6 +82,8 @@ Dùng để chỉ **khoảng thời gian** từ lúc nào đến lúc nào
 > - Phát âm **じ** và **ふん** cần **chính xác và rõ ràng**
 > - Là mẫu câu **trang trọng**, thường dùng trong môi trường **công sở**, **trường học**
 > - Có thể bỏ **です** trong giao tiếp thân mật
+
+---
 
 # 🔥Tổng kết
 Ngữ pháp **「いま ～じ ～ふんです」** là một trong những mẫu câu **cơ bản** và **quan trọng** trong tiếng Nhật, dùng để nói về thời gian hiện tại một cách **chính xác** và **lịch sự**.

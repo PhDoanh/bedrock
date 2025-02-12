@@ -1,5 +1,5 @@
 ---
-date: 2025-01-21
+date: 2025-02-11
 draft: false
 status: Done
 title: "3. ～ですか: Câu hỏi xác nhận cơ bản"
@@ -64,6 +64,8 @@ Sử dụng để **xác nhận** về bản chất hay đặc điểm của m�
 > [!content]- それは<ruby>新品<rt>しんぴん</rt></ruby>**ですか**？
 > Cái đó là hàng mới à?
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với từ chỉ địa điểm 🗾
 Có thể dùng để **hỏi xác nhận** về vị trí của đồ vật hoặc nơi chốn.
@@ -83,6 +85,8 @@ Dùng để **xác nhận** thời gian của một sự kiện hoặc hoạt đ
 > [!content]- **いつ**は<ruby>締切<rt>しめきり</rt></ruby>**ですか**？
 > Khi nào là hạn chót vậy?
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - **Phân biệt với か và の**: Khi muốn hỏi xác nhận dùng か, còn の thường dùng khi bày tỏ sự ngạc nhiên
@@ -94,6 +98,8 @@ Dùng để **xác nhận** thời gian của một sự kiện hoặc hoạt đ
 > - **Người dùng**: Được sử dụng bởi mọi đối tượng
 > - **Phát âm**: か cuối câu thường được phát âm với giọng lên cao
 > - **Tương đồng**: Có thể thay thế bằng の trong nhiều trường hợp nhưng mang sắc thái và có thể hỏi với từ để hỏi: **どこ (ở đâu)、なに (cái gì)、だれ (ai)、…** (Xem thêm [[question-words|các từ để hỏi]])
+
+---
 
 # 🔥Tổng kết
 Mẫu câu "N₁ は N₂ ですか" là **cấu trúc cơ bản** và **thiết yếu** trong tiếng Nhật, dùng để hỏi xác nhận về danh tính, tính chất của sự vật/sự việc. Đây là mẫu câu **dễ sử dụng** và **linh hoạt** có thể áp dụng trong nhiều tình huống giao tiếp khác nhau.

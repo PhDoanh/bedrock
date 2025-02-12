@@ -1,5 +1,5 @@
 ---
-date: 2025-01-21
+date: 2025-02-11
 draft: false
 status: Done
 title: '2. ～じゃ ありません: Cách nói "KHÔNG" trong tiếng Nhật'
@@ -63,6 +63,8 @@ Dùng để **trả lời phủ định** cho câu hỏi một cách lịch sự
 > A: Bạn có phải là giáo viên không?
 > B: Không, tôi không phải là giáo viên
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với だけ 📌
 **Nhấn mạnh** việc phủ định chỉ một đối tượng cụ thể.
@@ -75,6 +77,8 @@ Sử dụng trong **mệnh đề điều kiện phủ định**.
 
 > [!content]- <ruby>日本人<rt>にほんじん</rt></ruby>**じゃありません**でしたら、ビザが<ruby>必要<rt>ひつよう</rt></ruby>です。
 > Nếu không phải là người Nhật thì cần visa
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -92,6 +96,8 @@ Sử dụng trong **mệnh đề điều kiện phủ định**.
 > - じゃない (không trang trọng)
 > - ではございません (cực kỳ trang trọng)
 > - ではありません (trang trọng)
+
+---
 
 # 🔥Tổng kết
 じゃありません là **mẫu câu phủ định** quan trọng trong tiếng Nhật, được sử dụng rộng rãi trong giao tiếp hàng ngày. Đây là dạng **rút gọn** của ではありません, mang tính **lịch sự vừa phải**.

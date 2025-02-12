@@ -1,5 +1,5 @@
 ---
-date: 2025-01-21
+date: 2025-02-11
 draft: false
 status: Done
 title: "4. も: Trợ từ biểu thị sự bổ sung"
@@ -61,6 +61,8 @@ Dùng **も** để liệt kê nhiều đối tượng cùng tính chất. Có t
 > [!content]- <ruby>犬<rt>いぬ</rt></ruby>**も**<ruby>猫<rt>ねこ</rt></ruby>**も**<ruby>可愛<rt>かわい</rt></ruby>いです。
 > Cả chó và mèo đều dễ thương.
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với phủ định 🚫
 Khi kết hợp với phủ định, **も** mang nghĩa "cũng không", "cũng chẳng".
@@ -74,6 +76,8 @@ Dùng với số từ để nhấn mạnh mức độ, có nghĩa "đến cả",
 > [!content]- <ruby>三時間<rt>さんじかん</rt></ruby>**も**<ruby>待<rt>ま</rt></ruby>ちました。
 > Đã đợi đến tận 3 tiếng đồng hồ.
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Phân biệt với は: **も** thay thế hoàn toàn は khi xuất hiện
@@ -85,6 +89,8 @@ Dùng với số từ để nhấn mạnh mức độ, có nghĩa "đến cả",
 > - Phát âm rõ ràng, không nhấn giọng
 > - Tương đồng với と trong việc liệt kê nhưng **も** nhấn mạnh tính chất chung
 > - Có thể dùng trong cả văn nói và văn viết, không phân biệt tính lịch sự
+
+---
 
 # 🔥Tổng kết
 「N も」là một trong những ngữ pháp cơ bản và thiết yếu trong tiếng Nhật. Nó được dùng chủ yếu để:

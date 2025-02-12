@@ -2,7 +2,7 @@
 date: 2025-02-11
 draft: true
 status: Not started
-title: "n. <% tp.file.cursor(1) %>"
+title: "24. <% tp.file.cursor(1) %>"
 description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -12,7 +12,7 @@ tags:
   - language
   - <% tp.file.cursor(3) %>
 aliases:
-  - tara
+  - sou
 cssclasses: 
   - img
   - btn
@@ -21,7 +21,7 @@ cssclasses:
 
 <figure style="text-align: center; margin: 20px auto;">
   <img 
-    src="images/n_tara.png"
+    src="images/24_sou.png"
     alt="<% tp.file.cursor(1) %>" 
     style="
       width: 90%;
@@ -50,12 +50,16 @@ description
 > [!content]- japanese
 > vietnamese
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## usage_case 
 description
 
 > [!content]- japanese
 > vietnamese
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -66,6 +70,8 @@ description
 
 > [!info] Ngữ pháp tương tự
 > 
+
+---
 
 # 🔥Tổng kết
 conclusion

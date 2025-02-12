@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06
+date: 2025-02-11
 draft: false
 status: Done
 title: "18. Nに します: Quyết định hoặc lựa chọn một cái gì đó"
@@ -62,6 +62,8 @@ Ngữ pháp **「Nに します」** được sử dụng để diễn tả vi
 > [!content]- <ruby>留学<rt>りゅうがく</rt></ruby>にします。
 > Tôi quyết định đi du học
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - **Học qua ví dụ:** Ghi nhớ các ví dụ cụ thể để hiểu rõ cách sử dụng.
@@ -76,6 +78,8 @@ Ngữ pháp **「Nに します」** được sử dụng để diễn tả vi
 > [!info] Ngữ pháp tương tự
 > - 「Nを します」: Diễn tả hành động cụ thể (ví dụ: <ruby>勉強<rt>べんきょう</rt></ruby>をします - Tôi học) 
 > - 「Nが いいです」: Diễn tả sự ưa thích (ví dụ: <ruby>コーヒー<rt>こーひー</rt></ruby>がいいです - Cà phê thì tốt).
+
+---
 
 # 🔥Tổng kết
 Ngữ pháp **「Nに します」** là một cấu trúc đơn giản nhưng rất hữu ích trong việc diễn tả **quyết định** hoặc **lựa chọn**. Nó phù hợp với nhiều tình huống, từ đời thường đến trang trọng.

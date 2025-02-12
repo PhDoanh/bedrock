@@ -1,5 +1,5 @@
 ---
-date: 2025-01-29
+date: 2025-02-11
 draft: false
 status: Done
 title: "14. V + ます・ません・ました・ませんでした: Động từ thể lịch sự"
@@ -75,6 +75,8 @@ Dùng để nói về **kế hoạch** hoặc **dự định** sẽ làm trong t
 > [!content]- <ruby>来年<rt>らいねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>**い</rt></ruby>きます**。
 > Năm sau tôi sẽ đi Nhật.
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Kết hợp với các trợ từ khác 🔗
 Có thể kết hợp với các trợ từ như **「から・ので・けど」** để tạo câu phức tạp hơn.
@@ -94,6 +96,8 @@ Thêm **か** vào cuối động từ để tạo câu hỏi lịch sự.
 > [!content]- <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>せ**ますか**？
 > Bạn có thể nói được tiếng Nhật không?
 
+---
+
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
 > - Tập trung học **quy tắc chia động từ** theo nhóm I, II, III
@@ -107,6 +111,8 @@ Thêm **か** vào cuối động từ để tạo câu hỏi lịch sự.
 
 > [!info] Ngữ pháp tương tự
 > **[[n_futuukei|「V + る・ない・た・なかった」]]**: thể thông thường của động từ
+
+---
 
 # 🔥Tổng kết
 Thể ます là một trong những **ngữ pháp cơ bản nhất** trong tiếng Nhật, được sử dụng rộng rãi trong giao tiếp hàng ngày. Nó thể hiện sự **tôn trọng** và **lịch sự** với người nghe, đồng thời có thể diễn tả các thời **hiện tại**, **tương lai**, và **quá khứ**.

@@ -1,5 +1,5 @@
 ---
-date: 2025-01-24
+date: 2025-02-11
 draft: false
 status: Done
 title: "10. ～か、～か: Câu hỏi yêu cầu sự lựa chọn"
@@ -56,6 +56,8 @@ Dùng để yêu cầu người nghe đưa ra quyết định giữa các **lự
 > [!content]- <ruby>会議<rt>かいぎ</rt></ruby>は<ruby>月曜日<rt>げつようび</rt></ruby>か、<ruby>火曜日<rt>かようび</rt></ruby>か、どちらが都合がいいですか？
 > Cuộc họp vào thứ Hai **hay** thứ Ba thì tiện cho bạn?
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 Dùng để hỏi người nghe về sự lựa chọn giữa các **hành động, tính chẩt, ...**
 
@@ -64,6 +66,8 @@ Dùng để hỏi người nghe về sự lựa chọn giữa các **hành độ
 
 > [!content]- この<ruby>服<rt>ふく</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>いか、<ruby>青<rt>あお</rt></ruby>いか、どちらが好きですか？
 > Bạn thích cái áo màu đỏ **hay** màu xanh?
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!caution] Lưu ý quan trọng
@@ -74,6 +78,8 @@ Dùng để hỏi người nghe về sự lựa chọn giữa các **hành độ
 > [!info] Ngữ pháp tương tự
 > - **「～かどうか」**: diễn đạt sự không chắc chắn (có hay không)
 > - **「～か～」**: liệt kê các danh từ hoặc cụm từ mà không cần đưa ra lựa chọn cụ thể.
+
+---
 
 # 🔥Tổng kết
 **Ngữ pháp 「～か、～か」** là một cấu trúc linh hoạt, được sử dụng để hỏi và yêu cầu người nghe lựa chọn giữa hai hoặc nhiều khả năng. Nó có thể đi với danh từ, động từ, tính từ, hoặc cụm từ dài.

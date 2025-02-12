@@ -1,20 +1,18 @@
 ---
-date: 2025-01-29
+date: 2025-02-11
 draft: true
 status: Not started
-title: "n. <% tp.file.cursor(1) %>: <% tp.file.cursor(2) %>"
-description: 
+title: "22. <% tp.file.cursor(1) %>"
+description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
   - japanese
   - grammar
   - language
-  - "<% tp.file.cursor(3) %>"
+  - <% tp.file.cursor(3) %>
 aliases:
-  - "dore"
-  - "<% tp.file.cursor(1) %>"
-  - "<% tp.file.cursor(2) %>"
+  - tara
 cssclasses: 
   - img
   - btn
@@ -23,8 +21,8 @@ cssclasses:
 
 <figure style="text-align: center; margin: 20px auto;">
   <img 
-    src="images/n_dore.png"
-    alt="<% tp.file.cursor(2) %>" 
+    src="images/22_tara.png"
+    alt="<% tp.file.cursor(1) %>" 
     style="
       width: 90%;
       height: auto;
@@ -52,12 +50,16 @@ description
 > [!content]- japanese
 > vietnamese
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## usage_case 
 description
 
 > [!content]- japanese
 > vietnamese
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -68,6 +70,8 @@ description
 
 > [!info] Ngữ pháp tương tự
 > 
+
+---
 
 # 🔥Tổng kết
 conclusion

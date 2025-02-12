@@ -1,5 +1,5 @@
 ---
-date: 2025-01-22
+date: 2025-02-11
 draft: false
 status: Done
 title: "7. これ・それ・あれ: Đại từ chỉ thị trong tiếng Nhật"
@@ -75,6 +75,8 @@ cssclasses:
 > [!content]- **あれ**を<ruby>見<rt>み</rt></ruby>てください。
 > Xin hãy nhìn cái kia
 
+---
+
 # 🔓 Mở rộng ngữ pháp   
 ## Dùng làm chủ ngữ trong câu 📝
 Cả ba từ này đều có thể đứng một mình làm chủ ngữ trong câu.
@@ -87,6 +89,8 @@ Cả ba từ này đều có thể đứng một mình làm chủ ngữ trong c�
 
 > [!content]- **それ**は<ruby>本当<rt>ほんとう</rt></ruby>ですか。
 > Điều đó có thật không?
+
+---
 
 # 👀 Mẹo & Lưu ý
 > [!tip] Mẹo học và thi
@@ -102,6 +106,8 @@ Cả ba từ này đều có thể đứng một mình làm chủ ngữ trong c�
 
 > [!info] Ngữ pháp tương tự
 > - **[[8_kono-sono-ano|「この/その/あの + N」]]**: từ chỉ thị 
+
+---
 
 # 🔥Tổng kết
 **「これ・それ・あれ」** là những đại từ chỉ định cơ bản và quan trọng trong tiếng Nhật. Chúng được sử dụng để:
