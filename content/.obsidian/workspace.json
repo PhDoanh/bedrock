@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "index"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of index"
             }
           },
           {
@@ -218,12 +218,12 @@
   },
   "active": "13b5db64a3befe05",
   "lastOpenFiles": [
+    "draft.md",
     "index.md",
     "materials/the-network-edge.md",
     "materials/the-network-core.md",
     "materials/what-is-the-internet.md",
     "materials/time-complexity.md",
-    "draft.md",
     "materials/data-structures-intro.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/2_ja-arimasen.md",
