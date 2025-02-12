@@ -8,24 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d58874bfbe154655",
+            "id": "478315c3bfeaff28",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODOs.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    true
-                  ]
-                }
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-trello",
-              "title": "TODOs"
+              "icon": "lucide-file",
+              "title": "draft"
+            }
+          },
+          {
+            "id": "f9c0af36d0bf094e",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODOs"
+              "title": "Backlinks"
             }
           },
           {
@@ -117,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODOs"
+              "title": "Outgoing links"
             }
           },
           {
@@ -146,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODOs"
+              "title": "Outline"
             }
           },
           {
@@ -186,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,12 +214,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33dc0eefe6b6b7a3",
+  "active": "f9c0af36d0bf094e",
   "lastOpenFiles": [
     "draft.md",
+    "materials/what-is-the-internet.md",
     "TODOs.md",
     "Untitled Kanban.md",
-    "materials/what-is-the-internet.md",
     "index.md",
     "materials/the-network-edge.md",
     "materials/the-network-core.md",

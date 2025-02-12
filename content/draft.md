@@ -26,33 +26,35 @@ Lưu ý khi trình bày:
 
 ### Start from documents or URL
 ```
-Trình bày lại nội dung trong tài liệu đính kèm/URL với bố cục bài viết dạng blog tiêu chuẩn và đáp ứng được các tiêu chí sau:
+Trình bày lại nội dung "" trong tài liệu đính kèm / URL với bố cục bài viết dạng blog tiêu chuẩn và đáp ứng được các tiêu chí sau:
 
-1. Nội dung bên ngoài:
-- Dùng tên bài viết cuốn hút hơn 
-- Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong 
+A. Nội dung bên ngoài (SERP content)
+- Title Tag: Dùng tên bài viết cuốn hút
+- Meta description: Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong 
 
-2. Nội dung bên trong:
+B. Nội dung bên trong (Body content)
 - Tiêu đề mỗi phần dạng thẻ H1 và các phần con lần lượt là: H2, H3 (không có H4 trở đi), không đánh số thứ tự cho từng tiêu đề
-- Mỗi phần phải có mô tả chi tiết nội dung sắp nói tới
+- Mỗi phần phải có mô tả chi tiết
 - Mỗi nội dung nên thêm các lưu ý, cảnh báo, mẹo, quan trọng, ví dụ, ... (nếu cần thiết)
 - Bổ sung thêm thông tin còn thiếu, mở rộng sang các thông tin nâng cao 
 - Luôn có phần Tổng kết tóm gọn lại toàn bộ chủ đề bài viết
 - Nhấn mạnh các từ hoặc cụm từ quan trọng bằng cú pháp in đậm, gắn link vào đó nếu cần 
-- Lưu ý chung:
-	- Dùng cú pháp Markdown để viết
-	- Sử dụng các biểu tượng emoji để cuốn hút người đọc
+
+C. Lưu ý
+- Dùng cú pháp Markdown để viết
+- Sử dụng các biểu tượng emoji để cuốn hút người đọc 
+- Không bỏ sót nội dung nào trong tài liệu đính kèm hoặc URL
 ```
 
 ## bunpou
 ```
 Tạo bài viết trình bày ngữ pháp "" theo cấu trúc và yêu cầu sau:
 
-1. Nội dung bên ngoài (SERP content)
+A. Nội dung bên ngoài (SERP content)
 - Title Tag: dùng tên bài viết dạng "ngữ pháp: mô tả", phần mô tả nêu được chức năng nhưng không thiếu đi sức cuốn hút   
 - Meta description: Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong, định dạng plain text
 
-2. Nội dung bên trong (Body content)
+B. Nội dung bên trong (Body content)
 - Ứng dụng: nói về các trường hợp sử dụng phổ biến
 	- Tiêu đề (heading tags)
 	- Mô tả chi tiết
@@ -64,7 +66,7 @@ Tạo bài viết trình bày ngữ pháp "" theo cấu trúc và yêu cầu sau
 	- Ngữ pháp tương tự: danh sách các ngữ pháp đồng nghĩa, dễ nhầm lẫn 
 - Tổng kết: Tóm tắt toàn bộ nội dung trên và đưa ra nhận xét về ngữ pháp này cũng như lời khuyên đối với người đọc
 
-Lưu ý: 
+C. Lưu ý 
 - Dùng cú pháp Markdown để viết
 - Các tiêu đề chỉ được phép dưới dạng thẻ H1 -> H3 và không đánh số thứ tự (chỉ mục)
 - Tối thiểu 2 ví dụ đối với mỗi cách dùng, viết bằng hán tự và dùng thẻ ruby để hiển thị furigana. 
