@@ -11,10 +11,10 @@
             "id": "ad158eb108743687",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ]
