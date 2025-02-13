@@ -42,8 +42,9 @@ B. Nội dung bên trong (Body content)
 
 C. Lưu ý
 - Dùng cú pháp Markdown để viết
-- Sử dụng các biểu tượng emoji để cuốn hút người đọc 
+- Sử dụng các biểu tượng emoji có liên quan để cuốn hút người đọc 
 - Không bỏ sót nội dung nào trong tài liệu đính kèm hoặc URL
+- Đối với các công thức (nếu có), phải ghi đầy đủ chú thích các đại lượng và lấy ít nhất 1 ví dụ 
 ```
 
 ## bunpou

@@ -43,9 +43,7 @@ cssclasses:
 
 Khi bạn gửi một tin nhắn, xem video hay truy cập trang web, dữ liệu của bạn không đi theo một đường thẳng từ điểm A đến điểm B mà phải di chuyển qua một hệ thống phức tạp gọi là **mạng lõi (network core)**. Vậy, **mạng lõi hoạt động như thế nào?** 🤔 Điều gì làm cho nó nhanh, đáng tin cậy và hiệu quả? Hãy cùng khám phá ngay trong bài viết này!
 
-# 🚀 Mạng Lõi Là Gì?
-
-## Tổng quan về mạng lõi 🔎
+# ❤️ Mạng Lõi Là Gì?
 
 **Mạng lõi (network core)** là phần trung tâm của hạ tầng Internet, nơi các dữ liệu được định tuyến và vận chuyển qua lại giữa các mạng truy cập (access networks). Đây chính là "xương sống" của Internet, giúp đảm bảo thông tin lưu thông một cách trơn tru trên toàn cầu.
 
@@ -95,7 +93,7 @@ Trái ngược với chuyển mạch gói, **chuyển mạch kênh** thiết l�
 
 ---
 
-# 🔥 So Sánh Chuyển Mạch Gói và Chuyển Mạch Kênh
+# ⚖️ So Sánh Chuyển Mạch Gói và Chuyển Mạch Kênh
 
 | Đặc điểm                        | Chuyển mạch gói                        | Chuyển mạch kênh               | 
 | ------------------------------- | -------------------------------------- | ------------------------------ |
@@ -147,7 +145,7 @@ Các Yếu Tố Ảnh Hưởng:
 
 ---
 
-# 🎯 Tổng Kết
+# 🔥 Tổng Kết
 - **Mạng lõi** là nền tảng quan trọng giúp dữ liệu di chuyển trên Internet. 
 - **Chuyển mạch gói** là công nghệ chủ yếu của Internet hiện đại do tính linh hoạt và hiệu quả của nó. 
 - **Router** và **ISP** đóng vai trò quan trọng trong việc tối ưu hóa tốc độ và độ tin cậy của dữ liệu. 
