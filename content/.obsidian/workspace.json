@@ -28,8 +28,23 @@
               "icon": "lucide-trello",
               "title": "TODOs"
             }
+          },
+          {
+            "id": "34153db54733a940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/protocol-layers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "protocol-layers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOs.md",
+                "file": "materials/protocol-layers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODOs"
+              "title": "Outline of protocol-layers"
             }
           },
           {
@@ -214,11 +229,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8754324fc71286c4",
+  "active": "34153db54733a940",
   "lastOpenFiles": [
+    "materials/protocol-layers.md",
+    "TODOs.md",
     "materials/what-is-the-internet.md",
     "materials/the-network-edge.md",
-    "TODOs.md",
     "materials/the-network-core.md",
     "draft.md",
     "materials/delay-loss-throughput.md",
@@ -241,7 +257,6 @@
     "materials/15_sugimasu.md",
     "materials/16_yasui-nikui.md",
     "materials/17_n-wo-niku-simasu.md",
-    "materials/18_n-ni-simasu.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
