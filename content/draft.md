@@ -33,7 +33,7 @@ A. Nội dung bên ngoài (SERP content)
 - Meta description: Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong 
 
 B. Nội dung bên trong (Body content)
-- Tiêu đề mỗi phần dạng thẻ H1 và các phần con lần lượt là: H2, H3 (không có H4 trở đi), không đánh số thứ tự cho từng tiêu đề
+- Tiêu đề mỗi phần dạng thẻ H1 và các phần con lần lượt là: H2, H3 (không có H4 trở đi), không đánh số thứ tự cho từng tiêu đề và chỉ viết hoa chữ cái đầu cửa từ đầu tiên
 - Mỗi phần phải có mô tả chi tiết
 - Mỗi nội dung nên thêm các lưu ý, cảnh báo, mẹo, quan trọng, ví dụ, ... (nếu cần thiết)
 - Bổ sung thêm thông tin còn thiếu, mở rộng sang các thông tin nâng cao 
