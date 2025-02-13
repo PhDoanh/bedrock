@@ -11,10 +11,28 @@
             "id": "ad158eb108743687",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "materials/professional-software-development.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "professional-software-development"
+            }
+          },
+          {
+            "id": "279c6eeb26b6db1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
         ]
@@ -138,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "materials/professional-software-development.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of professional-software-development"
             }
           },
           {
@@ -203,16 +222,16 @@
   },
   "active": "ad158eb108743687",
   "lastOpenFiles": [
-    "TODOs.md",
+    "draft.md",
     "materials/professional-software-development.md",
+    "materials/protocol-layers.md",
+    "TODOs.md",
     "materials/the-network-core.md",
     "materials/network-under-attack.md",
     "materials/network-history.md",
     "materials/data-structures-intro.md",
-    "materials/protocol-layers.md",
     "materials/what-is-the-internet.md",
     "materials/the-network-edge.md",
-    "draft.md",
     "materials/delay-loss-throughput.md",
     "Untitled Kanban.md",
     "index.md",
