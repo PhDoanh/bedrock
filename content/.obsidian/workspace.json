@@ -50,9 +50,19 @@
               "icon": "lucide-trello",
               "title": "TODOs"
             }
+          },
+          {
+            "id": "f32b776d355f8ac7",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODOs"
+              "title": "Outline"
             }
           },
           {
@@ -237,16 +246,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e5d4f8d89a5ca0e4",
+  "active": "f32b776d355f8ac7",
   "lastOpenFiles": [
-    "materials/data-structures-intro.md",
+    "materials/the-network-core.md",
+    "materials/network-under-attack.md",
     "materials/network-history.md",
     "TODOs.md",
+    "materials/data-structures-intro.md",
     "materials/protocol-layers.md",
-    "materials/network-under-attack.md",
     "materials/what-is-the-internet.md",
     "materials/the-network-edge.md",
-    "materials/the-network-core.md",
     "draft.md",
     "materials/delay-loss-throughput.md",
     "Untitled Kanban.md",

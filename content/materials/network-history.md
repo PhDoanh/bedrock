@@ -2,7 +2,7 @@
 date: 2025-02-13
 draft: false
 status: Doing
-title: "Hành trình Mạng máy tính và Internet được đưa vào sử sách"
+title: "Hành trình Mạng máy tính và Internet bước vào sử sách"
 description: "Tìm hiểu về lịch sử phát triển của mạng máy tính và Internet, từ giai đoạn sơ khai với chuyển mạch gói cho đến sự bùng nổ trong kỷ nguyên số."
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -20,7 +20,7 @@ cssclasses:
 %% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/network-history.png"
-    alt="Hành trình Mạng máy tính và Internet được đưa vào sử sách" 
+    alt="Hành trình Mạng máy tính và Internet bước vào sử sách" 
     style="
       width: 90%;
       height: auto;
