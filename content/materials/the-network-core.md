@@ -6,11 +6,11 @@ title: "Hiểu Rõ Mạng Lõi: Cách Dữ Liệu Di Chuyển Trong Internet"
 description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
-  - "computer-network"
+tags:
+  - computer-network
   - internet
 aliases:
-  - "the network core"
+  - the network core
 cssclasses:
   - img
   - btn

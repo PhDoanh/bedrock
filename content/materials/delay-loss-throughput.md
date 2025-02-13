@@ -3,14 +3,14 @@ date: 2025-02-12
 draft: false
 status: Doing
 title: "Độ trễ, mất gói và thông lượng: Hiểu rõ hiệu suất mạng gói"
-description: "Bạn có biết rằng trong mạng chuyển mạch gói, dữ liệu có thể bị mất, bị trễ hoặc bị giới hạn về tốc độ truyền tải? Bài viết này sẽ giúp bạn hiểu rõ về độ trễ, mất gói, thông lượng, cũng như cách chúng ảnh hưởng đến hiệu suất mạng! 🚀"
+description: Bạn có biết rằng trong mạng chuyển mạch gói, dữ liệu có thể bị mất, bị trễ hoặc bị giới hạn về tốc độ truyền tải? Bài viết này sẽ giúp bạn hiểu rõ về độ trễ, mất gói, thông lượng, cũng như cách chúng ảnh hưởng đến hiệu suất mạng! 🚀
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
-  - "computer-network"
+tags:
+  - computer-network
   - internet
 aliases:
-  - "delay loss throughput"
+  - delay loss throughput
 cssclasses:
   - img
   - btn

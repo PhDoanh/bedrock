@@ -30,17 +30,25 @@
             }
           },
           {
-            "id": "34153db54733a940",
+            "id": "e5d4f8d89a5ca0e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "materials/protocol-layers.md",
-                "mode": "source",
-                "source": true
+                "file": "TODOs.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "protocol-layers"
+              "icon": "lucide-trello",
+              "title": "TODOs"
             }
           }
         ],
@@ -165,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/protocol-layers.md",
+                "file": "TODOs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of protocol-layers"
+              "title": "Outline of TODOs"
             }
           },
           {
@@ -229,10 +237,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "34153db54733a940",
+  "active": "e5d4f8d89a5ca0e4",
   "lastOpenFiles": [
-    "materials/protocol-layers.md",
+    "materials/data-structures-intro.md",
+    "materials/network-history.md",
     "TODOs.md",
+    "materials/protocol-layers.md",
+    "materials/network-under-attack.md",
     "materials/what-is-the-internet.md",
     "materials/the-network-edge.md",
     "materials/the-network-core.md",
@@ -241,7 +252,6 @@
     "Untitled Kanban.md",
     "index.md",
     "materials/time-complexity.md",
-    "materials/data-structures-intro.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/2_ja-arimasen.md",
     "materials/3_desuka.md",
@@ -255,8 +265,6 @@
     "materials/13_ima-ji-fun-desu.md",
     "materials/14_doushi-no-teineikei.md",
     "materials/15_sugimasu.md",
-    "materials/16_yasui-nikui.md",
-    "materials/17_n-wo-niku-simasu.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
