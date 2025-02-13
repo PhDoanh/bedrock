@@ -55,10 +55,14 @@
             "id": "f32b776d355f8ac7",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "materials/professional-software-development.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "professional-software-development"
             }
           }
         ],
@@ -183,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "materials/professional-software-development.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of professional-software-development"
             }
           },
           {
@@ -248,6 +253,7 @@
   },
   "active": "f32b776d355f8ac7",
   "lastOpenFiles": [
+    "materials/professional-software-development.md",
     "materials/the-network-core.md",
     "materials/network-under-attack.md",
     "materials/network-history.md",
@@ -273,7 +279,6 @@
     "materials/12_koko-soko-asoko.md",
     "materials/13_ima-ji-fun-desu.md",
     "materials/14_doushi-no-teineikei.md",
-    "materials/15_sugimasu.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
