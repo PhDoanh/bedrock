@@ -29,7 +29,7 @@ function createAuthorElement(author: string, link: string) {
   if (link.replaceAll(" ", "") != "") {
     const authorUrl = new URL(link)
 
-    var image_element = null
+    let image_element = null
     if (authorUrl.hostname == "github.com") {
       image_element = <img src={authorUrl + ".png"} alt="" />
     }
@@ -55,8 +55,8 @@ function cleanTooManyAuthors(authorsElements: JSXInternal.Element[], maxShown: n
     return authorsElements
   }
 
-  var shownElements = authorsElements.slice(0, maxShown)
-  var hiddenAuthors = (
+  let shownElements = authorsElements.slice(0, maxShown)
+  let hiddenAuthors = (
     <span class="hiddenAuthors"> <span class="hiddenAuthorsContainer">{authorsElements.slice(maxShown, authorsElements.length)}</span></span>
   )
   return [...shownElements, <span>và</span>, hiddenAuthors]
@@ -71,15 +71,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-      const authors = fileData.frontmatter?.author?.split(",")
-      const authorLinks = fileData.frontmatter?.authorlink?.split(",")
-      var authorsElements = []
+      const authors = typeof fileData.frontmatter?.author === "string" ? fileData.frontmatter.author.split(",") : []
+      const authorLinks = typeof fileData.frontmatter?.authorlink === "string" ? fileData.frontmatter.authorlink.split(",") : []
+      let authorsElements = []
 
       // Display authors if any
       if (authors) {
-        var message = "đã cập nhật vào"
-        for (var i of range(authors.length)) {
-          var link = ""
+        let message = "đã cập nhật vào"
+        for (let i of range(authors.length)) {
+          let link = ""
           if (i < authorLinks?.length) {
             link = authorLinks[i]
           }

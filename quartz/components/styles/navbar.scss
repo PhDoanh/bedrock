@@ -258,7 +258,7 @@
 }
 
 /* For large devices */
-@media screen and (min-width: $fullPageWidth) {
+@media screen and (min-width: $pageWidth) {
 	.container {
 		margin-inline: auto;
 	}
