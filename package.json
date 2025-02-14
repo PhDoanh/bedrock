@@ -35,6 +35,8 @@
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "dependencies": {
+    "sharp": "^0.33.5",
+    "satori": "^0.12.1",
     "pixi.js": "^8.8.0",
     "@pixi/colord": "^2.9.6",
     "@tweenjs/tween.js": "^25.0.0",
