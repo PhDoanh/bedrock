@@ -175,8 +175,8 @@ a {
     }
 
     @media all and not ($desktop) {
-      padding: 0 1rem;
-    }
+    padding: 0 1rem;
+  }
     @media all and ($mobile) {
       margin: 0 auto;
     }
@@ -216,18 +216,18 @@ a {
         margin-right: inherit;
       }
       @media all and not ($desktop) {
-        position: initial;
-        height: unset;
-        width: 100%;
-        flex-direction: row;
-        padding: 0;
-        & > * {
-          flex: 1;
-        }
-        & > .toc {
-          display: none;
-        }
+      position: initial;
+      height: unset;
+      width: 100%;
+      flex-direction: row;
+      padding: 0;
+      & > * {
+        flex: 1;
       }
+      & > .toc {
+        display: none;
+      }
+    }
     }
     & .page-header,
     & .page-footer {
