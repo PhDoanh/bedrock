@@ -22,7 +22,21 @@
             }
           },
           {
-            "id": "4daccb3d81e1c3b6",
+            "id": "1056d421674be4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/case-studies.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "case-studies"
+            }
+          },
+          {
+            "id": "1386ec57c30e16f6",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -32,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,10 +230,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4daccb3d81e1c3b6",
+  "active": "1386ec57c30e16f6",
   "lastOpenFiles": [
+    "materials/case-studies.md",
     "draft.md",
     "materials/professional-software-development.md",
+    "materials/software-engineering-ethics.md",
     "materials/protocol-layers.md",
     "TODOs.md",
     "materials/the-network-core.md",
@@ -242,8 +258,6 @@
     "materials/10_ka-ka.md",
     "materials/11_o-n.md",
     "materials/12_koko-soko-asoko.md",
-    "materials/13_ima-ji-fun-desu.md",
-    "materials/14_doushi-no-teineikei.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
