@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "279c6eeb26b6db1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
-            "id": "1056d421674be4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/case-studies.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "case-studies"
-            }
-          },
-          {
             "id": "1386ec57c30e16f6",
             "type": "leaf",
             "state": {
@@ -45,8 +17,7 @@
               "title": "Projects"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,8 +203,8 @@
   },
   "active": "1386ec57c30e16f6",
   "lastOpenFiles": [
-    "materials/case-studies.md",
     "draft.md",
+    "materials/case-studies.md",
     "materials/professional-software-development.md",
     "materials/software-engineering-ethics.md",
     "materials/protocol-layers.md",

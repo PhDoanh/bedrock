@@ -27,7 +27,7 @@
       display: inline;
       padding: 0 1rem;
 
-      @media all and (max-width: $mobileBreakpoint) {
+      @media all and (max-width: $mobile) {
         display: none;
       }
     }
@@ -43,18 +43,18 @@
         stroke-width: 2px;
         transition: stroke 0.5s ease;
 
-        @media all and (max-width: $mobileBreakpoint) {
+        @media all and (max-width: $mobile) {
           stroke: var(--light);
         }
       }
     }
 
-    @media all and (max-width: $mobileBreakpoint) {
+    @media all and (max-width: $mobile) {
       background-color: transparent;
     }
   }
 
-  @media all and (max-width: $mobileBreakpoint) {
+  @media all and (max-width: $mobile) {
     flex-grow: 0;
   }
 

@@ -134,7 +134,7 @@
 }
 
 /* Navigation for mobile devices */
-@media screen and (max-width: $fullPageWidth) {
+@media screen and (max-width: $pageWidth) {
 	.nav__menu {
 		position: absolute;
 		left: 0;

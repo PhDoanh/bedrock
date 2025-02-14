@@ -14,7 +14,7 @@
 		& .page-header {
 			margin: calc($topSpacing - 3.5rem) auto 0 auto;
 
-			@media all and (max-width: $fullPageWidth) {
+			@media all and (max-width: $pageWidth) {
 				margin-top: 0rem;
 			}
 		}
@@ -102,7 +102,7 @@ video {
 }
 
 // footer.scss
-@media screen and (max-width: $fullPageWidth) {
+@media screen and (max-width: $pageWidth) {
 	footer {
 		text-align: center;
 
