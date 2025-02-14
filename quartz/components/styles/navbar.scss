@@ -246,7 +246,7 @@
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: $mobileBreakpoint) {
+@media screen and (max-width: $mobile) {
 	.container {
 		margin-inline: 0.25rem;
 	}
