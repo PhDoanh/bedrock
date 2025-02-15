@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chats/New Chat.md",
+                "file": "materials/maven.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Chat"
+              "title": "Outline of maven"
             }
           },
           {
@@ -223,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,10 +248,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6b8af042104f1412",
+  "active": "ee5edeb7ed35ed2b",
   "lastOpenFiles": [
-    "materials/maven.md",
     "Chats/New Chat.md",
+    "materials/maven.md",
     "index.md",
     "draft.md",
     "materials/git-vs-github.md",
