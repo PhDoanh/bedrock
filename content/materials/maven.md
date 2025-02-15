@@ -1,13 +1,16 @@
 ---
 date: 2025-02-15
-draft: true
-status: Doing
-title: "<% tp.file.cursor(1) %>"
-description: "<% tp.file.cursor(2) %>"
+draft: false
+status: Done
+title: "Maven - Công cụ quản lý dự án Java"
+description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
-  - "<% tp.file.cursor(3) %>"
+  - "coding"
+  - project-manager
+  - java
+  - tools
 aliases:
   - "maven"
 cssclasses:
@@ -19,7 +22,7 @@ cssclasses:
 %% <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/maven.png"
-    alt="<% tp.file.cursor(1) %>" 
+    alt="Maven - Công cụ quản lý dự án Java" 
     style="
       width: 90%;
       height: auto;
@@ -83,7 +86,8 @@ cssclasses:
 Để minh họa việc sử dụng Maven, mình sẽ sử dụng môi trường phát triển tích hợp IntelliJ IDEA để xây dựng dự án **"Hello World"** huyền thoại!
 
 > [!info] Lưu ý
-> **Maven** được tích hợp sẵn trong IntelliJ IDEA nên bạn chỉ cần mở dự án Maven trong IDEA, và nó sẽ tự động nhận diện tệp `pom.xml` và cung cấp giao diện người dùng để quản lý phụ thuộc, xây dựng, và kiểm tra dự án.
+> - **Maven** được tích hợp sẵn trong IntelliJ IDEA nên bạn chỉ cần mở dự án Maven trong IDEA, và nó sẽ tự động nhận diện tệp `pom.xml` và cung cấp giao diện người dùng để quản lý phụ thuộc, xây dựng, và kiểm tra dự án.
+> - Giao diện của IntelliJ IDEA ở mỗi phiên bản có thể khác nhau đôi chút! Nên hãy cố gắng hiểu tư tưởng của các bước dưới đây.
 
 > [!question]- Nếu dùng Maven CLI thì sao?
 > Các bước sẽ tương tự nhưng bạn phải thực hiện thủ công qua các dòng lệnh. Xem thêm tại bài viết [này](https://www.geeksforgeeks.org/maven-commands-and-options/)
@@ -110,7 +114,7 @@ cssclasses:
 5. Chọn vị trí lưu trữ cho dự án và nhấn **Finish**.
 
 > [!info]- Cấu trúc thư mục chuẩn của một dự án Maven
-> 
+
 
 ## Cấu hình Maven trong dự án ⚙️
 
@@ -139,6 +143,7 @@ Một tệp `pom.xml` cơ bản sẽ trông như sau:
 ## Thêm phụ thuộc vào `pom.xml` 📦
 
 1. Mở tệp `pom.xml`.
+
 2. Bạn có thể thêm các phụ thuộc (thư viện cần thiết) vào trong thẻ `<dependencies>`. Ví dụ, để thêm thư viện `JUnit` (dùng cho kiểm thử), bạn có thể thêm đoạn sau vào tệp `pom.xml`:
 
 ```xml
@@ -176,7 +181,7 @@ public class App {
 
 1. **Chạy Maven Build**:
     - Mở cửa sổ **Maven Tool Window** trong IntelliJ IDEA bằng cách vào **View > Tool Windows > Maven**.
-    - Bạn có thể chạy lệnh `clean install` hoặc `package` để xây dựng ứng dụng của mình. Ví dụ:
+    - Bạn có thể chạy lệnh `clean`, `install` hoặc `package` để xây dựng ứng dụng của mình. Ví dụ:
         - **clean**: Dọn dẹp các tệp xây dựng cũ.
         - **install**: Xây dựng dự án và cài đặt vào kho cục bộ.
         - **package**: Đóng gói ứng dụng thành một JAR/WAR.
