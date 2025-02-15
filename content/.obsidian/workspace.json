@@ -11,10 +11,14 @@
             "id": "1386ec57c30e16f6",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of draft"
             }
           },
           {
@@ -204,11 +209,11 @@
   "active": "1386ec57c30e16f6",
   "lastOpenFiles": [
     "draft.md",
+    "TODOs.md",
     "materials/case-studies.md",
     "materials/professional-software-development.md",
     "materials/software-engineering-ethics.md",
     "materials/protocol-layers.md",
-    "TODOs.md",
     "materials/the-network-core.md",
     "materials/network-under-attack.md",
     "materials/network-history.md",
