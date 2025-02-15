@@ -1,6 +1,6 @@
 {
   "isChatComfy": true,
-  "isUsingRag": true,
+  "isUsingRag": false,
   "assistantLanguage": "en",
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
   "isIncognitoMode": true,

@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/maven.md",
+                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of maven"
+              "title": "Outline of New Chat"
             }
           },
           {
@@ -248,7 +248,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ee5edeb7ed35ed2b",
+  "active": "6b8af042104f1412",
   "lastOpenFiles": [
     "materials/maven.md",
     "Chats/New Chat.md",
