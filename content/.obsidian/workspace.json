@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "draft"
             }
+          },
+          {
+            "id": "db10e8b542dfb075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d363a24385edbbe5",
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of index"
             }
           },
           {
@@ -180,13 +195,25 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "6b8af042104f1412",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +230,17 @@
       "obsidian-git:Open Git source control": false,
       "callout-manager:Insert Callout": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "1386ec57c30e16f6",
+  "active": "db10e8b542dfb075",
   "lastOpenFiles": [
     "draft.md",
+    "index.md",
+    "Chats/New Chat.md",
+    "materials/git-vs-github.md",
+    "Chats",
     "TODOs.md",
     "materials/case-studies.md",
     "materials/professional-software-development.md",
@@ -222,7 +254,6 @@
     "materials/the-network-edge.md",
     "materials/delay-loss-throughput.md",
     "Untitled Kanban.md",
-    "index.md",
     "materials/time-complexity.md",
     "materials/1_n1-ha-n2-desu.md",
     "materials/2_ja-arimasen.md",
@@ -232,8 +263,6 @@
     "materials/6_san.md",
     "materials/7_kore-sore-are.md",
     "materials/10_ka-ka.md",
-    "materials/11_o-n.md",
-    "materials/12_koko-soko-asoko.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
@@ -252,7 +281,6 @@
     "images/Screen Recording 2024-11-29 070112.mp3",
     "images/Screen Recording 2024-11-29 070044.mp3",
     "images/Screen Recording 2024-11-29 070010.mp3",
-    "images/Screen Recording 2024-11-22 074731.mp3",
-    "images/Screen Recording 2024-11-22 074708.mp3"
+    "images/Screen Recording 2024-11-22 074731.mp3"
   ]
 }
