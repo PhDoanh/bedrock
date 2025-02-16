@@ -70,7 +70,7 @@ struct Node {
 };
 ```
 
-> [!explain] Giải thích code
+> [!explain]- Giải thích code
 > Dòng 2: phần **dữ liệu** của nút
 > Dòng 4: Con trỏ trỏ tới nút **trước đó**
 > Dòng 6: Con trỏ trỏ tới nút **tiếp theo**
@@ -269,17 +269,11 @@ Node* eraseNode(Node* head, int pos) {
 ---
 
 # ✨ Doubly Linked List trong thư viện chuẩn C++
-description
 
-## Hàm %% `find()` %%
-description
-
-```cpp
-
-```
-
-> [!info] Lưu ý
-> Contents
+> [!caution]- Nội dung đang hoàn thiện
+> Quá trình xây dựng nội dung này có thể mất nhiều thời gian ⌛, nhưng bạn có thể thúc đẩy nó bằng cách tham gia [[article-collaboration-guide|cộng tác bài viết]] 🤝
+> 
+> **Rất mong sự thông cảm của các bạn 🙏**
 
 ---
 

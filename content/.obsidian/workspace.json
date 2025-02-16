@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dac86ded12b2f0be",
+        "id": "d98d1e2b1dbd77b4",
         "type": "tabs",
         "children": [
           {
-            "id": "756e172e42c87b1a",
+            "id": "6d8672be3b186608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/singly-linked-list.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "singly-linked-list"
-            }
-          },
-          {
-            "id": "3a770946b455da35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/in-progress.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "in-progress"
-            }
-          },
-          {
-            "id": "863da3ac07f47a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Chat"
+              "title": "Outline"
             }
           },
           {
@@ -223,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,22 +214,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6b8af042104f1412",
+  "active": "6d8672be3b186608",
   "lastOpenFiles": [
-    "templates/in-progress.md",
-    "index.md",
-    "materials/singly-linked-list.md",
-    "draft.md",
-    "TODOs.md",
+    "materials/maven.md",
+    "materials/stack.md",
     "materials/doubly-linked-list.md",
+    "materials/singly-linked-list.md",
+    "materials/article-collaboration-guide.md",
+    "templates/in-progress.md",
+    "draft.md",
+    "templates/single-post.md",
+    "Chats/New Chat.md",
+    "index.md",
+    "TODOs.md",
     "templates/dsa.md",
     "materials/linked-list.md",
-    "templates/single-post.md",
     "templates/service.md",
     "templates/pillar-post.md",
     "templates/bunpou.md",
-    "materials/maven.md",
-    "Chats/New Chat.md",
     "materials/git-vs-github.md",
     "Chats",
     "materials/case-studies.md",
@@ -275,8 +243,6 @@
     "materials/network-history.md",
     "materials/data-structures-intro.md",
     "materials/what-is-the-internet.md",
-    "materials/the-network-edge.md",
-    "materials/delay-loss-throughput.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",

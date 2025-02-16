@@ -143,7 +143,7 @@ int len(Node* head)
 }
 ```
 
-> [!explain] Giải thích code
+> [!explain]- Giải thích code
 > Dòng 3: Khởi tạo biến đếm số phần tử 
 > Dòng 5: Bắt đầu từ đầu danh sách (con trỏ `head`)
 > Dòng 8: Tăng biến đếm lên 1 đơn vị trong quá trình duyệt toàn bộ danh sách
@@ -187,7 +187,7 @@ Node* insertNode(Node* head, int pos, int data)
 
 ```
 
-> [!explain] Giải thích code
+> [!explain]- Giải thích code
 > Dòng 8-12: Xử lý trường hợp đặc biệt khi chèn tại ví trí đầu tiên
 > Dòng 14-19: Duyệt danh sách để tìm ra nút đứng trước vị trí cần chèn
 > Dòng 21-24: Xử lý trường hợp vị trí cần chèn lớn hơn số nút
@@ -227,7 +227,7 @@ Node* eraseNode(Node* head, int position)
 }
 ```
 
-> [!explain] Giải thích code
+> [!explain]- Giải thích code
 > Dòng 4-5: Xử lý trường hợp đặc biệt khi danh sách rỗng hoặc vị trí xóa không hợp lệ
 > Dòng 7-12: Xử lý tường hợp đặc biệt khi muốn xóa nút đầu tiên
 > Dòng 14-17: Duyệt danh sách để tìm ra nút đứng trước vị trí cần xóa
@@ -239,16 +239,9 @@ Node* eraseNode(Node* head, int position)
 # ✨ Singly Linked List trong thư viện chuẩn C++
 
 > [!caution]- Nội dung đang hoàn thiện
-> Quá trình xây dựng nội dung này có thể mất nhiều thời gian, nhưng bạn có thể thúc đẩy nó bằng cách tham gia [cộng tác bài viết](https://github.com/PhDoanh/doanhanma/discussions/39), miễn là đáp ứng được các yêu cầu sau:
-> - Chỉ dùng các thẻ **H1, H2 và H3** làm tiêu đề
-> - Mỗi tiêu đề phải có mô tả về nội dung sắp nói tới
-> - In đậm các từ / cụm từ quan trọng 
-> - Trình bày các lưu ý, mẹo, cảnh báo, ... dưới dạng callouts 
-> - Dùng tiêu đề **H2** với nội dung "Hàm `tên hàm`". ví dụ: Hàm `replace`
-> - Cung cấp code C++ cho hàm đó và nhấn mạnh các dòng mã liên quan
-> - Thêm lưu ý về cách sử dụng 
->
-> Rất mong sự thông cảm của các bạn 🙏
+> Quá trình xây dựng nội dung này có thể mất nhiều thời gian ⌛, nhưng bạn có thể thúc đẩy nó bằng cách tham gia [[article-collaboration-guide|cộng tác bài viết]] 🤝
+> 
+> **Rất mong sự thông cảm của các bạn 🙏**
 
 ---
 
