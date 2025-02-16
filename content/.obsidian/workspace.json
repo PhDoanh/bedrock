@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9fccb29743fa598",
+            "id": "756e172e42c87b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/singly-linked-list.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "singly-linked-list"
+            }
+          },
+          {
+            "id": "3a770946b455da35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "templates/in-progress.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "in-progress"
             }
+          },
+          {
+            "id": "863da3ac07f47a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/in-progress.md",
+                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of in-progress"
+              "title": "Outline of New Chat"
             }
           },
           {
@@ -194,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -219,24 +248,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c9fccb29743fa598",
+  "active": "6b8af042104f1412",
   "lastOpenFiles": [
     "templates/in-progress.md",
+    "index.md",
     "materials/singly-linked-list.md",
-    "materials/doubly-linked-list.md",
     "draft.md",
+    "TODOs.md",
+    "materials/doubly-linked-list.md",
     "templates/dsa.md",
     "materials/linked-list.md",
     "templates/single-post.md",
     "templates/service.md",
     "templates/pillar-post.md",
     "templates/bunpou.md",
-    "index.md",
     "materials/maven.md",
     "Chats/New Chat.md",
     "materials/git-vs-github.md",
     "Chats",
-    "TODOs.md",
     "materials/case-studies.md",
     "materials/professional-software-development.md",
     "materials/software-engineering-ethics.md",

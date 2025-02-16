@@ -237,17 +237,18 @@ Node* eraseNode(Node* head, int position)
 ---
 
 # ✨ Singly Linked List trong thư viện chuẩn C++
-description
 
-## Hàm %% `find()` %%
-description
-
-```cpp
-
-```
-
-> [!info] Lưu ý
-> Contents
+> [!caution]- Nội dung đang hoàn thiện
+> Quá trình xây dựng nội dung này có thể mất nhiều thời gian, nhưng bạn có thể thúc đẩy nó bằng cách tham gia [cộng tác bài viết](https://github.com/PhDoanh/doanhanma/discussions/39), miễn là đáp ứng được các yêu cầu sau:
+> - Chỉ dùng các thẻ **H1, H2 và H3** làm tiêu đề
+> - Mỗi tiêu đề phải có mô tả về nội dung sắp nói tới
+> - In đậm các từ / cụm từ quan trọng 
+> - Trình bày các lưu ý, mẹo, cảnh báo, ... dưới dạng callouts 
+> - Dùng tiêu đề **H2** với nội dung "Hàm `tên hàm`". ví dụ: Hàm `replace`
+> - Cung cấp code C++ cho hàm đó và nhấn mạnh các dòng mã liên quan
+> - Thêm lưu ý về cách sử dụng 
+>
+> Rất mong sự thông cảm của các bạn 🙏
 
 ---
 
