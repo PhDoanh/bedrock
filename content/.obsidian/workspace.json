@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d8672be3b186608",
+            "id": "52f7fb315a8ae20c",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -214,20 +214,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6d8672be3b186608",
+  "active": "52f7fb315a8ae20c",
   "lastOpenFiles": [
+    "materials/time-complexity.md",
+    "draft.md",
+    "materials/queue.md",
+    "templates/dsa.md",
     "materials/maven.md",
     "materials/stack.md",
     "materials/doubly-linked-list.md",
     "materials/singly-linked-list.md",
     "materials/article-collaboration-guide.md",
     "templates/in-progress.md",
-    "draft.md",
     "templates/single-post.md",
     "Chats/New Chat.md",
     "index.md",
     "TODOs.md",
-    "templates/dsa.md",
     "materials/linked-list.md",
     "templates/service.md",
     "templates/pillar-post.md",
@@ -241,8 +243,6 @@
     "materials/the-network-core.md",
     "materials/network-under-attack.md",
     "materials/network-history.md",
-    "materials/data-structures-intro.md",
-    "materials/what-is-the-internet.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",

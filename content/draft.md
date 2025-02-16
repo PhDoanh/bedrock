@@ -2,7 +2,7 @@
 draft: true
 ---
 # Nháp
-
+Giúp tôi xây dựng mã triển khai cấu trúc dữ liệu hàng đợi Queue trong C++ bằng danh sách liên kết, với đầy đủ các tính năng:
 
 # AI Prompts
 ## single-post

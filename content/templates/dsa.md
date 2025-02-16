@@ -11,15 +11,18 @@ tags:
   - coding
   - cpp
   - competitive
-  - "<% tp.file.cursor(2) %>"
+  - <% tp.file.cursor(2) %>
 aliases:
-  - "<% tp.file.title.split("-").join(" ") %>"
+  - <% tp.file.title.split("-").join(" ") %>
 cssclasses:
   - img
   - btn
 ---
-%% ĐỊNH DẠNG TÊN FILE: "tên-cấu-trúc-dữ-liệu-hoặc-thuật-toán" | VD: binary-search %%
+%%  LƯU Ý
+- Đinh dạng tên file : "dsa-name" (binary-search, linear-search, ...)
+%%
 
+%% banner
 <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/<% tp.file.title %>.png"
@@ -40,49 +43,50 @@ cssclasses:
     font-size: 1em;
     padding: 0 10px;
   ">
-    <em>dsa_name</em>
+    <em>{chú thích}</em>
   </figcaption>
 </figure>
+%%
 
 # 👀 Giới thiệu về <% tp.file.title.split("-").join(" ") %>
-description
-
-> [!info] Ứng dụng
-> Contents
+{mô tả: chức năng, ứng dụng, ...}
 
 > [!check] Ưu điểm
-> Contents
+> 
 
 > [!missing] Nhược điểm
-> Contents
+> 
 
 ---
 
 # 🛠️ Khai triển <% tp.file.title.split("-").join(" ") %> trong C++
-## Thao tác %% thêm phần tử %%
+## Thao tác {tên thao tác}
+{mô tả}
 
-```cpp
+```cpp {}
 
 ```
 
 > [!explain]- Giải thích code
-> Dòng 1: 
+> Dòng ?: 
 
 ---
 
 # ✨ <% tp.file.title.split("-").join(" ") %> trong thư viện chuẩn C++
-description
+{mô tả}
 
-## Hàm %% `find()` %%
-description
+```cpp {}
 
-```cpp
+```
+
+```txt title="Đầu ra"
 
 ```
 
 > [!info] Lưu ý
-> Contents
+> 
 
 ---
 
 # 🔥 Tổng kết
+{tóm tắt, nhận xét}
