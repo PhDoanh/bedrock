@@ -80,3 +80,28 @@ C. Lưu ý
 ```
 
 ## dsa
+```
+Tạo bài viết "" theo cấu trúc và yêu cầu sau:
+
+A. Nội dung bên ngoài (SERP content)
+- Title Tag: dùng tên bài viết dạng `tên DSA: mô tả`, phần mô tả nêu được chức năng nhưng không thiếu đi sức cuốn hút   
+- Meta description: Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong, định dạng plain text
+
+B. Nội dung bên trong (Body content)
+- Giới thiệu về `tên DSA`: Cung cấp cho người đọc cái nhìn tổng quan về DSA
+	- Ứng dụng
+	- Ưu điểm
+	- Nhược điểm
+- Khai triển `tên DSA` trong C++: Hướng dẫn triển khai các thao tác trên DSA
+	- Thao tác `tên thao tác`: phần này gồm code khai triển bằng c++, giải thích code cho các dòng liên quan đến thao tác và lưu ý nếu có
+- `tên DSA` trong thư viện chuẩn: Hướng dẫn cách dùng trực tiếp DSA trong thư viện của C++ (nếu có) 
+	- Hàm `tên hàm`: chứa mô tả về hàm đó, mã c++ và lưu ý (nếu có)
+- Tổng kết: Tóm tắt toàn bộ nội dung trên và đưa ra nhận xét về DSA
+
+C. Lưu ý 
+- Dùng cú pháp Markdown để viết
+- Các tiêu đề chỉ được phép dưới dạng thẻ H1 -> H3 và không đánh số thứ tự (chỉ mục)
+- Nhấn mạnh các từ hoặc cụm từ quan trọng bằng cú pháp in đậm và gắn link vào đó nếu cần 
+- Sử dụng các biểu tượng emoji để cuốn hút người đọc
+- Cung cấp mô tả chi tiết sau mỗi tiêu đề về nội dung sắp nói tới
+```

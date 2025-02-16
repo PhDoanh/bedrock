@@ -2,7 +2,7 @@
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 draft: true
 status: Not started
-title: "<% tp.file.title.split("-").join(" ") %>: <% tp.file.cursor(1) %>"
+title: "<% tp.file.cursor(1) %>"
 description: 
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
@@ -44,30 +44,33 @@ cssclasses:
   </figcaption>
 </figure>
 
-# 👀 Giới thiệu về <% tp.file.title %>
+# 👀 Giới thiệu về <% tp.file.title.split("-").join(" ") %>
 description
 
-## Ứng dụng
+> [!info] Ứng dụng
+> Contents
 
+> [!check] Ưu điểm
+> Contents
 
-## Ưu điểm
+> [!missing] Nhược điểm
+> Contents
 
+---
 
-## Nhược điểm
-
-
-# 🛠️ Khai triển <% tp.file.title %> trong C++
+# 🛠️ Khai triển <% tp.file.title.split("-").join(" ") %> trong C++
 ## Thao tác %% thêm phần tử %%
 
 ```cpp
 
 ```
 
-> [!tldr]- Giải thích code
+> [!explain]- Giải thích code
 > Dòng 1: 
 
+---
 
-# ✨ <% tp.file.title %> trong thư viện chuẩn C++
+# ✨ <% tp.file.title.split("-").join(" ") %> trong thư viện chuẩn C++
 description
 
 ## Hàm %% `find()` %%
@@ -80,5 +83,6 @@ description
 > [!info] Lưu ý
 > Contents
 
+---
 
 # 🔥 Tổng kết

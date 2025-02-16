@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0df7c1769f99d11d",
+        "id": "dac86ded12b2f0be",
         "type": "tabs",
         "children": [
           {
-            "id": "1386ec57c30e16f6",
+            "id": "c9fccb29743fa598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
-            "id": "db10e8b542dfb075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "templates/in-progress.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "ee5edeb7ed35ed2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/maven.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "maven"
+              "title": "in-progress"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/maven.md",
+                "file": "templates/in-progress.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of maven"
+              "title": "Outline of in-progress"
             }
           },
           {
@@ -223,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,12 +219,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6b8af042104f1412",
+  "active": "c9fccb29743fa598",
   "lastOpenFiles": [
+    "templates/in-progress.md",
+    "materials/singly-linked-list.md",
+    "materials/doubly-linked-list.md",
+    "draft.md",
+    "templates/dsa.md",
+    "materials/linked-list.md",
+    "templates/single-post.md",
+    "templates/service.md",
+    "templates/pillar-post.md",
+    "templates/bunpou.md",
+    "index.md",
     "materials/maven.md",
     "Chats/New Chat.md",
-    "index.md",
-    "draft.md",
     "materials/git-vs-github.md",
     "Chats",
     "TODOs.md",
@@ -268,15 +248,6 @@
     "materials/what-is-the-internet.md",
     "materials/the-network-edge.md",
     "materials/delay-loss-throughput.md",
-    "Untitled Kanban.md",
-    "materials/time-complexity.md",
-    "materials/1_n1-ha-n2-desu.md",
-    "materials/2_ja-arimasen.md",
-    "materials/3_desuka.md",
-    "materials/4_mo.md",
-    "materials/5_no.md",
-    "materials/6_san.md",
-    "materials/7_kore-sore-are.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
