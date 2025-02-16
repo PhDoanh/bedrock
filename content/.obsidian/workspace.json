@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d98d1e2b1dbd77b4",
+        "id": "0e4224b3c789d7d0",
         "type": "tabs",
         "children": [
           {
-            "id": "52f7fb315a8ae20c",
+            "id": "2f63ca6198734123",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "materials/queue.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "queue"
+            }
+          },
+          {
+            "id": "91dc3bbd43a73727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
             }
           }
         ]
@@ -90,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOs.md",
+                "file": "materials/queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODOs"
+              "title": "Backlinks for queue"
             }
           },
           {
@@ -109,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOs.md",
+                "file": "materials/queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODOs"
+              "title": "Outgoing links from queue"
             }
           },
           {
@@ -138,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "materials/queue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of queue"
             }
           },
           {
@@ -214,12 +233,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "52f7fb315a8ae20c",
+  "active": "2f63ca6198734123",
   "lastOpenFiles": [
-    "materials/time-complexity.md",
     "draft.md",
     "materials/queue.md",
     "templates/dsa.md",
+    "materials/time-complexity.md",
     "materials/maven.md",
     "materials/stack.md",
     "materials/doubly-linked-list.md",

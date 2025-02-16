@@ -2,7 +2,9 @@
 draft: true
 ---
 # Nháp
-Giúp tôi xây dựng mã triển khai cấu trúc dữ liệu hàng đợi Queue trong C++ bằng danh sách liên kết, với đầy đủ các tính năng:
+
+
+
 
 # AI Prompts
 ## single-post
@@ -80,28 +82,21 @@ C. Lưu ý
 ```
 
 ## dsa
+
+### Tạo nội dung phần giới thiệu
 ```
-Tạo bài viết "" theo cấu trúc và yêu cầu sau:
+Giới thiệu về {tên dsa} trong đó ứng dụng, ưu điểm và nhược điểm dưới dạng gạch đầu dòng
+```
 
-A. Nội dung bên ngoài (SERP content)
-- Title Tag: dùng tên bài viết dạng `tên DSA: mô tả`, phần mô tả nêu được chức năng nhưng không thiếu đi sức cuốn hút   
-- Meta description: Cung cấp mô tả ngắn gọn tầm 2-3 câu để làm rõ tên bài cũng như nội dung bên trong, định dạng plain text
+### Tạo bảng trình bày các phương thức 
+```
+Giúp tôi trình bày các phương thức: {danh sách các hàm} dưới dạng bảng gồm các cột: Phương thức, Kiểu trả về, Tham số, Mô tả và Độ phức tạp. Với một số lưu ý sau:
+- Các tham số được liệt kê phải bao gồm giải thích ý nghĩa
+- Dùng biểu thức latex cho độ phức tạp
+- Đặt Phương thức, tên kiểu trả về và tên tham số vào cặp dấu backticks
+```
 
-B. Nội dung bên trong (Body content)
-- Giới thiệu về `tên DSA`: Cung cấp cho người đọc cái nhìn tổng quan về DSA
-	- Ứng dụng
-	- Ưu điểm
-	- Nhược điểm
-- Khai triển `tên DSA` trong C++: Hướng dẫn triển khai các thao tác trên DSA
-	- Thao tác `tên thao tác`: phần này gồm code khai triển bằng c++, giải thích code cho các dòng liên quan đến thao tác và lưu ý nếu có
-- `tên DSA` trong thư viện chuẩn: Hướng dẫn cách dùng trực tiếp DSA trong thư viện của C++ (nếu có) 
-	- Hàm `tên hàm`: chứa mô tả về hàm đó, mã c++ và lưu ý (nếu có)
-- Tổng kết: Tóm tắt toàn bộ nội dung trên và đưa ra nhận xét về DSA
-
-C. Lưu ý 
-- Dùng cú pháp Markdown để viết
-- Các tiêu đề chỉ được phép dưới dạng thẻ H1 -> H3 và không đánh số thứ tự (chỉ mục)
-- Nhấn mạnh các từ hoặc cụm từ quan trọng bằng cú pháp in đậm và gắn link vào đó nếu cần 
-- Sử dụng các biểu tượng emoji để cuốn hút người đọc
-- Cung cấp mô tả chi tiết sau mỗi tiêu đề về nội dung sắp nói tới
+### Tạo mã ví dụ phần thư viện chuẩn C++
+```
+Giúp tôi xây dựng chương trình C++ (bao gồm kết quả đầu ra) dùng {tên dsa} với đầy đủ các phương thức: {danh sách các hàm}. Không comment code mà giải thích bằng các gạch đầu dòng liên quan tới {tên dsa} theo dạng "Dòng 1: ..." 
 ```

@@ -3,7 +3,7 @@ date: <% tp.file.creation_date("YYYY-MM-DD") %>
 draft: true
 status: Not started
 title: "<% tp.file.cursor(1) %>"
-description: 
+description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
@@ -49,7 +49,7 @@ cssclasses:
 %%
 
 # 👀 Giới thiệu về <% tp.file.title.split("-").join(" ") %>
-{mô tả: chức năng, ứng dụng, ...}
+{mô tả}
 
 > [!check] Ưu điểm
 > 
@@ -60,6 +60,7 @@ cssclasses:
 ---
 
 # 🛠️ Khai triển <% tp.file.title.split("-").join(" ") %> trong C++
+
 ## Thao tác {tên thao tác}
 {mô tả}
 
@@ -75,6 +76,10 @@ cssclasses:
 # ✨ <% tp.file.title.split("-").join(" ") %> trong thư viện chuẩn C++
 {mô tả}
 
+| Phương thức | Kiểu trả về | Tham số | Mô tả | Độ phức tạp |
+|:-----------:|:-----------:|:------- |:----- |:-----------:|
+|             |             |         |       |             |
+
 ```cpp {}
 
 ```
@@ -83,8 +88,8 @@ cssclasses:
 
 ```
 
-> [!info] Lưu ý
-> 
+> [!explain]- Giải thích code
+> Dòng ?:
 
 ---
 
