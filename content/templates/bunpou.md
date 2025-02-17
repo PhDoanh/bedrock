@@ -17,8 +17,11 @@ cssclasses:
   - img
   - btn
 ---
-%% ĐỊNH DẠNG TÊN FILE: "stt_tên-furigana-của-ngữ-pháp" | VD: 1_n-no-tameni %%
+%% LƯU Ý 
+- Định dạng tên file: "tên-bài-viết" (jp-typing-guide, ...) 
+%%
 
+%% banner
 <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/<% tp.file.title %>.png"
@@ -42,22 +45,23 @@ cssclasses:
     <em>Cấu trúc ngữ pháp đầy đủ</em>
   </figcaption>
 </figure>
+%%
 
 # ✨ Ứng dụng
-## usage_case 
-description
+## {trường hợp dùng} 
+%% mô tả %%
 
-> [!content]- japanese
-> vietnamese
+> [!content]- {bản gốc}
+> {bản dịch}
 
 ---
 
 # 🔓 Mở rộng ngữ pháp   
-## usage_case 
-description
+## {trường hợp dùng}  
+%% mô tả %%
 
-> [!content]- japanese
-> vietnamese
+> [!content]- {bản gốc}
+> {bản dịch}
 
 ---
 
@@ -74,7 +78,7 @@ description
 ---
 
 # 🔥Tổng kết
-conclusion
+{tóm tắt, nhận xét}
 
 > [!advices] Lời khuyên
 > 

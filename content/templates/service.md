@@ -7,15 +7,18 @@ description: "<% tp.file.cursor(2) %>"
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags: 
-  - "<% tp.file.cursor(3) %>"
+  - <% tp.file.cursor(3) %>
 aliases:
-  - "<% tp.file.title.split("-").join(" ") %>"
+  - <% tp.file.title.split("-").join(" ") %>
 cssclasses:
   - img
   - btn
 ---
-%% ĐỊNH DẠNG TÊN FILE: "tên-bài-viết" | VD: jp-typing-guide %%
+%% LƯU Ý 
+- Định dạng tên file: "tên-bài-viết" (jp-typing-guide, ...) 
+%%
 
+%% banner
 <figure style="text-align: center; margin: 20px auto;">
   <img 
     src="images/<% tp.file.title %>.png"
@@ -39,4 +42,5 @@ cssclasses:
     <em>caption</em>
   </figcaption>
 </figure>
-
+ %%
+ 
