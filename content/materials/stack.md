@@ -1,12 +1,12 @@
 ---
 date: 2025-02-16
 draft: true
-status: Not started
-title: "Cấu trúc dữ liệu ngăn xếp"
+status: Doing
+title: Cấu trúc dữ liệu ngăn xếp
 description: ""
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
-tags: 
+tags:
   - dsa
   - coding
   - cpp
@@ -99,24 +99,67 @@ cssclasses:
 ---
 
 # ✨ Stack trong thư viện chuẩn C++
-%% mô tả %%
+Trong C++ STL, `std::stack` là một cấu trúc dữ liệu kiểu **LIFO (Last In, First Out)**, hỗ trợ các thao tác như `push()`, `pop()`, `top()`, `size()`, và `empty()`. Nó được triển khai dựa trên **deque** mặc định, nhưng cũng có thể sử dụng **vector** hoặc **list** để thay thế. `std::stack` giúp quản lý dữ liệu theo ngăn xếp một cách thuận tiện mà không cần tự triển khai cấu trúc dữ liệu thủ công.
 
-| Phương thức | Kiểu trả về | Tham số | Mô tả | Độ phức tạp |
-|:-----------:|:-----------:|:------- |:----- |:-----------:|
-|             |             |         |       |             |
+| Phương thức |          Kiểu trả về           | Tham số                                  | Mô tả                                                                                       |                    Độ phức tạp                     |
+|:-----------:|:------------------------------:|:---------------------------------------- |:------------------------------------------------------------------------------------------- |:--------------------------------------------------:|
+|  `empty()`  |             `bool`             | Không có                                 | Kiểm tra xem stack có rỗng không. Trả về `true` nếu rỗng, ngược lại trả về `false`.         |                       $O(1)$                       |
+|  `size()`   |             `int`              | Không có                                 | Trả về số phần tử hiện có trong stack.                                                      |                       $O(1)$                       |
+|   `top()`   | `T` (kiểu dữ liệu của phần tử) | không có                                 | Trả về phần tử trên cùng của stack mà không xóa nó. Nếu stack rỗng, hành vi không xác định. |                       $O(1)$                       |
+|  `push(e)`  |             `void`             | `e`: Phần tử kiểu `T` cần thêm vào stack | Thêm phần tử `e` vào đỉnh của stack                                                         | $O(1)$ trung bình<br>$O(n)$ nếu phải mở rộng bộ nhớ. |
+|   `pop()`   |             `void`             | Không có                                 | Xóa phần tử trên cùng của stack. Nếu stack rỗng, hành vi không xác định.                    |                       $O(1)$                       |
+|             |                                |                                          |                                                                                             |                                                    |
 
 ```cpp {}
+#include <iostream>
+#include <stack>
 
+using namespace std;
+
+int main() {
+    stack<int> s;
+    
+    s.push(10);
+    s.push(20);
+    s.push(30);
+    
+    cout << "Top element: " << s.top() << endl;
+    
+    s.pop();
+    cout << "Top element after pop: " << s.top() << endl;
+    
+    cout << "Stack size: " << s.size() << endl;
+    
+    while (!s.empty()) {
+        cout << "Popping: " << s.top() << endl;
+        s.pop();
+    }
+    
+    cout << "Stack is empty: " << (s.empty() ? "Yes" : "No") << endl;
+    
+    return 0;
+}
 ```
 
 ```txt title="Đầu ra"
-
+Top element: 30
+Top element after pop: 20
+Stack size: 2
+Popping: 20
+Popping: 10
+Stack is empty: Yes
 ```
 
 > [!explain]- Giải thích code
-> Dòng ?:
+> - **Dòng 2**: Thư viện `stack` để sử dụng ngăn xếp.
+> - **Dòng 7**: Khai báo một ngăn xếp các số nguyên.
+> - **Dòng 9-11**: Thêm các phần tử `10, 20, 30` vào ngăn xếp bằng hàm `push()`.
+> - **Dòng 13**: Lấy phần tử ở đỉnh ngăn xếp và in ra
+> - **Dòng 15**: Xóa phần tử ở đỉnh ngăn xếp
+> - **Dòng 18**: In ra số phần tử có trong ngăn xếp
+> - **Dòng 25**: Kiểm tra ngăn xếp rỗng hay không và in **"Yes"** nếu có hoặc **"No"** nếu không
 
 ---
 
 # 🔥 Tổng kết
-%% tóm tắt, nhận xét %%
+Ngăn xếp (**stack**) là một cấu trúc dữ liệu quan trọng hoạt động theo nguyên tắc **LIFO (Last In, First Out)**, phù hợp cho các bài toán như **quản lý lời gọi hàm, duyệt biểu thức toán học, undo/redo** trong phần mềm. Với các thao tác cơ bản như `push()`, `pop()`, `top()`, `size()` và `empty()`, stack giúp quản lý dữ liệu hiệu quả nhưng bị hạn chế trong việc truy xuất ngẫu nhiên. Khi sử dụng, cần cân nhắc đặc điểm này để chọn cấu trúc dữ liệu phù hợp với yêu cầu bài toán.
