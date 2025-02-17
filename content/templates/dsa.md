@@ -49,7 +49,7 @@ cssclasses:
 %%
 
 # 👀 Giới thiệu về <% tp.file.title.split("-").join(" ") %>
-{mô tả}
+%% mô tả %%
 
 > [!check] Ưu điểm
 > 
@@ -61,8 +61,8 @@ cssclasses:
 
 # 🛠️ Khai triển <% tp.file.title.split("-").join(" ") %> trong C++
 
-## Thao tác {tên thao tác}
-{mô tả}
+## {tên thao tác}
+%% mô tả %%
 
 ```cpp {}
 
@@ -74,7 +74,7 @@ cssclasses:
 ---
 
 # ✨ <% tp.file.title.split("-").join(" ") %> trong thư viện chuẩn C++
-{mô tả}
+%% mô tả %%
 
 | Phương thức | Kiểu trả về | Tham số | Mô tả | Độ phức tạp |
 |:-----------:|:-----------:|:------- |:----- |:-----------:|
@@ -94,4 +94,4 @@ cssclasses:
 ---
 
 # 🔥 Tổng kết
-{tóm tắt, nhận xét}
+%% tóm tắt, nhận xét %%

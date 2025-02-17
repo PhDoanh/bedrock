@@ -1,6 +1,6 @@
 ---
 date: 2025-02-16
-draft: true
+draft: false
 status: Doing
 title: "Cấu trúc dữ liệu hàng đợi"
 description:
@@ -78,16 +78,141 @@ cssclasses:
 > **Rất mong sự thông cảm của các bạn 🙏**
 
 ## Khai triển bằng danh sách liên kết
+Queue có thể được triển khai bằng **danh sách liên kết đơn**, trong đó mỗi phần tử (node) chứa **giá trị** và **con trỏ trỏ đến phần tử tiếp theo**. Queue có hai con trỏ chính:
 
-### Thao tác {tên thao tác}
-{mô tả}
+- `front`: Trỏ đến phần tử đầu hàng đợi.
+- `back`: Trỏ đến phần tử cuối hàng đợi.  
 
-```cpp {}
+Khi thêm phần tử (`pushBack()`), phần tử mới sẽ được nối vào cuối danh sách. Khi xóa phần tử (`popFront()`), phần tử đầu sẽ bị loại bỏ và con trỏ `front` được cập nhật.
 
+> [!check] Ưu điểm
+> - **Không giới hạn kích thước**: Không cần xác định trước kích thước như mảng, có thể mở rộng động theo nhu cầu.
+> - **Thao tác thêm/xóa nhanh**: `pushBack()` và `popFront()` đều có độ phức tạp $O(1)$ do chỉ cần thay đổi con trỏ.
+> - **Không bị lãng phí bộ nhớ**: Chỉ sử dụng bộ nhớ cho đúng số phần tử hiện có, không có khoảng trống dư thừa như mảng.
+
+> [!missing] Nhược điểm
+> - **Tốn bộ nhớ cho con trỏ**: Mỗi node cần thêm một con trỏ (`next`), làm tăng bộ nhớ sử dụng so với queue bằng mảng.  
+> - **Không hỗ trợ truy cập ngẫu nhiên**: Không thể truy xuất nhanh phần tử ở giữa như mảng (phải duyệt tuần tự).  
+> - **Dễ gây lỗi rò rỉ bộ nhớ**: Nếu không giải phóng bộ nhớ đúng cách (`delete` node khi `popFront()`), có thể gây **memory leak**.
+
+### Định nghĩa Queue
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" {9-11,14}
+struct Node {
+    int data;
+    Node* next;
+    Node(int value) : data(value), next(nullptr) {}
+};
+
+class Queue {
+private:
+    Node* front;
+    Node* back;
+    int size;
+
+public:
+    Queue() : front(nullptr), back(nullptr), size(0) {}
 ```
 
 > [!explain]- Giải thích code
-> Dòng ?: 
+> - **Dòng 9-11**: Khai báo con trỏ `front` tham chiếu đến phần tử đầu, `back` đến phần tử cuối, và biến `size` để lưu số phần tử có trong hàng đợi.
+> - **Dòng 14**: Hàm khởi tạo hàng đợi rỗng
+
+### Kiểm tra Queue rỗng hay không
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{15} {16}
+bool isEmpty() {
+	return size == 0;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 16**: Trả về `true` (hàng đợi rỗng) nếu số phần tử có trong queue bằng 0 và ngược lại
+
+### Trả về số lượng phần tử trong Queue
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{18} {19}
+int getSize() {
+	return size;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 19**: trả về số lượng phần tử trong hàng đợi, được lưu trong biến `size`
+
+### Trả về phần tử đầu tiên
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{21} {22-23}
+int getFront() {
+	if (isEmpty()) throw runtime_error("Queue is empty");
+	return front->data;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 22**: ném ngoại lệ `Runtime Error` với thông điệp "Queue is empty" do không thể truy cập phần tử đàu tiên của một hàng đợi rỗng
+> - **Dòng 23**: Trả về dữ liệu phần tử đầu tiên nếu hàng đợi không rỗng
+
+### Trả về phần tử cuối cùng
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{25} {26-27}
+int getBack() {
+	if (isEmpty()) throw runtime_error("Queue is empty");
+	return back->data;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 26**: ném ngoại lệ `Runtime Error` với thông điệp "Queue is empty" do không thể truy cập phần tử cuối cùng của một hàng đợi rỗng
+> - **Dòng 27**: Trả về dữ liệu phần tử cuối cùng nếu hàng đợi không rỗng
+
+### Thêm phần tử vào cuối Queue
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{29} {30,32,34-35,37}
+void pushBack(int value) {
+	Node* newNode = new Node(value);
+	if (isEmpty()) {
+		front = back = newNode;
+	} else {
+		back->next = newNode;
+		back = newNode;
+	}
+	size++;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 30**: tạo phần tử mới với giá trị `value`
+> - **Dòng 32**: Nếu hàng đợi rỗng, phần tử mới sẽ vừa là phần tử đầu tiên (`front`) và là phần tử cuối cùng (`back`)   
+> - **Dòng 34-35**: Nếu hàng đợi không rỗng, nối phần tử mới vào đuôi phần tử cuối cùng của hàng đợi và gán lại phần tử cuối cùng ấy thành phần tử mới
+> - **Dòng 37**: Do thêm thao phần tử nên số lượng phần tử tăng lên 1 
+
+### Xóa phần tử đầu tiên
+%% mô tả %%
+
+```cpp title="queueLinkedListDeploy.cpp" showLineNumbers{39} {}
+void popFront() {
+	if (isEmpty()) throw runtime_error("Queue is empty");
+	
+	Node* temp = front;
+	front = front->next;
+	delete temp;
+	size--;
+	
+	if (size == 0) back = nullptr;
+}
+```
+
+> [!explain]- Giải thích code
+> - **Dòng 40**: ném ngoại lệ `Runtime Error` với thông điệp "Queue is empty" do không thể truy cập phần tử đầu tiên để mà xóa
+> - **Dòng 42-45**: Lấy phần tử đầu tiên ra và xóa nó, đồng thời giảm số lượng phần tử của hàng đợi đi 1 do thao tác xóa
+> - **Dòng 47**: Nếu hàng đợi bị xóa hết, gán `back` trở lại `nullptr` (`front` tự động thành `nullptr` trong dòng 42-45 khi hàng đợi chỉ có 1 phần tử) 
 
 ---
 
@@ -142,14 +267,14 @@ Size: 2
 ```
 
 > [!explain]- Giải thích code
-> - Dòng 2: Bao gồm thư viện queue để sử dụng cấu trúc dữ liệu hàng đợi.
-> - Dòng 6: Khởi tạo một hàng đợi q chứa các số nguyên (int).
-> - Dòng 7: Thêm số 10 vào cuối hàng đợi.
-> - Dòng 10: In ra phần tử ở đầu hàng đợi (front) là 10.
-> - Dòng 11: In ra phần tử ở cuối hàng đợi (back) là 30.
-> - Dòng 12: In ra số lượng phần tử hiện có trong hàng đợi (size) là 3.
-> - Dòng 13: Kiểm tra xem hàng đợi có rỗng không và in ra kết quả ("false" vì hàng đợi không rỗng).
-> - Dòng 15: Xóa phần tử đầu tiên của hàng đợi (loại bỏ số 10).
+> - **Dòng 2**: Bao gồm thư viện queue để sử dụng cấu trúc dữ liệu hàng đợi.
+> - **Dòng 6**: Khởi tạo một hàng đợi q chứa các số nguyên (int).
+> - **Dòng 7**: Thêm số 10 vào cuối hàng đợi.
+> - **Dòng 10**: In ra phần tử ở đầu hàng đợi (front) là 10.
+> - **Dòng 11**: In ra phần tử ở cuối hàng đợi (back) là 30.
+> - **Dòng 12**: In ra số lượng phần tử hiện có trong hàng đợi (size) là 3.
+> - **Dòng 13**: Kiểm tra xem hàng đợi có rỗng không và in ra kết quả ("false" vì hàng đợi không rỗng).
+> - **Dòng 15**: Xóa phần tử đầu tiên của hàng đợi (loại bỏ số 10).
 
 ---
 

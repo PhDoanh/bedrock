@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f63ca6198734123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/queue.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "queue"
-            }
-          },
-          {
             "id": "91dc3bbd43a73727",
             "type": "leaf",
             "state": {
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materials/queue.md",
+                "file": "draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for queue"
+              "title": "Backlinks for draft"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materials/queue.md",
+                "file": "draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from queue"
+              "title": "Outgoing links from draft"
             }
           },
           {
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/queue.md",
+                "file": "draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of queue"
+              "title": "Outline of draft"
             }
           },
           {
@@ -233,11 +219,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2f63ca6198734123",
+  "active": "91dc3bbd43a73727",
   "lastOpenFiles": [
-    "draft.md",
     "materials/queue.md",
     "templates/dsa.md",
+    "draft.md",
     "materials/time-complexity.md",
     "materials/maven.md",
     "materials/stack.md",
