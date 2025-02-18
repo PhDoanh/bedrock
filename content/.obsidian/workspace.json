@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c652275a52429d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/oop-intro.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "oop-intro"
-            }
-          },
-          {
             "id": "5b09b393763daf9a",
             "type": "leaf",
             "state": {
@@ -36,21 +22,21 @@
             }
           },
           {
-            "id": "204068c2951f33d6",
+            "id": "ced5e7c68ea6edf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/linked-list.md",
-                "mode": "source",
+                "file": "materials/what-is-the-internet.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linked-list"
+              "title": "what-is-the-internet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#internet  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/linked-list.md",
+                "file": "materials/what-is-the-internet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linked-list"
+              "title": "Outline of what-is-the-internet"
             }
           },
           {
@@ -249,12 +234,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "204068c2951f33d6",
+  "active": "ced5e7c68ea6edf4",
   "lastOpenFiles": [
-    "materials/oop-intro.md",
     "materials/29_hazudesu.md",
-    "materials/28_bakaridesu.md",
+    "materials/what-is-the-internet.md",
     "draft.md",
+    "materials/oop-intro.md",
+    "materials/linked-list.md",
+    "materials/28_bakaridesu.md",
     "materials/27_tokorodesu.md",
     "materials/nihongo-35.md",
     "materials/nihongo-1.md",
@@ -275,8 +262,6 @@
     "materials/git-vs-github.md",
     "materials/time-complexity.md",
     "materials/doubly-linked-list.md",
-    "materials/singly-linked-list.md",
-    "materials/article-collaboration-guide.md",
     "Chats",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
