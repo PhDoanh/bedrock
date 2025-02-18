@@ -1,9 +1,9 @@
 ---
-date: 2025-02-17
-draft: true
+date: 2025-02-18
+draft: false
 status: Doing
 title: Khám phá lập trình hướng đối tượng (OOP) cho người mới bắt đầu
-description: "Bài viết giới thiệu khái niệm lập trình hướng đối tượng (OOP), giải thích các đặc tính chính như đóng gói, kế thừa, đa hình, trừu tượng. Đồng thời cung cấp ví dụ minh họa, ưu nhược điểm, và một số lưu ý khi áp dụng."
+description: Bài viết giới thiệu khái niệm lập trình hướng đối tượng (OOP), giải thích các đặc tính chính như đóng gói, kế thừa, đa hình, trừu tượng. Đồng thời cung cấp ví dụ minh họa, ưu nhược điểm, và một số lưu ý khi áp dụng.
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -91,9 +91,12 @@ Lập trình hướng đối tượng (OOP) được sử dụng rộng rãi tro
 - **Đối tượng (Object):** Thực thể cụ thể được khởi tạo từ lớp.  
 - **Thuộc tính (Property/Attribute):** Biến (hoặc trường dữ liệu) lưu trữ thông tin của đối tượng.  
 - **Phương thức (Method):** Hàm (hoặc thủ tục) thể hiện hành vi của đối tượng.
+- **Message Passing**: cơ chế gửi thông điệp giữa các đối tượng để yêu cầu thực hiện một hành động.
+- **Dynamic Binding**: cơ chế xác định phương thức sẽ được gọi tại thời điểm thực thi, dựa trên kiểu thực tế của đối tượng.
 
 > [!info] Lưu ý
-> Trong một số ngôn ngữ, **class** có thể được khai báo với các **access modifier** như `public`, `private`, `protected` để kiểm soát phạm vi truy cập.
+> - Trong một số ngôn ngữ, **class** có thể được khai báo với các **access modifier** như `public`, `private`, `protected` để kiểm soát phạm vi truy cập.
+> - **Message Passing** và **Dynamic Binding** là các cơ chế giúp hỗ trợ thực hiện các đặc tính cơ bản của OOP như **đa hình** và **trừu tượng**
 
 # 🌟 Các tính chất quan trọng
 Dưới đây là bốn đặc tính chính của OOP giúp bạn khai thác tối đa sức mạnh của phương pháp này.
@@ -144,7 +147,7 @@ Dưới đây là bốn đặc tính chính của OOP giúp bạn khai thác t�
 # 🔎 Ví dụ minh họa
 Dưới đây là ví dụ về cách OOP hoạt động trong ngôn ngữ Java:
 
-```java {}
+```java {1,17,35,55-56,58-59,63-64}
 abstract class Vehicle {  
     protected String brand;   
     protected int speed;

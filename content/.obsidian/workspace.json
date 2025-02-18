@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "fc3a52609773bbd7",
+            "id": "204068c2951f33d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materials/27_tokorodesu.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "27_tokorodesu"
-            }
-          },
-          {
-            "id": "9a9425490521cea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materials/28_bakaridesu.md",
+                "file": "materials/linked-list.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "28_bakaridesu"
+              "title": "linked-list"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/28_bakaridesu.md",
+                "file": "materials/linked-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 28_bakaridesu"
+              "title": "Outline of linked-list"
             }
           },
           {
@@ -263,12 +249,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9a9425490521cea2",
+  "active": "204068c2951f33d6",
   "lastOpenFiles": [
-    "materials/28_bakaridesu.md",
-    "materials/27_tokorodesu.md",
-    "draft.md",
     "materials/oop-intro.md",
+    "materials/29_hazudesu.md",
+    "materials/28_bakaridesu.md",
+    "draft.md",
+    "materials/27_tokorodesu.md",
     "materials/nihongo-35.md",
     "materials/nihongo-1.md",
     "materials/24_sou.md",
@@ -290,7 +277,6 @@
     "materials/doubly-linked-list.md",
     "materials/singly-linked-list.md",
     "materials/article-collaboration-guide.md",
-    "index.md",
     "Chats",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",

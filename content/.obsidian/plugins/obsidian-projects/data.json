@@ -64,7 +64,14 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "is",
+                "enabled": false,
+                "value": "Done"
+              }
+            ]
           },
           "colors": {
             "conditions": [

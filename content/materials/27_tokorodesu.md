@@ -1,9 +1,9 @@
 ---
 date: 2025-02-18
-draft: true
+draft: false
 status: Doing
 title: "27. ～ところです: Biểu thị thời điểm của hành động"
-description: "Tìm hiểu cách sử dụng 「～ところです」 để mô tả hành động sắp diễn ra, đang diễn ra hoặc vừa kết thúc. Học nhanh với ví dụ thực tế và mẹo thi JLPT hiệu quả!"
+description: Tìm hiểu cách sử dụng 「～ところです」 để mô tả hành động sắp diễn ra, đang diễn ra hoặc vừa kết thúc. Học nhanh với ví dụ thực tế và mẹo thi JLPT hiệu quả!
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -15,7 +15,7 @@ tags:
   - minna-no-nihongo
 aliases:
   - tokorodesu
-cssclasses: 
+cssclasses:
   - img
   - btn
 ---
@@ -53,6 +53,13 @@ cssclasses:
 ## Diễn tả một hành động sắp diễn ra
 Dùng để diễn tả một hành động **chuẩn bị xảy ra ngay lập tức**. Thường dùng với các phó từ: これから、今から、もうすぐ、…
 
+**Cấu trúc**:
+$$
+\text{Vる} + \text{ところです。}
+$$
+
+**Ví dụ**:
+
 > [!content]- <ruby>今<rt>いま</rt></ruby>から<ruby>昼<rt>ひる</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる**ところ**です。
 > Bây giờ tôi **chuẩn bị ăn trưa**.
 
@@ -62,6 +69,13 @@ Dùng để diễn tả một hành động **chuẩn bị xảy ra ngay lập t
 ## Diễn tả một hành động đang diễn ra
 Nhấn mạnh hành động **đang diễn ra ngay thời điểm nói**.  Thường 
 
+**Cấu trúc**:
+$$
+\text{Vている} + \text{ところです。}
+$$
+
+**Ví dụ**:
+
 > [!content]- <ruby>先生<rt>せんせい</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>ている**ところ**です。
 > Tôi **đang nói chuyện** với thầy giáo.
 
@@ -69,7 +83,17 @@ Nhấn mạnh hành động **đang diễn ra ngay thời điểm nói**.  Thư�
 > Bây giờ tôi **đang viết báo cáo**.
 
 ## Diễn tả một hành động vừa mới kết thúc
+
+^4de2a0
+
 Nhấn mạnh một hành động **vừa mới kết thúc xong**.
+
+**Cấu trúc**:
+$$
+\text{Vた} + \text{ところです。}
+$$
+
+**Ví dụ**:
 
 > [!content]- たった<ruby>今<rt>いま</rt></ruby>、<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>終<rt>お</rt></ruby>わったところです。
 > Tôi **vừa mới làm xong** bài tập.
@@ -80,8 +104,15 @@ Nhấn mạnh một hành động **vừa mới kết thúc xong**.
 ---
 
 # 🔓 Mở rộng ngữ pháp   
-## Dùng「～たところで」 để diễn tả sự vô ích
+## Diễn tả sự vô ích, bất lực
 Dùng khi muốn nói "dù có làm gì thì cũng vô ích, không có kết quả mong muốn".
+
+**Cấu trúc**:
+$$
+\text{Vた} + \text{ところで、～}
+$$
+
+**Ví dụ**:
 
 > [!content]- <ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったところで、<ruby>電車<rt>でんしゃ</rt></ruby>には<ruby>間<rt>ま</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>ない。
 > Dù bây giờ có chạy thì cũng không kịp tàu đâu.
@@ -89,8 +120,15 @@ Dùng khi muốn nói "dù có làm gì thì cũng vô ích, không có kết qu
 > [!content]- どんなに<ruby>頑張<rt>がんば</rt></ruby>ったところで、<ruby>結果<rt>けっか</rt></ruby>は<ruby>変<rt>か</rt></ruby>わらない。
 > Dù có cố gắng thế nào đi nữa thì kết quả cũng không thay đổi.
 
-## Nhấn mạnh sự chen ngang với 「～ているところを」
+## Nhấn mạnh sự chen ngang
 Dùng khi mô tả một hành động **đang diễn ra thì có một sự kiện khác xảy đến**.
+
+**Cấu trúc**:
+$$
+\text{Vている} + \text{ところを、～}
+$$
+
+**Ví dụ**:
 
 > [!content]- <ruby>勉強<rt>べんきょう</rt></ruby>しているところを、<ruby>母<rt>はは</rt></ruby>に<ruby>呼<rt>よ</rt></ruby>ばれた。
 > Tôi **đang học bài** thì bị mẹ gọi.

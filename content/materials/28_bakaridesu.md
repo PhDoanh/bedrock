@@ -1,9 +1,9 @@
 ---
 date: 2025-02-18
-draft: true
+draft: false
 status: Doing
 title: "28. ～ばかりです: Cảm thấy thời gian ngắn dù thực tế dài thì nói sao?"
-description: "Tìm hiểu ngữ pháp「～ばかりです」trong tiếng Nhật! Ngữ pháp này giúp bạn diễn đạt những hành động vừa mới xảy ra, sự tiếp diễn của một trạng thái hoặc sự lặp lại liên tục của một sự việc. Hãy khám phá cách dùng và ví dụ chi tiết ngay!"
+description: Tìm hiểu ngữ pháp「～ばかりです」trong tiếng Nhật! Ngữ pháp này giúp bạn diễn đạt những hành động vừa mới xảy ra, sự tiếp diễn của một trạng thái hoặc sự lặp lại liên tục của một sự việc. Hãy khám phá cách dùng và ví dụ chi tiết ngay!
 author: PhDoanh
 authorlink: https://github.com/PhDoanh
 tags:
@@ -15,7 +15,7 @@ tags:
   - minna-no-nihongo
 aliases:
   - bakaridesu
-cssclasses: 
+cssclasses:
   - img
   - btn
 ---
@@ -54,7 +54,7 @@ Ngữ pháp「～ばかりです」được sử dụng khi muốn nhấn mạnh
 
 **Cấu trúc**: 
 $$
-\text{Vた ＋ ばかりです}
+\text{Vた} + \text{ばかりです}
 $$
 
 **Ví dụ**:
@@ -71,9 +71,9 @@ $$
 Ngữ pháp「～ばかりです」còn được sử dụng để diễn đạt một trạng thái hoặc tình huống không có sự thay đổi, tiếp tục diễn ra theo cùng một chiều hướng.
 
 **Cấu trúc**:
-```
-Vる ＋ ばかりです
-```
+$$
+\text{Vる} + \text{ばかりです}
+$$
 
 **Ví dụ**:
 
@@ -87,9 +87,9 @@ Vる ＋ ばかりです
 Khi muốn diễn đạt một hành động cứ liên tục lặp đi lặp lại, ta cũng có thể sử dụng「～ばかりです」. Cách sử dụng này có ý nghĩa gần giống với「～てばかりいる」nhưng nhấn mạnh vào xu hướng hoặc thói quen xấu.
 
 **Cấu trúc**:
-```
-Vて ＋ ばかりです
-```
+$$
+\text{Vて} + \text{ばかりです}
+$$
 
 **Ví dụ**:
 
@@ -117,7 +117,7 @@ Vて ＋ ばかりです
 > - 「～ばかりです」 **không thể dùng cho các hành động hiển nhiên hoặc thường xuyên xảy ra**.
 
 > [!info] Ngữ pháp tương tự
-> - **「～たところ」**: Nhấn mạnh vào kết quả của hành động vừa mới hoàn thành. 
+> - **[[27_tokorodesu#^4de2a0|「～たところ」]]**: Nhấn mạnh vào kết quả của hành động vừa mới hoàn thành. 
 > - **「～てばかりいる」**: Nhấn mạnh việc chỉ làm một hành động mà không làm hành động khác. 
 > - **「～<ruby>一方<rt>いっぽう</rt></ruby>だ」**: Nhấn mạnh sự thay đổi liên tục theo một hướng nhất định.
 
