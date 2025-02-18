@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "oop-intro"
             }
+          },
+          {
+            "id": "5b09b393763daf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "draft"
+            }
+          },
+          {
+            "id": "fc3a52609773bbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/27_tokorodesu.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "27_tokorodesu"
+            }
+          },
+          {
+            "id": "9a9425490521cea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "materials/28_bakaridesu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "28_bakaridesu"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,12 +96,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -74,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materials/oop-intro.md",
+                "file": "materials/28_bakaridesu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of oop-intro"
+              "title": "Outline of 28_bakaridesu"
             }
           },
           {
@@ -219,13 +263,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e0c652275a52429d",
+  "active": "9a9425490521cea2",
   "lastOpenFiles": [
+    "materials/28_bakaridesu.md",
+    "materials/27_tokorodesu.md",
     "draft.md",
+    "materials/oop-intro.md",
+    "materials/nihongo-35.md",
+    "materials/nihongo-1.md",
+    "materials/24_sou.md",
     "materials/queue.md",
     "materials/stack.md",
     "TODOs.md",
-    "materials/oop-intro.md",
     "Chats/New Chat.md",
     "materials/maven.md",
     "templates/dsa.md",
@@ -242,12 +291,7 @@
     "materials/singly-linked-list.md",
     "materials/article-collaboration-guide.md",
     "index.md",
-    "materials/linked-list.md",
     "Chats",
-    "materials/case-studies.md",
-    "materials/professional-software-development.md",
-    "materials/software-engineering-ethics.md",
-    "materials/protocol-layers.md",
     "images/18_n-ni-simasu.png",
     "images/17_n-wo-niku-simasu.png",
     "images/16_yasui-nikui.png",
